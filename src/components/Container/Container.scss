@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@import "../../styles/variables";
+
+.container {
+    width: 100%;
+    padding: 0 $spacing-unit/2;
+    margin-right: auto;
+    margin-left: auto;
+
+    @media only screen and (min-width: $sm) {
+        padding: 0 $spacing-unit;
+        max-width: $sm;
+    }
+
+    @media only screen and (min-width: $md) {
+        max-width: $md;
+        padding: 0 $spacing-unit*2;
+    }
+
+    @media only screen and (min-width: $lg) {
+        max-width: $max-container-width;
+    }
+}
+
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}

@@ -1,0 +1,167 @@
+@charset "UTF-8";
+@import "../styles/normalize";
+@import "../styles/variables";
+@import "../styles/animation";
+
+html {
+    box-sizing: border-box;
+    overflow-y: scroll;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+*:before {
+    box-sizing: inherit;
+}
+
+*:after {
+    box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    font-family: $base-font-family;
+    font-weight: $base-font-weight;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    color: $text-color;
+    word-wrap: break-word;
+    font-kerning: normal;
+    -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+    -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+    -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+    font-feature-settings: "kern", "liga", "clig", "calt";  
+}
+
+button {
+    font-family: $base-font-family;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: middle;  
+}
+
+figure > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    font-size: $small-font-size;
+}
+  
+
+ul, ol {
+    margin-left: $spacing-unit;
+}
+  
+li {
+    > ul,
+    > ol,
+    > p {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
+
+a {
+    color: $link-color;
+    text-decoration: none;
+    word-wrap: break-word;
+  
+    &:hover {
+        color: darken($link-color, 15%);
+        text-decoration: underline;
+    }
+}
+
+%clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.clearfix {
+    @extend %clearfix;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;  
+    width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+table tr {
+    background-color: #fff;
+    border-top: 1px solid #c6cbd1;
+}
+
+table th {
+    font-weight: 600;
+    text-align: left;
+}
+
+table th, table td {
+    padding: 6px 13px;
+    border: 1px solid #dfe2e5;
+}
+
+table tr:nth-child(2n) {
+    background-color: #f6f8fa;
+}
+
+pre,
+code {
+  font-size: 0.97em;
+  background-color: #f6f8fa;
+  border: 1px solid #f6f8fa;
+  border-radius: 3px;
+}
+
+code {
+  padding: 1px 5px;
+  word-wrap: break-word;
+}
+
+pre {
+  padding: 24px 20px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+blockquote {
+    border-left: 6px solid $brand-color;
+    padding-left: $spacing-unit / 2;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    line-height: 1.8;
+}

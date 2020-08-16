@@ -1,0 +1,52 @@
+@import "../../styles/variables";
+
+.post-list {
+    padding-top: 3em;
+    animation: slideUp $animation-delay;
+
+    @media screen and (min-width: $xs) {
+        margin-left: -$spacing-unit/2;
+        margin-right: -$spacing-unit/2;    
+    }
+
+    @media screen and (min-width: $md) {
+        margin-left: -$spacing-unit;
+        margin-right: -$spacing-unit;    
+    }
+}
+
+.post-list:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.post-list .post-item {
+    width: 100%;
+    margin-bottom: 3em;    
+}
+
+.post-item.post-item-one-half, .post-item.post-item-one-third {
+    @media screen and (min-width: $xs) {
+            padding-left: $spacing-unit/2;
+            padding-right: $spacing-unit/2;
+            width: 50%;
+            float: left;
+    }
+
+    @media screen and (min-width: $md) {
+        padding-left: $spacing-unit;
+        padding-right: $spacing-unit;
+    }
+}
+
+.post-item.post-item-one-third {
+    @media screen and (min-width: $lg) {
+        width: 33.33%;
+    }
+}
+
+.post-list .post-banner {
+    clear: both;
+    width: 100%;
+}

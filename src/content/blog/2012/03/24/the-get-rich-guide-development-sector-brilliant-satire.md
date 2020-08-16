@@ -1,0 +1,45 @@
+---
+title: "The Get Rich Guide for the Development Sector – a brilliant satire!"
+date: '2012-03-24T06:25:50+00:00'
+status: publish
+permalink: /2012/03/24/the-get-rich-guide-development-sector-brilliant-satire
+author: vishy
+description: ''
+type: post
+id: 878
+categories:
+    - General
+tags:
+    - 'ajit chaudhury'
+    - corruption
+    - 'design pattern'
+    - 'development sector'
+    - 'get rich guide'
+    - ngo
+    - satire
+    - 'un job'
+post_format: []
+dsq_thread_id:
+    - '622588586'
+---
+<figure aria-describedby="caption-attachment-880" class="wp-caption alignleft" id="attachment_880" style="width: 211px">
+
+[![](../../../../uploads/2012/03/ngo_get_rich_guide_pic.jpeg "ngo_get_rich_guide_pic")](../../../../uploads/2012/03/ngo_get_rich_guide_pic.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-880">Pic: courtesy newdelhi.olx.in</figcaption></figure>
+
+Every now and then, we hear about corruption in the NGO sector. During the ebb and flow of the Anna Hazare (India Against Corruption) agitation, the UPA government’s handlers issued sound bites that they’d like to bring NGOs and corporations under the ambit of the Lok Pal. When I talk to social entrepreneurs about corruption among NGOs, the most common comment is along these lines – *“90% of NGOs are corrupt. But the 10% that are NOT, are doing great work!”*
+
+Last week, a friend forwarded Ajit Chaudhury’s take on this topic. In a Sep 2009 post, [The Get Rich Guide for the Development Sector](http://theintelligentwomanstoyboy.blogspot.fr/2009/09/get-rich-guide.html), Chaudhury launches a brilliant satire. I’ve organized the essence of his post into 13 axioms — I reckon these could be turned into a “Design patterns of NGO corruption” cheat sheet.
+
+1. <span style="text-decoration: underline;">Start your own NGO</span>: The Trusts Act is structured so that the NGO and all its assets are in effect the property of its owner (in legal parlance, the settler) – which is why no matter how many UN jobs with tax free dollar salaries are dangled in front of their faces, NGO bosses never leave.
+2. Be sure to pack the governing body with friends and relatives.
+3. Have one ‘name’ there as well – someone from within the sector who sits in a lot of governing boards and contributes to none of them.
+4. Get one of your adult children in as second line management cum inheritor of the organisation, and ensure that s/he uses a different surname – Kumar is the surname of choice for boss’ children cum Deputy Directors.
+5. <span style="text-decoration: underline;">Work the donor circuit</span>: Speak English, practise that wearied sigh that combines exasperation and hope, and focus conversation on the misdeeds of the government. Nod appreciatively when donors describe their philosophies and policies, and commend their wisdom. Be suitably obsequious, and do not hesitate to equate their views with those of Einstein and/or Keynes. Ply them with bullshit about having followed your inner calling to work with the poor instead of joining the corporate sector.
+6. Do not ever get drawn into topics such as – if you have spent twenty years working here (and used lots of money in the process), why is it that the tribal/dalit/woman/child/farmer/whatever is in the same situation as when you began. And do not forget – these people tend to equate tailoring and table manners with intelligence and integrity.
+7. <span style="text-decoration: underline;">Overstate and underpay salaries</span>: Most grants have money for salaries. Have fictitious employees earning fat salaries (who taught this to Satyam?), pay those who do exist less than the amount budgeted and pocket the differential, and hey presto, about 70 percent of the salary component of the grant can be in your pocket. If you are queried, say that it was towards a staff welfare fund that will enable the organisation to pay salaries when project funds are not available. Or, that you are forced to pay ‘tax’ to the Maoists. Some staff members are vocal about not liking it? Kick them out!
+8. <span style="text-decoration: underline;">Get into revolving funds</span>: This money is given to you to pass on as loans to beneficiaries who pay it back so that it can be passed on as loans again to a new set of people and so on, therefore revolving. Sell the concept to donors as enabling the money to ‘macro-benefit’. The beauty of this is that, when it is first returned, it can revolve into your pocket. You can even apply the concept to all money provided for activities. For example, you have raised funds to provide goats to people. Buy the goats, and thereby book the expenditure, but pass them on as a loan or at half payment. Ensure that the beneficiaries are willing colluders so that, when the donor comes, there are goats, grateful faces and no mention of payment or loans. If caught, make an argument combining concepts of neo-liberalism, community institution building, and the enhanced value people ascribe to a product when they pay something for it.
+9. <span style="text-decoration: underline;">Use multiple funds</span>: Get many donors to support the same thing. That community water tank could have been bought with X’s money or Y’s, who is to know. Vouchers can be easily relocated from one donor’s file to another (you have to ensure that you avoid the practise of marking the voucher as pertaining to a particular donor). And temporary signage expressing the community’s gratefulness to X can be easily organised. The donor wants permanent signage, such as a marble slab built into the wall? Express your concern at the trend of donors acquiring cheap publicity for themselves.
+10. <span style="text-decoration: underline;">Enable over-invoicing via empowerment</span>: This business of schools, hospitals, water tanks, goats, etc., requires someone to do some work. The beauty of the ‘rights mode’ approach is that nobody has to do anything – you merely have to organise people to demand services from the government by having meetings. Budgeting for meetings is easy, so many people into so much per person for food, transportation, and lodging. There is no way for the donor to check whether you actually held the meetings and, if you did, how many people actually came and how much was actually spent on food. Ensure that you maintain a book containing unintelligible minutes in some local language followed by a series of thumbprints. And don’t worry, this is not expected to show results – nobody seriously believes that the government does things because some NGO organises people.
+11. <span style="text-decoration: underline;">Get your assets to work for you</span>: You have (oops, read as ‘your NGO has’) a nice SUV, office and training centre. Get these to generate funds by hiring them out to projects at a price that, as both the client and the service provider, you decide. And yes, build in a fat budget within the grant for training hall hire and transportation. Take this concept a step further by building in a huge consulting fee for experts and use this to pay yourself. You are caught? Say that you are not paid a salary from the project, but as it does absorb considerable amounts of your time and draws on your expertise you do need to be compensated in some way, and at a rate that the UN would have paid had they sent you to New York to take over as Secretary General.
+12. <span style="text-decoration: underline;">Take up pimping</span>: When you get tired of all the small time wheeling and dealing described above, you can consider the next stage in the hierarchy – the middleman. Donors want to work in poor areas, but don’t have the ability and the systems to do so. Offer services as a ‘resource organisation’, wherein your NGO does the unpleasant work of identifying NGOs and projects, monitoring them, providing training and expertise, and enabling the work to synergise at the district/state/national level. Ensure that this involves the pleasant work of receiving the funds and routing it to small time operators at a 25 percent operational charge and an additional bottom-up kickback.
+13. <span style="text-decoration: underline;">Become a Guru</span>! How long can this last? There is a saying – you can fool one person all the time, or you can fool all the people once, but you can’t fool all the people all the time. The development sector does not provide an exception. But herein lies the beauty of the system. Once you are revealed for what you are, with nice cars, jazzy properties, kids in expensive schools and colleges, latest communication equipment, etc., while undertaking poverty alleviation work on a token salary so as to ‘feel the pain of the poor’ – donors will flock to you for more of the same. You can increase the above activities fourfold while hitting the development conference circuit as a motivational speaker and receiving awards for your services to the poor.

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+$base-font-size:   16px !default;
+$base-font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
+$base-font-weight: 400 !default;
+$base-line-height: 1.7 !default;
+
+$small-font-size: $base-font-size * 0.875 !default;
+$spacing-unit:     30px !default;
+$text-color:       rgba(0,0,0,.87) !default;
+$brand-color:      #08b27f !default;
+$link-color:       #419be8 !default;
+
+$header-height: 60px;
+$max-container-width: 1360px;
+$max-content-width: 1000px;
+
+$animation-delay: 300ms;
+
+$facebook-bg-color: #3B5997;
+$twitter-bg-color:  #00aced;
+$linkedin-bg-color: #0074A1;
+$pinterest-bg-color: #bd081c;
+$reddit-bg-color: #ff4500;
+
+
+$xl: 1400px !default;
+$lg: 1200px !default;
+$md: 992px !default;
+$sm: 768px !default;
+$tb: 600px !default;
+$xs: 480px !default;

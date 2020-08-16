@@ -1,0 +1,142 @@
+@import "../../styles/variables";
+
+.page-content {
+    margin-bottom: 2em;
+}
+
+.page-header {
+    position: relative;
+}
+
+.page-header-text {
+    position: relative;
+}
+
+.page-header-title {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    font-size: 2.25rem;
+    line-height: 1.2;
+    letter-spacing: 0.00625em;
+    animation: slideUp $animation-delay;    
+
+    @media only screen and (min-width: $sm) {
+        margin-bottom: 2rem;
+        font-size: 3rem;
+    }
+
+    @media only screen and (min-width: $md) {
+        font-size: 4rem;
+    }
+} 
+
+.page-header-link {
+    color: inherit;
+    text-decoration: none;    
+}
+
+.page-header-author, .page-header-reading-time {
+    display: inline-block;
+    color: #8A8B8C;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    animation: slideUp $animation-delay;    
+
+    @media only screen and (min-width: $sm) {
+        font-size: 1rem;
+    }
+}
+
+.page-header-author:before {
+    content: "by";
+    display: inline-block;
+    color: #1B292A;
+    margin-right: 0.5em;
+    font-style: italic;
+    text-transform: lowercase;
+    letter-spacing: 0;    
+}
+
+.page-header-author:after {
+    content: "·";
+    display: inline-block;
+    color: #1B292A;
+    margin-left: 0.5em;
+    margin-right: 0.25em;    
+}
+
+.page-body {
+    width: 100%;
+    animation: slideUp $animation-delay + 100ms;    
+}
+
+.page-body {
+    font-size: 1rem;    
+
+    @media screen and (min-width: $sm) {
+        font-size: 1.15rem;
+    }
+}
+
+.page-body h2 {
+    margin: 1.5rem 0 0.4rem 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: 0.00625rem;
+
+    @media only screen and (min-width: $sm) {
+        font-size: 2rem;
+    }
+}
+
+.page-body h3 {
+    margin: 1.5rem 0 0.4rem 0;
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.00625rem;
+
+    @media only screen and (min-width: $sm) {
+        font-size: 1.6rem;
+    }
+}
+
+.page-body h4 {
+    margin: 1.5rem 0 0.4rem 0;
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.00625rem;
+
+    @media only screen and (min-width: $sm) {
+        font-size: 1.3rem;
+    }
+}
+
+.page-body h5 {
+    margin: 1.5rem 0 0.4rem 0;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.00625rem;
+
+    @media only screen and (min-width: $sm) {
+        font-size: 1.1rem;
+    }
+}
+
+.page-body h6 {
+    margin: 1.5rem 0 0.4rem 0;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.00625rem;
+}
+
+.heading-anchor {
+    margin-left: -23px;
+    margin-top: -3px;
+    vertical-align: middle;
+}

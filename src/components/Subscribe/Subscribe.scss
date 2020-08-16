@@ -1,0 +1,82 @@
+@import "../../styles/variables";
+
+.subscription-card {
+    position: relative;
+    width: 100%;
+    border: 1px solid #E8E9EA;
+    background-color: #FFFFFF;
+    box-shadow: 0 0.5em 2em rgba(27,41,42,0.0625);
+    border-radius: 0.25em;
+    padding: 1.5rem;    
+    margin-bottom: 3rem;
+}
+
+.subscription-card .card-title {
+    padding-top: 0;
+    margin-top: 0;
+    line-height: 1.4em;
+    font-size: 1.2em;
+}
+
+.subscription-card .form-item {
+    margin-bottom: $spacing-unit/2;
+}
+
+.subscription-card .form-control {
+    position: relative;
+    padding: 15px 15px;
+    width: 100%;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: $text-color;
+    background-color: #fff;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    transition: all .3s;
+    box-shadow: 0 0.5em 2em rgba(27,41,42,0.08);
+    height: 42px;
+    outline: 0;
+
+    &:hover {
+        border-color: $link-color;
+        box-shadow: 0 1em 2em rgba(27,41,42,0.08);
+    }
+
+    &:focus {
+        border-color: $link-color;
+        box-shadow: 0 1em 2em rgba(27,41,42,0.08), 0 0 0 3px rgba(24,144,255,0.2);
+    }
+}
+
+.subscription-card .form-control::placeholder {
+    color: rgba(0, 0, 0, 0.45);
+}
+
+
+.subscription-card .card-btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 0.7rem 0;
+    color: #FFFFFF;
+    border-radius: 0.25rem;
+    border: 1px solid $brand-color;
+    background-color: $brand-color;
+    text-decoration: none;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    outline: none;
+}
+
+.subscription-card .card-btn:disabled {
+    opacity: 0.7;
+}
+
+
+.subscription-card .card-description {
+    color: $brand-color;
+    font-size: 0.8rem;
+    line-height: 1rem;
+}

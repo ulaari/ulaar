@@ -1,0 +1,27 @@
+@import '../../styles/variables';
+
+.page-social {
+    position: fixed;
+    top: 0;
+    display: none;
+    width: 2em;
+    padding-top: $header-height + $spacing-unit + 10;
+    margin-left: -4em;
+    color: black;
+    animation: slideUp $animation-delay;
+
+    @media only screen and (min-width: ($xl)) {
+        display: block;
+    }
+}
+
+.page-social-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.page-social-item {
+    text-align: center;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,39 @@
+@import "../../styles/variables";
+
+.page-not-found {
+    min-height: calc(100vh - 325px);
+}
+
+.page-not-found-content {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 60px 40px;
+    border: 1px solid #f2f2f2; 
+    text-align: center;   
+    box-shadow: 0 0.5em 2em rgba(27, 41, 42, 0.0625);
+    animation: slideUp $animation-delay;    
+}
+
+.page-not-found .title {
+    font-size: 50px;
+    letter-spacing: 10px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.page-not-found .desc {
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+}
+
+.go-back-btn {
+    min-width: 160px;
+    border: none;
+    border-radius: 2px;
+    background-color: $brand-color;
+    color: #fff;
+    padding: 0 20px;
+    height: 40px;
+    line-height: 40px;
+}

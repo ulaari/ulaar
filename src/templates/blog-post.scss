@@ -1,0 +1,28 @@
+@import "../styles/variables";
+
+.blog-main-content {
+    padding-top: 3em;
+}
+
+.blog-main-content .primary-content {
+    width: 100%;
+    margin: 0 auto;
+
+    @media screen and (min-width: $lg) {
+        width: 72%;
+        padding-right: $spacing-unit/2;
+        float: left;
+    }
+}
+
+.blog-main-content .secondary-content {
+    width: 100%;
+    animation: slideUp $animation-delay + 100ms;
+
+    @media screen and (min-width: $lg) {
+        display: block;
+        width: 28%;
+        float: left;
+        padding-left: $spacing-unit/2;
+    }
+}
