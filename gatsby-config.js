@@ -13,10 +13,10 @@ module.exports = {
       linkedin: `vishykuruganti`,
       facebook: `ulaar`
     },
-    disqusShortname: 'ulaar-1',
+    disqusShortname: 'ulaar',
     image: `src/assets/gatsby-icon.png`,
-    cseId: `014135517967479897858:j0mafjwon0z`,
-    mailchimpEndpoint: `https://techsangam.us10.list-manage.com/subscribe/post?u=cc2dfc32d8c7a0ecc70f20f55&amp;id=09daff5f5d`
+    cseId: `b886bf4fcf495dcf3:j0mafjwon0z`,
+    mailchimpEndpoint: `https://yahoo.us17.list-manage.com/subscribe/post?u=57608fc397dda00d9b560ca89&amp;id=2e459fa602`
   },
   plugins: [
     {
@@ -72,7 +72,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-170219602-1",
+        trackingId: "UA-170219602-2",
       },
     },
     {
