@@ -32,7 +32,8 @@
     backface-visibility: hidden;
     transition: -webkit-transform 300ms ease-in-out;
     transition: transform 300ms ease-in-out;
-    transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out;    
+    transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out;
+    max-height: 110px;
 }
 
 .post-card-hr:hover  .card-image {

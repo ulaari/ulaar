@@ -20,6 +20,23 @@
     transition: -webkit-transform 300ms ease-in-out;
     transition: transform 300ms ease-in-out;
     transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out;    
+
+    max-height: 250px;
+    @media screen and (min-width: $xs) {
+        max-height: 180px;
+    }
+
+    @media screen and (min-width: $sm) {
+        max-height: 240px;
+    }
+
+    @media screen and (min-width: $md) {
+        max-height: 300px;
+    }
+
+    @media screen and (min-width: $lg) {
+        max-height: 340px;
+    }
 }
 
 .post-card:hover  .card-image {

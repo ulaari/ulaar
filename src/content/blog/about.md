@@ -1,38 +1,22 @@
 ---
 title: About
-date: '2010-11-04T08:17:14+00:00'
+date: '2008-02-06T23:44:04+05:30'
 status: publish
 permalink: /about
-author: admin
+author: vishy
 description: ''
 type: page
-id: 5
-dsq_thread_id:
-    - '267457519'
-    - '267457519'
-s2mail:
-    - 'yes'
-    - 'yes'
-aktt_notify_twitter:
-    - 'no'
-    - 'no'
-seo_noindex:
-    - 'false'
-    - 'false'
+id: 1302
 seo_follow:
     - 'false'
+seo_noindex:
     - 'false'
 ---
+History of the uLaaR blog:
 
-**About Blog**
-
-This blog was started to chronicle the year-long sabbatical of the blogger as he sought to understand the fascinating world of social enterprises. The May 2011 post ([Boiling the social enterprise ocean](https://www.techsangam.com/2011/05/17/boiling-the-social-enterprise-ocean/)) provides a slice into the kind of social enterprises TechSangam would be covering. Categories of focus include agriculture, rural markets, financial inclusion, education, health, rural tourism, water, sanitation, and off-grid energy. Inspiration for this blog came from Arthur C. Clarke’s [Childhood's End](http://www.techsangam.com/2011/03/11/evolution-of-the-human-race-3/). 
-
-The blog inexorably lost some steam as the sabbatical reached a [logical end](https://www.techsangam.com/2013/08/18/a-different-kind-of-indian-city/). A pivotal epiphany in this blog's journey was shared in Sep 2016 - [Dropping the social in social entrepreneur](https://www.techsangam.com/2016/09/07/dropping-the-social-in-social-entrepreneur/).
-
-**About Blogger**
-
-On Twitter, he describes himself as *Runner. Squasher. Imperfect Vegan. Kaizenly minimalist. Officially @gojektech. Occasionally blog at http://ulaar.com & @TechSangam*. If you are curious about his career trajectory, prepare to [yawn](https://www.linkedin.com/in/vishykuruganti/). A less boring (maybe?) geneological backdrop can be found [here](http://www.ulaar.com/2010/04/03/changing-mobility-of-four-generations-of-kurugantis/).
-
-
-
+- Started on Feb 6, 2008 with [Etymology of ulaar](http://www.ulaar.com/2008/02/22/etymology-of-ulaar/) and [A time to Qik](http://www.ulaar.com/2008/02/07/a-time-to-qik/)
+- Between May 2008 and 2010, the blog was largely focused on the “Return to India” theme with posts such as [this](http://www.ulaar.com/2008/05/20/16-years-later/), [this](http://www.ulaar.com/2008/08/29/asthma-bangalore-and-me/) and this; “setting down in India” posts like [100 days in Bangalore](http://ulaar.wordpress.com/2008/12/14/100-days-in-bangalore-part1/) and [The Janus Man](http://www.ulaar.com/2009/07/17/the-janus-man/).
+- Guest posts in 2010-11 in the [R2I Voices](http://www.ulaar.com/category/r2i-2/r2ia-voices/) category
+- The running theme made a splashy entrance with a detailed account of [Mumbai Marathon 2010](http://www.ulaar.com/2010/01/28/my-road-to-mumbai-marathon-2010/). I think it’s safe to admit that Long Distance Running has remained the dominant theme of this blog.
+- Barefoot running, as a sub-genre, burst on to this blog in Jun 2012 with [It’s all a vast upper body conspiracy](http://www.ulaar.com/2012/06/14/its-all-a-vast-upper-body-conspiracy/) and there’s been no looking back on [Barefootia](http://www.ulaar.com/category/barefootia-2/).
+- Minimalism, [vegan life](http://www.ulaar.com/category/vegan-life/), and [food ](http://www.ulaar.com/category/food-2/)have been more recent focus areas.

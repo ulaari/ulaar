@@ -1,0 +1,5 @@
+# Category Link Redirect
+/category/* /categories/:splat
+
+# Tag Link Redirect
+/tag/* /tags/:splat

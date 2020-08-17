@@ -1,19 +1,19 @@
 module.exports = {
   siteMetadata: {
-    name: `TechSangam`,
-    title: `TechSangam`,
-    titleTemplate: '%s | TechSangam',
+    name: `uLaaR`,
+    title: `uLaaR`,
+    titleTemplate: '%s | uLaaR',
     author: {
       name: `Vishy Kuruganti`
     },
-    description: `Social entreprises. Impact Investing. India`,
-    siteUrl: `https://www.techsangam.com`,
+    description: `Popping the thought stack in near-real-time`,
+    siteUrl: `https://www.ulaar.com`,
     social: {
       twitter: `ulaar`,
       linkedin: `vishykuruganti`,
       facebook: `ulaar`
     },
-    disqusShortname: 'techsangam-1',
+    disqusShortname: 'ulaar-1',
     image: `src/assets/gatsby-icon.png`,
     cseId: `014135517967479897858:j0mafjwon0z`,
     mailchimpEndpoint: `https://techsangam.us10.list-manage.com/subscribe/post?u=cc2dfc32d8c7a0ecc70f20f55&amp;id=09daff5f5d`

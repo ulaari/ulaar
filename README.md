@@ -5,8 +5,40 @@
   </a>
 </p>
 <h1 align="center">
-  TechSangam
+  Ulaar
 </h1>
+
+## Setup
+
+* Create a custom search ID in [Google custom search](https://cse.google.co.in/cse/all). And set the `cseId` value in `gatsby-config.js`:
+
+  ```
+  cseId: `{Custom Search ID}`
+  ```
+
+* Add the website in Disqus. And set the `disqusShortname` value in `gatsby-config.js`:
+
+  ```
+  disqusShortname: `{Disqus Shortname}`
+  ```
+
+* Create a new list in Mailchimp and add the `mailchimpEndpoint` in `gatsby-config.js`
+
+  ```
+  mailchimpEndpoint: `Mailchimp Endpoint`
+  ```
+
+* Add the website in Google analytics and set the tracking ID in `gatsby-config.js`
+
+  ```
+  {
+    resolve: `gatsby-plugin-google-analytics`,
+    options: {
+      trackingId: "{Google Analytics Tracking ID}",
+    },
+  }
+  ```
+
 
 ## 🚀 Quick start
 
@@ -15,7 +47,7 @@
     Navigate into the site’s directory and start it up.
 
     ```shell
-    cd techsangam/
+    cd ulaar/
     gatsby develop
     ```
 
