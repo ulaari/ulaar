@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3269
-featured_image: ../../../../uploads/2020/11/OmnivoresDilemma_full.jpg
+featured_image: ../../../../uploads/2020/08/OmnivoresDilemma_full.jpg
 categories: 
     - Desires
     - Food

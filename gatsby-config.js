@@ -15,7 +15,7 @@ module.exports = {
     },
     disqusShortname: 'ulaar',
     image: `src/assets/gatsby-icon.png`,
-    cseId: `b886bf4fcf495dcf3`,
+    cseId: `a62bdf165371b3950`,
     mailchimpEndpoint: `https://yahoo.us17.list-manage.com/subscribe/post?u=57608fc397dda00d9b560ca89&amp;id=2e459fa602`
   },
   plugins: [

@@ -82,3 +82,6 @@ A: Here’s our top 3:
 - Privacy and coziness – I miss the privacy and coziness that comes with being just the 4 of us. I hope we will get this back once we move into our own home (we are still not there yet)
 - Dependence: The Indian society is very tightly knit and how smooth our life is depends on the contacts we have. With this, comes some amount of dependence and unpredictability. I miss being able to drive down to the grocery shop. Since I am still not comfortable driving in India, I have to wait for some driver to grace us before I can step out.
 - Streamlined day to day – In general, life in US is pretty streamlined and after the initial settling down and figuring out, our day to day was pretty streamlined and we were pretty confident with how to get things done. On the flip side, either because we are still not over the initial settling phase or perhaps this is just the way it is, there are very few things that are clearly streamlined here. Each time we seem to be using a different process or contact to get things done.
+
+-------------
+Closing note: Turns out the Gullpallis have recently executed an R2I2A - here's her [post](https://our-returnticket.blogspot.com/2020/08/life-happening-career-kids-and-indian.html) describing that.
