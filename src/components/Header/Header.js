@@ -89,7 +89,7 @@ class Header extends React.Component {
                        ref={this.searchBoxRef} 
                        id="cse-search-input-box-id" 
                        autoComplete="off" 
-                       placeholder="Search TechSangam"
+                       placeholder="Search uLaar"
                        value={this.state.searchTerm} 
                        onChange={this.handleSearchInput} />
                 <button type="button" className="search-submit">
