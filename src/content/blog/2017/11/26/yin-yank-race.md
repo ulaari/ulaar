@@ -38,7 +38,11 @@ Several friends ran the inaugural race (3 categories: 50k, 80k, and 110k) and re
 
 **Preparation**
 
-<figure aria-describedby="caption-attachment-3558" class="wp-caption alignleft" id="attachment_3558" style="width: 225px">![](../../../../uploads/2017/11/koehner_plan_50m_with_medal.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3558">Koehner plan redefined. Plan #s in miles, actuals in km, delta on right</figcaption></figure>
+<figure aria-describedby="caption-attachment-3558" class="wp-caption alignleft" id="attachment_3558" style="width: 225px">
+
+![](../../../../uploads/2017/11/koehner_plan_50m_with_medal.jpg)
+
+<figcaption class="wp-caption-text" id="caption-attachment-3558">Koehner plan redefined. Plan #s in miles, actuals in km, delta on right</figcaption></figure>
 
 About 10 weeks before race day (Oct 8), I decided that I wasn’t just going to ‘wing’ it. Considering the race venue, the beautiful trail, scary elevation, and only two race sign ups this year, I wanted to put my best feet/lungs/heart forward.
 

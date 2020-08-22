@@ -16,7 +16,10 @@ tags:
     - 'nike running club'
 post_format: []
 ---
-<figure class="wp-block-image size-large">![](../../../../uploads/2020/01/Screen-Shot-2020-01-02-at-10.06.15-PM.png)<figcaption>Literal translation: immersion; used most commonly in context of idols immersion</figcaption></figure>My last decade of running can be classified into 3 phases:
+<figure class="wp-block-image size-large">
+
+![](../../../../uploads/2020/01/Screen-Shot-2020-01-02-at-10.06.15-PM.png)
+<figcaption>Literal translation: immersion; used most commonly in context of idols immersion</figcaption></figure>My last decade of running can be classified into 3 phases:
 
 - Garmin Forerunner 310 with data being logged religiously on [RunningAHEAD](https://www.runningahead.com/), chosen for their non-social DNA
 - Plain-old digital watch (borrowed Garmin for occasional races)
