@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 12
+featured_image: ../../../../uploads/2008/05/indiamap_cwc_nic_in.jpeg
 categories: 
     - R2I
 tags:
@@ -57,9 +58,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1656" class="wp-caption alignleft" id="attachment_1656" style="width: 205px">
-
-[![](../../../../uploads/2008/05/indiamap_cwc_nic_in.jpeg "indiamap_cwc_nic_in")](http://www.ulaar.com/wp-content/uploads/2008/05/indiamap_cwc_nic_in.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1656">Pic: courtesy cwc.nic.in</figcaption></figure>
 
 So we are moving to India but to which city? For better or worse, the list of candidate cities is fairly small.  
 Before we get into discussing the merits and demerits of each city, let me outline the key *V+P criteria* (V=Vishy, P=Poonam) in evaluating the candidate Indian cities. In no particular order, here are the criteria:

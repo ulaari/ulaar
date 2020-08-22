@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 10
+featured_image: ../../../../uploads/2008/05/houston_downtownskyline_dusk.jpg
 categories: 
     - R2I
 tags:
@@ -50,9 +51,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1652" class="wp-caption alignleft" id="attachment_1652" style="width: 275px">
-
-[![](../../../../uploads/2008/05/flights_camino.jpeg "flights_camino")](http://www.ulaar.com/wp-content/uploads/2008/05/flights_camino.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1652">Pic: courtesy caminodesantiago.me</figcaption></figure>
 
 16 years? Well – to be more precise 15 years, 9 months &amp; 5 days since I came to America from India. Chasing the American Dream I came.. first to the University of Houston to pursue an MS in Computer Science. Two quick years later, fate played a role in whisking me off to Chicago (&amp; not San Francisco Bay Area). I had resolved to drive to SF Bay Area if I didn’t find a job within 30 days of graduating.
 

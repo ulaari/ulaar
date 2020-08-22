@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3432
+featured_image: ../../../../uploads/2017/03/IMG_20170224_182012.jpg
 categories: 
     - Amma
     - Life

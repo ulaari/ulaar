@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3298
+featured_image: ../../../../uploads/2016/10/parents_wedding_studio_pic_IMG_20161017_221258.jpg
 categories: 
     - Amma
     - Life
@@ -25,9 +26,6 @@ My dear loving ones,
 
 Some interesting flashback. I just finished my final B.A. exams. My *ammakkayya*, her daughter (Satyavati *akkayya*), and her family visited us for vacation in Jun 1962. *Ammakkayya* stayed back and others went back to Guntur. Satyavati *akkayya* sent Nanna’s match on Savitri *ammumma’s* suggestion. Communication went on between both the *tatayyas*. It was decided that *pellichoopulu* will take place in Tenali where my grandfather was staying with Viswapati *babai*. The three of us (*Tatayya*, Ammumma &amp; I) along with *ammakkayya* started for Tenali. Kakki had to stay back with our neighbours as her 11<sup>th</sup> standard classes had started.
 
-<figure aria-describedby="caption-attachment-3300" class="wp-caption alignleft" id="attachment_3300" style="width: 225px">
-
-[![Post-marriage studio pic in Guntur](../../../../uploads/2016/10/parents_wedding_studio_pic_IMG_20161017_221258.jpg)](http://www.ulaar.com/2016/10/18/a-marriage-in-the-winter-of-1962/parents_wedding_studio_pic_img_20161017_221258/)<figcaption class="wp-caption-text" id="caption-attachment-3300">Post-marriage studio pic in Guntur</figcaption></figure>
 
 We halted in Madras at my *mavayya’s* house. All five elders discussed the match. My father was not that happy about *Nanna’s* complexion. My *athayya* expressed her view that if both the couple are short, children also will be short. My *mavayya* and *ammakkayya* had made the final decision: All the other things (raised by people) are petty, the boy is qualified and *buddhimantudu,* family is well known etc etc. I think my mind was set without knowing myself. We three proceeded to Tenali.
 

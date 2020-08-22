@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1303
+featured_image: ../../../../uploads/2008/02/palm_pilot_5000_maximumpc_com.jpeg
 categories: 
     - Random
 tags:

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3503
+featured_image: ../../../../uploads/2017/07/Sringeritemple.jpg
 categories: 
     - Amma
     - Life

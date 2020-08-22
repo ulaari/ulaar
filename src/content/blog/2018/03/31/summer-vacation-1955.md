@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3771
+featured_image: ../../../../uploads/2018/03/2004082300960601.jpg
 categories: 
     - Amma
 tags:
@@ -48,7 +49,7 @@ My cousins used to learn dancing. It was a serious business, complete with prope
 
 We spent a number of vacations with my *Mavayya’s* family including a Ganesh pooja where allrounder Bharati did everything. Those were unforgettable days. I will write about Vijayawada in my next episode.
 
-**Part 2 (Vijawada)**
+**Part 2 (Vijayawada)**
 
 Dear ones,
 

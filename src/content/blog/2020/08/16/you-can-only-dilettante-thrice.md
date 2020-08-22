@@ -88,7 +88,7 @@ My final months were a faithful grinding attempt at (maybe) _Living in the Past_
 
 ------------------------------
 
-A weekend music workshop at the Old Town Schoo kindled an interest in (arguably) the oldest wind blown instrument known to man – the Australian didgeridoo. The word “didgeridoo” is an _onomatopoeia_ made up by the first British colonists. A more appropriate term (although hardly known in pop culture circles) is _yidaki_, which is one of the more common official aboriginal names for the instrument.
+A weekend music workshop at the Old Town School kindled an interest in (arguably) the oldest wind blown instrument known to man – the Australian didgeridoo. The word “didgeridoo” is an _onomatopoeia_ made up by the first British colonists. A more appropriate term (although hardly known in pop culture circles) is _yidaki_, which is one of the more common official aboriginal names for the instrument.
 
 I was not a minimalist then but the fact that the didgeridoo was just a branch of a eucalyptus tree (hollowed-out by termites) and that the elemental drone would be produced just by vibrating lips greatly appealed to me. 
 
