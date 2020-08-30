@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2829
+featured_image: ../../../../uploads/2014/01/jeans_denim.jpg
 categories: 
     - Habits
     - Life
@@ -26,7 +27,7 @@ seo_noindex:
 sidebar_position:
     - as_blog
 ---
-[![jeans_denim](../../../../uploads/2014/01/jeans_denim.jpg)](http://www.ulaar.com/wp-content/uploads/2014/01/jeans_denim.jpg)The TJTS man drove a small car. Actually a very small car. A car described by his wife as “a kid’s toy car being driven even after he grew up”.
+The TJTS man drove a small car. Actually a very small car. A car described by his wife as “a kid’s toy car being driven even after he grew up”.
 
 The TJTS man liked his small car. He didn’t mind the stares, smiles and weird looks he frequently got at traffic lights. He didn’t know it then but it was the starting point of a strange growing obsession with mimimalism.
 
@@ -54,7 +55,7 @@ It wasn’t an impressive wardrobe by any stretch of imagination. There were clo
 
 As he surveyed the motley collection, he looked most fondly at his two pairs of jeans. Does a man need more than two pairs of jeans, he wondered? Maybe a few tee-shirts. How many?
 
-An idea formed in his head. He’d rotate the two pairs of jeans every alternate week. Five workdays for two weeks meant he needed ten shirts (or tee shirts) for the ten days. He had stopped wearing formal shirts so the ten would have to come from his tee shirt collection. He quickly picked his best ten tees (some with collars also thrown in) and created a pile of workday wear. Everything else (sans his DriFit tees and a few formals) were moved to the shelf earmarked for’giving away to Goonj.
+An idea formed in his head. He’d rotate the two pairs of jeans every alternate week. Five workdays for two weeks meant he needed ten shirts (or tee shirts) for the ten days. He had stopped wearing formal shirts so the ten would have to come from his tee shirt collection. He quickly picked his best ten tees (some with collars also thrown in) and created a pile of workday wear. Everything else (sans his DriFit tees and a few formals) were moved to the shelf earmarked for ’giving away to Goonj'.
 
 He smiled with satisfaction.
 
@@ -81,3 +82,4 @@ Related posts:
 - [When life gives you a ripped toe, you make lemonade](http://www.ulaar.com/2014/05/24/when-life-gives-you-a-ripped-toe-you-make-lemonade/)
 - [Minimalist in a maximal world](http://www.ulaar.com/2015/04/05/minimalist-in-a-maximal-world/)
 - [I don’t need…](http://www.ulaar.com/2014/01/24/i-dont-need/)
+

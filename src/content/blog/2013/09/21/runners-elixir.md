@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2550
+featured_image: ../../../../uploads/2013/09/getafix_brewing.jpg
 categories: 
     - Food
     - Running
@@ -33,9 +34,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2771" class="wp-caption alignleft" id="attachment_2771" style="width: 274px">
-
-[![Pic courtesy eusa-riddled.blogspot.com](../../../../uploads/2013/09/getafix_brewing.jpg)](http://www.ulaar.com/wp-content/uploads/2013/09/getafix_brewing.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2771">Pic courtesy eusa-riddled.blogspot.com</figcaption></figure>
 
 The Gauls go to battle against the hapless Romans after downing a swig of magic potion prepared by their druid Getafix. It doesn’t matter how heavily armed the Romans are or whether they got recent reinforcements from the nearby camp of Laudanum. They always get bashed to nothingness – sandals on the ground, Roman soldiers airborne and their strewn helmets being gleefully picked up by Obelix who, as we all know, possesses permanent superhuman strength because he fell into a cauldron of magic potion when he was a baby.
 

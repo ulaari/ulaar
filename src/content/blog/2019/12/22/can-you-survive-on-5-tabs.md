@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 4076
-featured_image: ../../../../uploads/2019/12/Screen-Shot-2019-12-22-at-11.46.25-PM.png
+featured_image: ../../../../uploads/2019/12/original-oblique-strategies.jpg
 categories: 
     - Experiments
     - Habits
@@ -47,3 +47,4 @@ Nothing that I couldn’t locate with 1 or 2 clicks/searches. Voila! Time to unv
 - Two shall be used for any of the collaboration tool(s) being used
 
 Will share an update on this experiment in a few months.
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2964
+featured_image: ../../../../uploads/2014/08/bhukmp_nandi_hills_aug10_2014.jpg
 categories: 
     - Barefootia
     - Running
@@ -69,7 +70,7 @@ I was reminded of two conversations in this regard.
 
 <figure aria-describedby="caption-attachment-2978" class="wp-caption alignleft" id="attachment_2978" style="width: 300px">
 
-[![The gang that ran (or walked) up and down Nandi Hills - Aug 10, 2014](../../../../uploads/2014/08/bhukmp_nandi_hills_aug10_2014.jpg)](http://www.ulaar.com/wp-content/uploads/2014/08/bhukmp_nandi_hills_aug10_2014.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2978">The gang that ran (or walked) up and down Nandi Hills – Aug 10, 2014</figcaption></figure>
+[![The gang that ran (or walked) up and down Nandi Hills - Aug 10, 2014](../../../../uploads/2014/08/bhukmp_nandi_hills_aug10_2014.jpg)](http://www.ulaar.com/uploads/2014/08/bhukmp_nandi_hills_aug10_2014.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2978">The gang that ran (or walked) up and down Nandi Hills – Aug 10, 2014</figcaption></figure>
 
 Today was my third pilgrimage to Nandi Hills. My [second Nandi Hills climb](http://www.ulaar.com/2013/08/13/my-second-nandi-hills-climb/) was almost a year ago. The first climb was negotiated with barefoot (first 18k) and Puma chappals (next 10k). The second climb was done entirely using my huaraches. As I chronicled earlier, tearing downhill and landing heavily resulted in severe calf pain. This time I wanted to do it entirely barefoot (so I could *land lighter).*
 
@@ -102,3 +103,4 @@ Thirty goddamn months and I hadn’t felt misery anywhere close to what I felt t
 \*\*\*\*\*\*\*\*\*\*\*
 
 Have I recidivated to shod running? Or is the Nandi experience a prominent notch on my bare feet signaling an inflection point to the next level of difficulty of The Great Running Game? Time will tell and this blog will chronicle. But first I will tell you about the *disposable shoes theory*, freshly minted in the windmills of the Nandi.
+

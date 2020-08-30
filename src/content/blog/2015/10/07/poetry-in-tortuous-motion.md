@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2976
+featured_image: ../../../../uploads/2015/10/8755434867_2fd4ac56cb_z.jpg
 categories: 
     - Life
     - Running
@@ -19,7 +20,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-[![8755434867_2fd4ac56cb_z](../../../../uploads/2015/10/8755434867_2fd4ac56cb_z.jpg)](http://www.ulaar.com/wp-content/uploads/2015/10/8755434867_2fd4ac56cb_z.jpg)
 
 I parked the car, got the kids’ bags from the trunk and walked them over to the school gate. As we crossed the median, my runner friend B went hurtling past. He was obviously doing a speed workout.
 
@@ -61,4 +61,5 @@ I continued.
 
 *It was poetry in tortuous motion.*
 
-I’m sure I extended the analogy to underscore the importance of academic training well before exams but I’m not sure if he took it to heart or surreptitiously rolled his eyes.
+I extended the analogy to underscore the importance of academic training well before exams but I’m sure he rolled his eyes.
+

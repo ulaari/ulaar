@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2848
+featured_image: ../../../../uploads/2014/01/shriram_revankar_with_mom_hubli.jpg
 categories: 
     - Life
     - Sports
@@ -27,9 +28,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2849" class="wp-caption alignleft" id="attachment_2849" style="width: 300px">
-
-[![Shriram Revankar (the adventurer with his mom at the end of his journey)](../../../../uploads/2014/01/shriram_revankar_with_mom_hubli.jpg)](http://www.ulaar.com/wp-content/uploads/2014/01/shriram_revankar_with_mom_hubli.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2849">Shriram Revankar (the adventurer with his mom at the end of his journey)</figcaption></figure>
 
 \[Editor’s Note: My good friend and ex-colleague Shriram undertook an amazing trip last year. Shriram is a cyclist and a runner. He belittles his running but he’s blessed with natural abilities. With no training plan and just two long 30k runs under his belt, he knocked off a full marathon (Auroville 2011) in 3:55. But this post isn’t about his running abilities.. nor is it about his cycling abilities (of which he has plenty to boast about too). This is about his pain enduring abilities, sheer grit and stubbornness. His [entire account](http://go-payaniga.blogspot.in/2013/09/highway-stories-bicycling-from.html) is eminently worth a read – I’ve cherry picked the bits that serve as a “portrait of pain”.\]
 
@@ -80,3 +78,4 @@ Victory at last!
 <figure aria-describedby="caption-attachment-2953" class="wp-caption aligncenter" id="attachment_2953" style="width: 300px">
 
 [![The victorious protagonist with his mother and brother](../../../../uploads/2014/07/shriram_r_victory_pic.jpg)](http://www.ulaar.com/wp-content/uploads/2014/07/shriram_r_victory_pic.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2953">The victorious protagonist with his mother and brother</figcaption></figure>
+

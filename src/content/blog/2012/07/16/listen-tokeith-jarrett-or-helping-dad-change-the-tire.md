@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1885
+featured_image: ../../../../uploads/2012/07/reva_Hood_team-bhp_com.jpeg
 categories: 
     - Kiddism
     - Life
@@ -23,9 +24,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1887" class="wp-caption alignleft" id="attachment_1887" style="width: 300px">
-
-[![](../../../../uploads/2012/07/reva_Hood_team-bhp_com.jpeg "reva_Hood_team-bhp_com")](http://www.ulaar.com/wp-content/uploads/2012/07/reva_Hood_team-bhp_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1887">Inside the hood of a Reva (Pic: courtesy team-bhp.com)</figcaption></figure>
 
 After two years of Reva ownership, I faced my first flat tire on Saturday. Fortunately it was discovered in the garage so no inconvenience there.
 
@@ -40,3 +38,4 @@ When I announced to the young ‘un that he was going to help me put the fixed t
 As we walked down the stairs, the little grumbler of course had to ask “When will ***I*** get to listen to music like ***that***?” That’s when I delivered my killer line “There are always ***many*** awesome things we could be doing at any time. ***You*** are helping me put the spare tire back in the hood, your ***brother*** is listening to some nice music alone in a dark living room. Both of you are having fun, right?”
 
 The normally argumentative and competitive child didn’t answer. It doesn’t happen often so definitely a hopeful sign.
+

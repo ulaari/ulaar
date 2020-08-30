@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2947
+featured_image: ../../../../uploads/2014/07/running_motivation_happyorhungry_com.jpg
 categories: 
     - Running
 tags:
@@ -24,9 +25,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2950" class="wp-caption alignleft" id="attachment_2950" style="width: 255px">
-
-[![Pic courtesy ](../../../../uploads/2014/07/running_motivation_happyorhungry_com.jpg)](http://www.ulaar.com/wp-content/uploads/2014/07/running_motivation_happyorhungry_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2950">Pic courtesy happyorhungry.com</figcaption></figure>
 
 I thought 2013 was a tough year for running. If the first six months are any indication, 2014 has put 2013 to shame.
 
@@ -59,3 +57,4 @@ I have a *haul-ass-out-of-bed-three-times-a-week-no-matter-how-insane-work-is* p
 I was reminded of [Murakami’s conversation with Toshihiko Seko](http://www.ulaar.com/2013/03/21/training-runs-and-motivation/) and the panic started to ebb.
 
 > *<span style="color: #555555;">“Does a runner at your level feel like you’d rather not run today, like you don’t want to run and would rather just sleep in?” He stared at me and then, in a voice that made it abundantly clear how stupid he thought the question was, replied “Of course. All the time!”</span>*
+

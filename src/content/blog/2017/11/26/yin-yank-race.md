@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3550
+featured_image: ../../../../uploads/2017/11/me_still_content.jpg
 categories: 
     - Running
 tags:
@@ -158,8 +159,3 @@ A few weeks ago, the race director shared this update: *We’re pleased to annou
 
 Can’t wait.
 
-I now leave you with two photo slideshows.
-
-**Landscapes &amp; runners** \[metaslider id=3565\]
-
-**Me &amp; more of me** \[metaslider id=3625\]

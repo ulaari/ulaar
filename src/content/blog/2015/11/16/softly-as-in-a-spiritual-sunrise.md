@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3071
+featured_image: ../../../../uploads/2015/11/ultra-spiritual-sunrise.jpeg
 categories: 
     - Running
 tags:
@@ -25,7 +26,7 @@ layout:
 embed:
     - ''
 ---
-[![ultra_spiritual_sunrise_pic](../../../../uploads/2015/11/ultra_spiritual_sunrise_pic-1.gif)](http://www.ulaar.com/2015/11/16/softly-as-in-a-spiritual-sunrise/ultra_spiritual_sunrise_pic-2/)Two years ago, I ran in 3 races. Last year it came down to two. This year I ran the Kaveri Trail Marathon and it’s my first (and last) race for the year.
+Two years ago, I ran in 3 races. Last year it came down to two. This year I ran the Kaveri Trail Marathon and it’s my first (and last) race for the year.
 
 My running goal for 2015 was rather basic – “just keep running”. Under normal circumstances, this would have meant following the [Triple Jump running plan](http://www.ulaar.com/2013/04/18/the-triple-jump-running-plan-for-marathoners/). But work has been all-consuming and my lungs haven’t been too happy since last November.
 
@@ -64,3 +65,4 @@ A 12-hour run starting 5am on Sunday, Nov 22. Considering that the maximum dista
 (Gulp!)
 
 There I said it and also thumbed a finger at an old superstition to not announce my runs \*before hand\*.
+

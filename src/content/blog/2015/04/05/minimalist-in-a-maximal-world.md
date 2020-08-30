@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2995
+featured_image: ../../../../uploads/2015/04/vedanta_treatise_bookcover.jpg
 categories: 
     - Books
     - Life
@@ -32,10 +33,6 @@ sidebar_position:
     - as_blog
 ---
 *\[<span style="text-decoration: underline;">Editor’s Note</span>: I’ve been meaning to write this post for sometime. This needs mention because this post has the rare distinction of having only a 2 week gestation period (the median post is more like 3-6 months). On a flight back from Delhi, I started writing. The battery went kaput after two paragraphs. Undeterred, I pulled out my trusty ‘paper’ notebook and continued. An hour later I was done with 95%. The remaining 5% I finished this evening.\]*
-
-<figure aria-describedby="caption-attachment-2997" class="wp-caption alignleft" id="attachment_2997" style="width: 300px">
-
-[![Pic courtesy talentedreader.blogspot.com](../../../../uploads/2015/04/talentedreader_blogspot_com_landscape_with_person.jpg)](http://www.ulaar.com/wp-content/uploads/2015/04/talentedreader_blogspot_com_landscape_with_person.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2997">Pic courtesy talentedreader.blogspot.com</figcaption></figure>
 
 I once had a farm in Africa.
 
@@ -142,3 +139,4 @@ Related posts:
 - [But these animals also..](http://www.ulaar.com/2013/11/06/but-these-animals-were-also-created-for-us-to-consume-in-moderation/)
 - [Intermittent fasting for health and longevity](http://www.ulaar.com/2013/10/21/intermittent-fasting-for-health-and-longevity/)
 - [Chronicles of Barefootia](http://www.ulaar.com/category/barefootia-2/)
+

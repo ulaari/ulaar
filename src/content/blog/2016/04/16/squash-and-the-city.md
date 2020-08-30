@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1534
+featured_image: ../../../../uploads/2016/04/jansher-khan-trophy.jpg
 categories: 
     - 'American Memories'
     - Life
@@ -31,7 +32,7 @@ embed:
 image:
     - ''
 ---
-[![amr_shabana_squash_shot](../../../../uploads/2016/04/amr_shabana_squash_shot.jpg)](http://www.ulaar.com/2016/04/16/squash-and-the-city/amr_shabana_squash_shot/)Serious runners are crazy people.
+Serious runners are crazy people.
 
 Serious squash players are no less crazy.
 
@@ -77,3 +78,4 @@ Stories related to this topic of training to a pattern:
 - [The Amygdata made me do it](http://www.nytimes.com/2012/05/13/opinion/sunday/the-amygdala-made-me-do-it.html?ref=oembed&_r=0) \[NYTimes, May 12, 2012\]
 
 *\[<span style="text-decoration: underline;">Closing note</span>: this post had a ge<span style="line-height: 1.5;">station period of 3 yrs 10 months. I guess there is hope for the remaining 99 posts in my Drafts folder.\]</span>*
+

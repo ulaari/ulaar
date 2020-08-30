@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3086
+featured_image: ../../../../uploads/2016/08/streak_image.jpeg
 categories: 
     - Barefootia
     - Life
@@ -37,7 +38,7 @@ Streaks are wonderful things.
 
 For the sports aficionado, it’s such things as consecutive games in which an NBA star has drilled at least one 3-pointer, consecutive years in which a tennis superstar has won at least one Grand Slam tournament, seven consecutive wins at the Western States 100. Pick any sport and you’ll be hard pressed not to find a phenomenal streak or two.
 
-[![streak_image](../../../../uploads/2016/08/streak_image.jpeg)](http://www.ulaar.com/2016/08/13/breaking-a-streak-liberating/streak_image/)The amateur sportsman (and I’m talking mostly about my breed of long distance runners) has developed a proclivity towards participation streaks. A few examples below.
+The amateur sportsman (and I’m talking mostly about my breed of long distance runners) has developed a proclivity towards participation streaks. A few examples below.
 
 This is the 7th consecutive year I’m running in the Mumbai Marathon.  
 This is the 5th consecutive year I am running at the KTM.  
@@ -79,4 +80,3 @@ The last few FMs were noticeably different in that I’d postpone them to the ve
 
 I recall attempt#23 (May 2013) vividly: I finished the usual 30k weekly distance in the company of my running gang. For the final 12k stretch from Cubbon Park to Koramangala, I fortunately had a friend for company – Speedy Sid. My back continued to bother me, I was sulking and even Sid’s funny banter wouldn’t cheer me up. I finally snapped at the 34k mark. I stopped running, turned to Sid and said “I’m taking a DNF”. It was one of the most liberating things I did in recent times.
 
-\*\*\*\*\*\*\*\*\*

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3505
+featured_image: ../../../../uploads/2017/04/cracking-egg.jpg
 categories: 
     - Food
 tags:
@@ -29,9 +30,6 @@ layout:
 embed:
     - ''
 ---
-<figure aria-describedby="caption-attachment-3521" class="wp-caption alignleft" id="attachment_3521" style="width: 300px">
-
-[![Eggs from free range chickens fed on a vegetarian diet, anyone?](../../../../uploads/2017/04/vegetarian_eggs.png)](http://www.ulaar.com/2017/04/28/a-vegetarian-cracks-an-egg/vegetarian_eggs/)<figcaption class="wp-caption-text" id="caption-attachment-3521">Eggs from free range chickens fed on a vegetarian diet, anyone?</figcaption></figure>
 
 <span style="font-family: 'noto serif', serif;">I was raised a vegetarian. Avoiding meat was the most natural thing for as long as I can remember in my childhood. During our teen years, eggs made a brief entrance into our lives. In the form of cakes. They would be baked in a special-purpose oven (egg handling done by a domestic help) away from the kosher confines of our kitchen.</span>
 
@@ -61,3 +59,4 @@ The latter answer requires elaboration. Stay tuned for the post “*A vegetarian
 
 - Later in the day (after our egg tasting escapade), my sister’s earring went missing and my mother was convinced that it was divine retribution for having broken a cardinal rule. Fortunately the retribution turned out to be just a *slap on the wrist* – the earring was eventually found next to a flowerbed in our garden (whew!)
 - Clamors for a home baked cake (from her children) had reached a crescendo so my mother finally gave in. She requested a family friend to come home and bake a cake. The friend deputed her son to lead the proceedings. Eggs were beaten, utensils were rendered impure, a mess was created but at the end of it, there was a cake to show for it. I don’t recall how it tasted but the episode had a scalding impact on my mother’s psyche. She went to bed tortured with guilt and had the worst nightmare.. a scene with scores of chickens squawking loudly in her face. For someone who’s not seen Hitchcock’s Birds, she could have been describing one of the climax scenes. The nightmare cured her of her newly found affinity towards cakes.
+

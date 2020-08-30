@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3005
+featured_image: ../../../../uploads/2015/04/vedanta_treatise_bookcover.jpg
 categories: 
     - Life
 tags:
@@ -46,7 +47,7 @@ feedback_author:
 feedback_url:
     - ''
 ---
-[![vedanta_treatise_bookcover](../../../../uploads/2015/04/vedanta_treatise_bookcover.jpg)](http://www.ulaar.com/2015/04/12/been-there-seen-that/vedanta_treatise_bookcover/)A common thread running across all Indian/Eastern spiritual traditions is some form of meditation.
+A common thread running across all Indian/Eastern spiritual traditions is some form of meditation.
 
 The variations come in the form of how one meditates, whether it is the sole instrument for spiritual advancement or step 12 of 12, use or non-use of an internal mantra, generic or personalized mantra, addition of a group meditation session every now and then.
 

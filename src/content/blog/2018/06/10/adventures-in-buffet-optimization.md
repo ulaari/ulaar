@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3642
+featured_image: ../../../../uploads/2018/10/indian-buffet-lunch.jpg
 categories: 
     - Food
 tags:
@@ -27,6 +28,7 @@ post_format: []
 sidebar_position:
     - as_blog
 ---
+
 Mathematically speaking, a buffet function could be expressed thus:
 
 Buffet f(x) = sigma (dish1(a1 -&gt;n1)) + sigma(dish2(a2-&gt;n2) +… + sigma(dish N(aN-&gt;nN)

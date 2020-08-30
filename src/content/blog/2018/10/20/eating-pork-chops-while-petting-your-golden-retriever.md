@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3886
+featured_image: ../../../../uploads/2018/10/pets_and_vegetarians_550.jpeg
 categories: 
     - Food
 tags:
@@ -30,9 +31,8 @@ post_format: []
 sidebar_position:
     - as_blog
 ---
-<figure aria-describedby="caption-attachment-3900" class="wp-caption alignright" id="attachment_3900" style="width: 300px">
 
-[![](../../../../uploads/2018/10/pets_and_vegetarians_550.jpeg)](http://www.ulaar.com/2018/10/20/eating-pork-chops-while-petting-your-golden-retriever/pets_and_vegetarians_550/)<figcaption class="wp-caption-text" id="caption-attachment-3900">Pic courtesy albany.edu (authors of research study cited below)</figcaption></figure>Fifteen years ago, as we sat in a Singapore tour bus, we heard the story of how the Singapore zoo came to be. An entire generation of kids had grown up knowing chicken *only* as a packet of shrink-wrapped meat bought from a supermarket that would eventually turn into a delicious dish for dinner. The adults resolved to make amends for the lost connection from farm to fork.
+Fifteen years ago, as we sat in a Singapore tour bus, we heard the story of how the Singapore zoo came to be. An entire generation of kids had grown up knowing chicken *only* as a packet of shrink-wrapped meat bought from a supermarket that would eventually turn into a delicious dish for dinner. The adults resolved to make amends for the lost connection from farm to fork.
 
 In the past century, as we have hurtled from hunting to the local butcher to the supermarket chain to pressing a button on our smartphones for our meaty needs, the connection between *killing animals to put food on our plates* has become very indirect, and by corollary, deeply impersonal.
 
@@ -85,3 +85,4 @@ Extracting relevant bits here..
 Closing note: the academic article abstract can be found [here](https://www.ncbi.nlm.nih.gov/pubmed/29225142). Couldn’t find a “Free download PDF” link anywhere.
 
 Closing note#2: a few months after I wrote this post, over lunch with some Yahoo alumni I watched two folks – one a renowned wildlife photographer, the other a dog owner turned *dog whisperer* assiduously chow down on fauna food. Had I known them a little better, would have mentioned this study. Oh well – there’s next time.
+

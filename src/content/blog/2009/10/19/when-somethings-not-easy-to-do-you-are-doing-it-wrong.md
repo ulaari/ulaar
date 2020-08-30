@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 427
+featured_image: ../../../../uploads/2009/10/coke_can_opening.jpeg
 categories: 
     - 'American Memories'
     - Life
@@ -33,9 +34,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1537" class="wp-caption alignleft" id="attachment_1537" style="width: 250px">
-
-[![](../../../../uploads/2009/10/coke_can_opening.jpeg "coke_can_opening")](http://www.ulaar.com/wp-content/uploads/2009/10/coke_can_opening.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1537">Pic: courtesy Bing Images</figcaption></figure>
 
 It was early days for me at the University of Houston campus in the Fall of 1992. One of my initial starry-eyed memories was that of purchasing my first Coke can from a vending machine on my way back to the Cambridge Oaks apartment. This was my first-ever encounter with a Coke can (for that matter any soft drink can). I examined it as one would a hard-earned trophy. It was chilled to the perfect temperature, the bright red Coke colors and the calligraphic lettering epitomized to me excellence, beauty and perfection — all things I associated with the American Dream that I was here to pursue. And I had just bought it for 60 cents. It was thrilling.
 
@@ -48,3 +46,4 @@ As I reflected on these 2 incidents, our mutual good friend, philosopher, guide 
 Now let’s look at India. The same pithy litmus test can be applied here – you just have to flip it on its head: *when something’s looking very easy, you are probably doing it the wrong way*. If you got your driver’s license in a single afternoon, chances are you bribed the RTO officer or utilized the services of a driving school agent. If you bought the latest video game or the newest Bollywood release from a footpath vendor as you were lounging down Indiranagar’s 100-feet road or Koramangala’s 80-feet road, they were definitely pirated (and you knew it!). If it’s taking you fifteen visits to the Corporation office to register your recently purchased property and you still don’t know when it will finally be registered, you (my friend) are doing it the *right way*!
 
 If you found my description of the American matchbook to be inadequate, here are some visuals via Google Images: [click here](http://images.google.co.in/images?hl=en&source=hp&q=matchbook&btnG=Search+Images&gbv=2&aq=1&oq=matchboo)
+

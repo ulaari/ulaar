@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2704
+featured_image: ../../../../uploads/2013/06/kkm_profile.jpeg
 categories: 
     - Life
 tags:
@@ -82,3 +83,4 @@ A few months before I retired, I received a letter from the Government of India,
 *\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\**
 
 *\[<span style="text-decoration: underline;">Editor’s Closing Note</span>: You’ve probably figured out by now that KKM is my father. He turned 78 this March. Most of the stories described above were told to me (and my siblings) over the years. During my last visit to Hyderabad, I *nailed most of the dates and details. Names have been withheld for obvious reasons. T**ranscription of the* journal entries is mine though I’ve tried to retain his style. Happy Father’s Day, Nanna.\]*
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2855
+featured_image: ../../../../uploads/2014/02/Unknown_siliconrepublic_com.jpg
 categories: 
     - Life
 tags:
@@ -24,9 +25,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2856" class="wp-caption alignleft" id="attachment_2856" style="width: 259px">
-
-[![Pic courtesy siloconrepublic.com](../../../../uploads/2014/02/Unknown_siliconrepublic_com.jpg)](http://www.ulaar.com/wp-content/uploads/2014/02/Unknown_siliconrepublic_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2856">Pic courtesy siloconrepublic.com</figcaption></figure>
 
 *\[<span style="text-decoration: underline;">Editor’s Note</span>: I shared a little rant on Facebook this Sat night which attracted a fair bit of attention. I figured some of you ‘Twitter people’ would enjoy it too.\]*
 
@@ -50,3 +48,4 @@ Sincerely,
 – someone whose data you own
 
 *\[<span style="text-decoration: underline;">Closing note</span>: A friend shared a relevant post by MC Siegler – [The age of the social network is ending](http://parislemon.com/post/75128375844/the-age-of-the-social-network-is-ending) . The part about Secret is particularly interesting. Any of you checked it out?\]*
+

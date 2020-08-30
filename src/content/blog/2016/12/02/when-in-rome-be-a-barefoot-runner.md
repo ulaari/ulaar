@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3001
+featured_image: ../../../../uploads/2016/12/wp-1480701316943.jpg
 categories: 
     - Barefootia
     - Running
@@ -33,9 +34,6 @@ embed:
 ---
 *When in Rome be a Roman.*
 
-<span class="img_container" id="img_container_1480701317009"></span>
-
-[![](../../../../uploads/2016/12/wp-1480701316943.jpg)](http://www.ulaar.com/wp-content/uploads/2016/12/wp-1480701316943.jpg)  
 If you are a runner there’s possibly no better city than Bangalore for year-round running. There’s at most one hot month and even then the mornings are nothing remotely like Chennai. There’s hardly a run where I don’t thank my stars I’m in Bangalore!
 
 While it’s widely known that Bangalore roads are terrible for motorists, it’s probably the worst city for barefoot runners.
@@ -73,3 +71,4 @@ What’s my current normal? Barefoot for my speed/hill runs and sandals for the 
 Give me a smooth urban terrain and I’ll run barefoot anyday.
 
 When in Rome, or any city with smooth asphalt or concrete, I’ll run barefoot anyday. For any distance.
+

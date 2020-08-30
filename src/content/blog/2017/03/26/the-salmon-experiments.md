@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 973
+featured_image: ../../../../uploads/2017/03/Group-of-Salmon-jumping-upstream-in-river-Stock-Photo-fish.jpg
 categories: 
     - Food
     - Life
@@ -22,9 +23,6 @@ layout:
 embed:
     - ''
 ---
-<figure aria-describedby="caption-attachment-3501" class="wp-caption alignleft" id="attachment_3501" style="width: 300px">
-
-[![How do they DO this?](../../../../uploads/2017/03/Group-of-Salmon-jumping-upstream-in-river-Stock-Photo-fish.jpg)](http://www.ulaar.com/2017/03/26/the-salmon-experiments/group-of-salmon-jumping-upstream-in-river-stock-photo-fish/)<figcaption class="wp-caption-text" id="caption-attachment-3501">How do they DO this?</figcaption></figure>
 
 Among marine life, salmon probably lead the most interesting lives. Born in freshwater rivers, they migrate to the ocean where they live most of their adult lives and, when it’s time to spawn, they start the reverse migration process swimming upstream all the way to their natal river, often to the exact riverbed area where they were born. They use chemical cues and magnetoreception to pull off this incredible feat.
 
@@ -57,3 +55,4 @@ The good biwi has come up with the expression ‘joyless life’ to describe my 
 In my defense, I don’t feel like I’m missing out. Really.
 
 Every experiment is a new challenge that brings with it the satisfaction of *continuous summiting*. Who said there’s only one type of mountain?
+

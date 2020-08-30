@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2984
+featured_image: ../../../../uploads/2014/09/KTM-2013_wm-2055-1600x1059_barefeet.jpg
 categories: 
     - Barefootia
     - Running
@@ -23,9 +24,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2987" class="wp-caption alignleft" id="attachment_2987" style="width: 300px">
-
-[![Somewhere between 21 and 42.](../../../../uploads/2014/09/KTM-2013_wm-2055-1600x1059_barefeet.jpg)](http://www.ulaar.com/wp-content/uploads/2014/09/KTM-2013_wm-2055-1600x1059_barefeet.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2987">Somewhere between 21 and 42.</figcaption></figure>
 
 There are two kinds of runner bloggers. The one who hits Publish within 48 hours after the race ends. The other who’s perpetually playing catch-up to God\_alone\_knows\_what and may get around to hit Publish before next year’s race. Surely you know which kind I am.
 
@@ -81,7 +79,7 @@ If you’ve been running barefoot on trails long enough you know that a thorn or
 
 **Getting chicked**
 
-I had steadily slowed down in the last 10k. No cramps but energy levels were low. I chided myself a few times for my idiotic decision to eat at Rajdhani’s but didn’t indulge in any self-pity. At the 36k mark, I could sense the onset of calf cramps so I slowed down and did the pain spray treatment a few times.. to stave off the nasty cramp. Somewhere between 40k and 41k mark, I distinctly heard the sound of huarache sandals. Without turning back, I yelled out “Is that you, Shilpi?” Sure it was.. she had caught up. Unlike me, she was having a stronger second half. She ensured that I stayed with her for another kilometer before I urged her to speed off for a very strong finish. There’s no shame in being chicked. Even less so when it’s one of your friends. And far less so when she’s the second fastest female finisher.
+I had steadily slowed down in the last 10k. No cramps but energy levels were low. I chided myself a few times for my idiotic decision to eat at Rajdhani’s but didn’t indulge in any self-pity. At the 36k mark, I could sense the onset of calf cramps so I slowed down and did the pain spray treatment a few times.. to stave off the nasty cramp. Somewhere between 40k and 41k mark, I distinctly heard the sound of huarache sandals. Without turning back, I yelled out “Is that you, Shilpi?” Sure it was.. she had caught up. Unlike me, she was having a stronger second half. She ensured that I stayed with her for another kilometer before I urged her to speed off for a strong finish. There’s no shame in being chicked. Even less so when it’s one of your friends. And far less so when she’s the second fastest female finisher.
 
 As for me? I finished in 4 hrs 9 min 16 sec. I had shaved off 15 min from my previous PB but, more importantly, my previous best showing at KTM was 4 hrs 32 min so much to be pleased about. Thank you KTM. I really enjoyed your hospitable terrain. See you next year.
 
@@ -89,4 +87,3 @@ As for me? I finished in 4 hrs 9 min 16 sec. I had shaved off 15 min from my pre
 
 **Looking ahead to KTM 2014**
 
-*To be continued…*

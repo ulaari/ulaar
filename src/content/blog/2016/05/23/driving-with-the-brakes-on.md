@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2935
+featured_image: ../../../../uploads/2016/05/driving-with-brakes-on.jpg
 categories: 
     - Barefootia
     - Running
@@ -53,7 +54,7 @@ feedback_url:
 image:
     - ''
 ---
-[![Del_Amitri_-_Twisted_Album_Cover](../../../../uploads/2016/05/Del_Amitri_-_Twisted_Album_Cover.jpg)](http://www.ulaar.com/2016/05/23/driving-with-the-brakes-on/del_amitri_-_twisted_album_cover/)This was a song and band I hooked on to during my Chicago years (1994-98). Easily the era where my musical heart was at its spongiest best. Recently the lines *driving with the brakes on* and *swimming with your boots on* seemed evocative of my last five years of barefoot running. I’m usually not much for finding out *what* a song is about… am mostly about the *sound* and *feel*. But the lyrics made me dig deeper.. on the great fan web. Read the lyrics below (or better still, give it a listen) and leave a comment on what *you* think the song is about.
+This was a song and band I hooked on to during my Chicago years (1994-98). Easily the era where my musical heart was at its spongiest best. Recently the lines *driving with the brakes on* and *swimming with your boots on* seemed evocative of my last five years of barefoot running. I’m usually not much for finding out *what* a song is about… am mostly about the *sound* and *feel*. But the lyrics made me dig deeper.. on the great fan web. Read the lyrics below (or better still, give it a listen) and leave a comment on what *you* think the song is about.
 
 *Driving through the long night*  
 *Trying to figure who’s right and who’s wrong*  
@@ -100,3 +101,4 @@ image:
 *And it’s hard to say you don’t*
 
 Psst… What do you think the song is about? Leave a comment, will ya!
+

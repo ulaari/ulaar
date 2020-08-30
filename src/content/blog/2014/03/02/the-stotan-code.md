@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2890
+featured_image: ../../../../uploads/2014/03/percy_cerutty_racingpast_ca.jpg
 categories: 
     - Running
 tags:
@@ -29,10 +30,6 @@ seo_noindex:
 
 *Good things take time. Impossible things take a little longer. – Percy Cerutty*
 
-<figure aria-describedby="caption-attachment-2891" class="wp-caption alignleft" id="attachment_2891" style="width: 225px">
-
-[![Percy Cerutty (pic courtesy racingpast.ca)](../../../../uploads/2014/03/percy_cerutty_racingpast_ca.jpg)](http://www.ulaar.com/wp-content/uploads/2014/03/percy_cerutty_racingpast_ca.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2891">Percy Cerutty (pic courtesy racingpast.ca)</figcaption></figure>
-
 **About Stotan Code and Percy Cerutty** \[extract from Scott Jurek’s Eat and Run\]
 
 *In 1939, when he was forty-three, Cerutty \[a former women’s clothing shop manager\] suffered a nervous breakdown. After doctors told him he would be dead within two years, he embarked on a regimen of diet, exercise, and a philosophy of living that he called “Stotan,” which he explained as a combination of Stoic and Spartan. He wrote that an athlete needed “hardness, toughness, and unswerving devotion to an ideal,” but he also needed to embrace “diet, philosophy, cultivation of the intellect, and openness to artistic endeavors.”*
@@ -41,7 +38,7 @@ seo_noindex:
 
 <div style="text-align: center;">*************</div><div style="text-align: left;"><figure aria-describedby="caption-attachment-2892" class="wp-caption alignright" id="attachment_2892" style="width: 300px">
 
-[![Cerutty with Herb Elliot (coutesy runnersfeed.com)  Check the terrain and the joy](../../../../uploads/2014/03/percy_with_herbelliot_runnersfeed_com.jpg)](http://www.ulaar.com/wp-content/uploads/2014/03/percy_with_herbelliot_runnersfeed_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2892">Cerutty with Herb Elliot (coutesy runnersfeed.com)  
+[![Cerutty with Herb Elliot (coutesy runnersfeed.com)  Check the terrain and the joy](../../../../uploads/2014/03/percy_with_herbelliot_runnersfeed_com.jpg)](http://www.ulaar.com/uploads/2014/03/percy_with_herbelliot_runnersfeed_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2892">Cerutty with Herb Elliot (coutesy runnersfeed.com)  
 Check the terrain and the joy</figcaption></figure>
 
 The Stotan code extract below is from Graem Sims biography of Percy Cerutty, entitled “Why Die”, excerpted from [Alan Couzens’s blog](http://alancouzens.blogspot.in/2008/06/stotan-code.html).
@@ -54,7 +51,7 @@ The Stotan code extract below is from Graem Sims biography of Percy Cerutty, ent
 > 
 > <figure aria-describedby="caption-attachment-2893" class="wp-caption alignleft" id="attachment_2893" style="width: 300px">
 
-[![Pic courtesy findfreegraphics.com](../../../../uploads/2014/03/PercyCerutty_on_coaching.jpg)](http://www.ulaar.com/wp-content/uploads/2014/03/PercyCerutty_on_coaching.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2893">Pic courtesy findfreegraphics.com</figcaption></figure>
+[![Pic courtesy findfreegraphics.com](../../../../uploads/2014/03/PercyCerutty_on_coaching.jpg)](http://www.ulaar.com/uploads/2014/03/PercyCerutty_on_coaching.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2893">Pic courtesy findfreegraphics.com</figcaption></figure>
 > 
 > A program shall be aimed at which shall be designed to \[train each Stotan\]:-
 > 
@@ -81,4 +78,3 @@ The Stotan code extract below is from Graem Sims biography of Percy Cerutty, ent
 > 
 > </div>
 
-<div align="left"></div><div align="left"></div>

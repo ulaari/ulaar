@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2820
+featured_image: ../../../../uploads/2013/12/sharmila-tagore-pic.jpeg
 categories: 
     - Life
 tags:
@@ -45,3 +46,4 @@ And commenter UM added..
 > And, the moment a woman takes a break from her office-going career, she is undervalued at work because she has different priorities.
 
 Related post (also from my wife): [Treat us as human beings, not goddesses](http://www.ulaar.com/2012/12/20/treat-us-as-human-beings-not-goddesses-please/).
+

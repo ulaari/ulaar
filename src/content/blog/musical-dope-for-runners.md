@@ -1,7 +1,7 @@
 ---
 title: 'Musical dope for runners'
 date: '2016-06-07T16:20:08+05:30'
-status: publish
+status: draft
 permalink: /2016/06/07/musical-dope-for-runners
 author: vishy
 description: ''

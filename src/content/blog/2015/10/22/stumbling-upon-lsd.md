@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3022
+featured_image: ../../../../uploads/2015/10/lsd_running_pic.jpg
 categories: 
     - Running
 tags:
@@ -23,7 +24,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-[![lsd_running_pic](../../../../uploads/2015/10/lsd_running_pic.jpg)](http://www.ulaar.com/wp-content/uploads/2015/10/lsd_running_pic.jpg)After the [ignominious end](http://www.ulaar.com/2010/07/14/an-asthmatics-ignominious-first-running-stor/) to my debut cross country run, the rest of the day was a daze. An unpleasant cocktail of emotions enveloped me.. Shame, defeat, dejection, inadequacy, self-pity dominated what would eventually be sufficed with hope.
+After the [ignominious end](http://www.ulaar.com/2010/07/14/an-asthmatics-ignominious-first-running-stor/) to my debut cross country run, the rest of the day was a daze. An unpleasant cocktail of emotions enveloped me.. Shame, defeat, dejection, inadequacy, self-pity dominated what would eventually be sufficed with hope.
 
 Moodily and half-heartedly I cheered the track and field participants. The outcome of no event mattered to me anymore.
 

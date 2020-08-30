@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1841
+featured_image: ../../../../uploads/2017/12/bh-1.jpg
 categories: 
     - Life
 tags:
@@ -42,8 +43,6 @@ The Hindu mythology dilettante would know Kubera as the God of Wealth, which mea
 A lesser known fact about Kubera is that he was also an amasser of commodities. It’s not clear whether he was a commodities trader or whether the grade of commodities he amassed were of the most premium (heavenly) kind which had an infinite shelf life. But I digress.
 
 The Pandavas needed a few thousand cartloads of grain and Kubera had it (several times over).
-
-![](../../../../uploads/2017/12/bh-1.jpg)
 
 Bheema’s mission was to seek the mother of all loans or the mother of all *extraterrestrial aids.*
 
@@ -82,3 +81,4 @@ As Bheema morosely watched an assured victory turning into a wet defeat, Kubera 
 Bheema watched dumbfounded. As the convoy resumed its mission of mercy, he asked Kubera “Back there at the palace, you were berating the worker for wasting a handful of grain yet here you scarcely hesitated in sacrificing a few cartloads of grain. Why?”
 
 Kubera answered, “One should never *waste* anything, be it a single grain or a single *mohar* (unit of money) but when required, one should not hesitate to spend. Getting this grain to your kingdom on time is the need of the hour. What will I/we gain in being miserly now?”
+

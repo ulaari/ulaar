@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2907
+featured_image: ../../../../uploads/2014/04/ForrestGump_centives_net.png
 categories: 
     - Running
 tags:
@@ -25,9 +26,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2915" class="wp-caption alignleft" id="attachment_2915" style="width: 300px">
-
-[![Pic courtesy centives.net](../../../../uploads/2014/04/ForrestGump_centives_net.png)](http://www.ulaar.com/wp-content/uploads/2014/04/ForrestGump_centives_net.png)<figcaption class="wp-caption-text" id="caption-attachment-2915">Pic courtesy centives.net</figcaption></figure>
 
 Two days ago I had my first DNF in a full marathon. Considering the spate of races recently sprouting all across Bangalore it might surprise you to know that I \*wasn’t\* running in a race.
 
@@ -35,7 +33,7 @@ So where the heck was the FM course? It was on our group’s usual Saturday hear
 
 I must tell you that this wasn’t the first time I was running a non-race FM. For quite some time now, I’ve been running a FM every month. Since there are only 3 FM/FM+ races I run every year, the bulk of my recent FM running has been in non-race settings. There have been a few FM’s which I’ve run completely solo ([this](http://www.ulaar.com/2012/08/03/a-quiet-morning-inside-osmania-university/) was one of them) but for the vast majority, I had the company of 1-3 of my friends for at least 30k. One of the cognitively difficult FM’s was Kaikondrahalli Lake (a few months ago) where I had to run 22 loops. Since I had jettisoned my Garmin last year, keeping track of the # of loops was a big challenge (I used 5 postits to represent sets of 5 loops).
 
-So why was (am) I running a FM every month? That is answered in a different post ‘Don’t be a MAD runner, be a MAM runner’. For now, suffice to say that I’ve been doing it for a while now.
+So why was (am) I running a FM every month? That is answered in a different post - [Breaking a streak can be SO liberating](https://www.ulaar.com/2016/08/13/breaking-a-streak-liberating/)
 
 Now let me take you back to that scene in Forrest Gump.. That scene where Gump has been running for days (maybe months) and has hundreds of other runners following him. All of a sudden he stops running. Everybody behind also stop. Bewilderment on everyone’s faces.
 
@@ -64,6 +62,7 @@ But only if we choose to.
 
 If we choose differently, we can just up and walk out of the prison.
 
-Which is what I did after I reached Cubbon Park. I called my pal, changed the rendezvous to a barefoot-friendly establishment and proceeded to walk the final 2km. DNF at 37km.
+Which is what I did at the 34k mark.  I stopped running, turned to Sid and said “I’m taking a DNF”.  
 
 *(Closing note: This post was 90% written using WordPress for Android)*
+

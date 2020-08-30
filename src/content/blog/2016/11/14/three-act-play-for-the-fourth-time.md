@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3326
+featured_image: ../../../../uploads/2016/11/ultra_2016_eat_and_run_LP1341.jpg
 categories: 
     - Running
 tags:
@@ -128,3 +129,4 @@ While Lawrence was computing his sub-10 hr pacing misery, I was calculating my s
 Amazingly (and seemingly suddenly), the 69 k marker was sighted and a quick calculation told me that a sub-9 hour finish was in the realm of possibility \*without requiring a superhuman effort\*. If I was a whistler, I would have whistled till the end.
 
 Finished in 8:58. 4th place overall. Apparently I was the only oldie running 75k so they gave me a trophy too.
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3084
+featured_image: ../../../../uploads/2016/03/hyperloop_watch_exactly_12_hours.jpg
 categories: 
     - Barefootia
     - Running
@@ -171,3 +172,4 @@ Below is the only picture that I took after we reached home.
 <figure aria-describedby="caption-attachment-3123" class="wp-caption alignleft" id="attachment_3123" style="width: 169px">
 
 [![That moment when I stopped!](../../../../uploads/2016/03/hyperloop_watch_exactly_12_hours.jpg)](http://www.ulaar.com/2016/03/06/for-a-few-hyperloops-more/hyperloop_watch_exactly_12_hours/)<figcaption class="wp-caption-text" id="caption-attachment-3123">That moment when I stopped!</figcaption></figure>
+

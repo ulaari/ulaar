@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3686
+featured_image: ../../../../uploads/2018/02/IMG_20180127_215011-2.jpg
 categories: 
     - Running
 tags:
@@ -116,3 +117,4 @@ Two SCMM races with shoes. The next two barefoot. This year I trained and ran wi
 However, last 10k my toes got really cramped and uncomfortable — a situation I anticipated and planned to just take off the Aquashoes and run barefoot. Sadly, my soles weren’t feeling particularly loved and up to the challenge (4mm’s are just that – 4 mm’s) so I decided against introducing a new problem.
 
 Glad I did the experiment but I doubt I’ll return to TMM 2019 with Aquashoes.
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2817
+featured_image: ../../../../uploads/2013/12/Primadonna_eil_com_Van+Morrison+-+No+Prima+Donna+-+The+Songs+Of+Van+Morrison+-+CD+ALBUM-542819.jpg
 categories: 
     - Running
 tags:
@@ -25,9 +26,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2825" class="wp-caption alignleft" id="attachment_2825" style="width: 300px">
-
-[![Pic courtesy eil.com (hard working finding this pic as 99% of "prima donna" images could be mistaken for decolletage](../../../../uploads/2013/12/Primadonna_eil_com_Van+Morrison+-+No+Prima+Donna+-+The+Songs+Of+Van+Morrison+-+CD+ALBUM-542819.jpg)](http://www.ulaar.com/wp-content/uploads/2013/12/Primadonna_eil_com_Van+Morrison+-+No+Prima+Donna+-+The+Songs+Of+Van+Morrison+-+CD+ALBUM-542819.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2825">Pic courtesy eil.com (one of the few Google Images matching “prima donna” that didn’t show a woman’s decolletage</figcaption></figure>
 
 About two years ago, during one of our Saturday morning long runs, my friend Prateek remarked “I seem to favor my right hand when carrying a running bottle”. I thought it was an interesting (though not very surprising) observation. After all, if you are right-handed, your right hand would definitely be stronger and more inclined to do “more work”.
 
@@ -62,3 +60,4 @@ I was reminded of this (two years ago) episode after reading this very interesti
 > And though the two terms are often used interchangeably, proprioception is not [kinesthesia](http://jp.physoc.org/content/587/17/4139.full). Like proprioception, kinesthesia involves the senses of limb position and movement, but scientists typically view the focus of these two as being quite different. Comparatively, proprioception has more to do with body position, and focuses on the cognitive awareness of the body in space.
 > 
 > Within the tendons that attach muscles to bones are proprioceptors called [Golgi tendon organs](http://www.ncbi.nlm.nih.gov/pubmed/1626033), which provide the brain with information about muscle tension. This is your sense of how much force you’re exerting. Relatedly, the [sense of effort](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1464181/) refers to how much effort is required to produce a given motion, and this [sense can be thrown off](http://www.ncbi.nlm.nih.gov/pubmed/20584757) by fatigue from, say, exercise. Tendon organs and muscle spindles also convey to the brain the sense of heaviness, which relates specifically to those occasions when you pick up and move objects.
+

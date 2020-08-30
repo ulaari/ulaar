@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3172
+featured_image: ../../../../uploads/2016/05/delamitri-twisted.jpg
 categories: 
     - 'American Memories'
     - Life
@@ -23,9 +24,9 @@ Chicago was the first city where I lived alone. Alone in the truest sense of the
 
 Hostel life at Mesra, an extended hostel life at Jamshedpur, and roommates during my years at Houston certainly prepared me for it.
 
-If not for my friend Ganesh I might not have experienced   
-Chicago, Ganesh Glen Dale Heights  
-It’s never too late to be alone
+If not for my friend Ganesh I might not have embraced living life alone in Chicago the way I did.
+
+Nothing like Del Amitri's It’s never too late to be alone to bring those Chicago years into sweet nostalgic focus.
 
 <span style="color: rgb(0, 0, 0); font-family: Verdana, Arial; font-size: 13.4px; text-align: center; background-color: rgb(204, 204, 221);">Summer here is over in a million different ways </span>  
 <span style="color: rgb(0, 0, 0); font-family: Verdana, Arial; font-size: 13.4px; text-align: center; background-color: rgb(204, 204, 221);">You look like a dream sometimes, but I don’t dream these days </span>  
@@ -50,3 +51,4 @@ It’s never too late to be alone
 <span style="color: rgb(0, 0, 0); font-family: Verdana, Arial; font-size: 13.4px; text-align: center; background-color: rgb(204, 204, 221);">Summer here is over, you can feel it in the air </span>  
 <span style="color: rgb(0, 0, 0); font-family: Verdana, Arial; font-size: 13.4px; text-align: center; background-color: rgb(204, 204, 221);">From the down-town shells to the upland hills </span>  
 <span style="color: rgb(0, 0, 0); font-family: Verdana, Arial; font-size: 13.4px; text-align: center; background-color: rgb(204, 204, 221);">The chill is everywhere</span>
+

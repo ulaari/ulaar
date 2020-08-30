@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2931
+featured_image: ../../../../uploads/2014/04/wpid-20130922_103901.jpg
 categories: 
     - Barefootia
     - Running
@@ -40,15 +41,15 @@ Visualize your big toe (10 o’clock area) gently hitting the top end of a protr
 
 The next 3 pictures were taken in the nurse’s office as she dressed my toe.
 
-[![image](../../../../uploads/2014/04/wpid-20130920_102331.jpg "20130920_102331.jpg")](http://www.ulaar.com/wp-content/uploads/2014/04/wpid-20130920_102331.jpg)
+[![image](../../../../uploads/2014/04/wpid-20130920_102331.jpg "20130920_102331.jpg")](http://www.ulaar.com/uploads/2014/04/wpid-20130920_102331.jpg)
 
-[![image](../../../../uploads/2014/04/wpid-20130922_103901.jpg "20130922_103901.jpg")](http://www.ulaar.com/wp-content/uploads/2014/04/wpid-20130922_103901.jpg)
+[![image](../../../../uploads/2014/04/wpid-20130922_103901.jpg "20130922_103901.jpg")](http://www.ulaar.com/uploads/2014/04/wpid-20130922_103901.jpg)
 
-[![image](../../../../uploads/2014/04/wpid-20130924_125720.jpg "20130924_125720.jpg")](http://www.ulaar.com/wp-content/uploads/2014/04/wpid-20130924_125720.jpg)
+[![image](../../../../uploads/2014/04/wpid-20130924_125720.jpg "20130924_125720.jpg")](http://www.ulaar.com/uploads/2014/04/wpid-20130924_125720.jpg)
 
 The injury happened on a Thursday. I had to eschew shoes, wear chappals and get my dressing changed every other day. Within a week, my toe was looking like this (see below). With a regular bandaid on, I negotiated the Saturday long run without any mishap (I \*did\* use my 4mm huaraches).
 
-[![image](../../../../uploads/2014/04/wpid-20130927_151731.jpg "20130927_151731.jpg")](http://www.ulaar.com/wp-content/uploads/2014/04/wpid-20130927_151731.jpg)
+[![image](../../../../uploads/2014/04/wpid-20130927_151731.jpg "20130927_151731.jpg")](http://www.ulaar.com/uploads/2014/04/wpid-20130927_151731.jpg)
 
 Running downtime due to injury: 8 days (or 3 runs).
 
@@ -81,3 +82,4 @@ There was no turning back now. The chasm had been crossed.
 *When life gives you a ripped toe you stop wearing shoes*
 
 *When life gives you a ripped toe you make lemonade*
+

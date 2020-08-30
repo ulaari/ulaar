@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2244
+featured_image: ../../../../uploads/2012/10/sony-ericsson-w810i.png
 categories: 
     - Life
     - Minimalism
@@ -68,3 +69,4 @@ What I had forgotten was that 2007 was the last time I had temporarily bid goodb
 How do I feel now that my nineteen month “dumb living” streak has come to an end ? Before I answer that, I need to tell you how I “felt” when I bought the Samsung Galaxy S II. It was the most unemotional and non-impulsive purchase decision in my entire life. Can you believe that? Heck – \*I\* am trouble believing that! None of that anticipatory rush of adrenaline nor was there any of the honeymoon’sque let-me-explore-this-beauty.
 
 Maybe.. just maybe I can continue my “dumb living” even though I’m back on the smartphone bandwagon. After all, I *have* changed my service plan from postpaid to prepaid two months ago and have scarcely felt short-changed. 2GB data prepaid plan for Rs. 149 – here I come!
+

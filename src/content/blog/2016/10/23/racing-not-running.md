@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2990
+featured_image: ../../../../uploads/2016/10/ktm_2013_barefoot_flying.jpg
 categories: 
     - Barefootia
     - Running
@@ -46,7 +47,7 @@ In 5 years at KTM (and 2nd time barefoot), a first half of 1:55 was easily my mo
 
 The urge to run my second 75k ultra started immediately after I finished the [2012 edition](http://www.ulaar.com/2013/11/10/chappal-mein-pachattar-first-75k-ultra/). I was mentally a lot stronger. Physically too, with a lot of consistently high mileage weeks, weekends and months. Thanks to [Sir Gaunker](http://www.ulaar.com/2013/03/12/meet-sir-gaunker-modern-era-ekalavya-happy-ending/)‘s tried and tested nutrition strategy for ultras, ragi was going to be my primary fuel. What’s more, Rajaram’s wife very kindly agreed to prepare the [ragi pudding](http://rakshaskitchen.blogspot.com/2011/12/ragi-pudding-nachnyache-satva.html) for my race. Meanwhile Rajaram was registered for the 100k and in the deepest vein of purple form that season.
 
-[![ultra_2013_dawn](../../../../uploads/2016/10/ultra_2013_dawn.jpg)](http://www.ulaar.com/2016/10/23/racing-not-running/ultra_2013_dawn/)The Bangalore Ultra’s starts are always magical. 5am with darting flashlights and a jumbled formation of runners tentatively making their way forward. The conditions ensure that no one takes off at 10k pace.
+The Bangalore Ultra’s starts are always magical. 5am with darting flashlights and a jumbled formation of runners tentatively making their way forward. The conditions ensure that no one takes off at 10k pace.
 
 The usual banter with Nari and Vasu (who deserve a post on what makes them uniquely crazy) continued till the 6.5k hydration point. As I exited, something clicked in my head. An inner voice said “I’m racing, not running!” and I instantly knew what to do. If this scene needed to be picturized (and I was the director), I’d show the protagonist’s eyes narrowing, focusing in a William Tell manner seeing \*just\* the apple on his son’s head and set off in a copybook stance of an elite Kenyan runner.
 
@@ -56,7 +57,7 @@ I completed the first (25k) loop in 2.5 hours. I knew it was too fast so (after 
 
 Hari observed “Did you realize you just had your best FM time?” He was right! I had crossed the 42k mark in 4hrs 5min.
 
-[![ultra2013_on_podium](../../../../uploads/2016/10/ultra2013_on_podium.jpg)](http://www.ulaar.com/2016/10/23/racing-not-running/ultra2013_on_podium/)The 3rd loop pulled back proceedings thanks to my tactical error in the first loop. I had forgotten that my Cocojal stache was only at the starting point aid station (and not at the midpoint) so my first Cocojal dose came at the 32k mark (thanks to Rajaram’s generosity). At the start of the 3rd loop, I traded my 4mm huaraches with 10mm Puma slippers. The footwear change was by design but things started going awry soon thereafter. With the spectre of cramps looming in my mind, it was only a matter of time before my calves obliged. I had my best stroke of luck that day – this happened 100m from the medical/physio van. Chandra, who had amazingly caught up despite a painful bout of plantar, helped me to the physio. A 5min massage by Physio Peter changed the game again. I felt good as new so off I went again. A bit more circumspect this time. On my final turnaround (with a mere 6k to go), I got a 2nd massage from Peter (for proactive good measure) and finished in 8 hrs 38 min. In 2nd place. Winner that year was Mumbai’s talented ultra runner Abbas Sheikh (in 7.5 hrs).
+[![ultra2013_on_podium](../../../../uploads/2016/10/ultra2013_on_podium.jpg)](http://www.ulaar.com/2016/10/23/racing-not-running/ultra2013_on_podium/)The 3rd loop pulled back proceedings thanks to my tactical error in the first loop. I had forgotten that my Cocojal stash was only at the starting point aid station (and not at the midpoint) so my first Cocojal dose came at the 32k mark (thanks to Rajaram’s generosity). At the start of the 3rd loop, I traded my 4mm huaraches with 10mm Puma slippers. The footwear change was by design but things started going awry soon thereafter. With the spectre of cramps looming in my mind, it was only a matter of time before my calves obliged. I had my best stroke of luck that day – this happened 100m from the medical/physio van. Chandra, who had amazingly caught up despite a painful bout of plantar, helped me to the physio. A 5min massage by Physio Peter changed the game again. I felt good as new so off I went again. A bit more circumspect this time. On my final turnaround (with a mere 6k to go), I got a 2nd massage from Peter (for proactive good measure) and finished in 8 hrs 38 min. In 2nd place. Winner that year was Mumbai’s talented ultra runner Abbas Sheikh (in 7.5 hrs).
 
 **SCMM 2014**
 
@@ -79,3 +80,4 @@ To end proceedings, here’s a brief race report I shared with my gang after ret
 *Overall rank: 159, category rank: 23. Can’t really complain. Thank you – oh running gods! It finally all fell into place. The sub-4 monkey off my back.*
 
 </div>Closing note: This post entered my Drafts folder on Nov 4, 2014 so a gestational stay of 23 months 🙂
+

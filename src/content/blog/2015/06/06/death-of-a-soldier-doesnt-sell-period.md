@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3012
+featured_image: ../../../../uploads/2015/06/kargil-vijay-diwas.jpg
 categories: 
     - India
     - Life
@@ -27,7 +28,7 @@ seo_noindex:
 ---
 \[<span style="text-decoration: underline;">Editor’s Note</span>: Last week we had a kerfuffle in our high school Whatsapp group. The Minority Report voiced the ‘unpopular’ notion that the armed forces are a bunch of attention seeking spoilt brats. I mean what’s so special about the armed forces? They get a salary too, right? Just like the rest of us. Hey, we accountants are also super-hardworking too, you damn pretentious-glory-seeking-men-in-fatigues! I’ve made sacrifices too, yelled the serial entrepreneur. Not like staying away from my family for years and dodging enemy bullets but you know.. I’ve filled a few begging bowls too.. does that make me a selfless person? As the fauji supporters clashed with the Minority Report, the politically correct populace interspersed with “Every profession has its place and value.” Of course, brothers and sisters! but THAT was not the point.
 
-I was one of the fauji supporters but by the time I entered the fray and throw in a few punches, the Shushing and time-to-move-on sounds had already begun.
+I was one of the fauji supporters but by the time I entered the fray and throw in a few punches, the shush'ing and time-to-move-on sounds had already begun.
 
 The POINT that was being missed? That there ARE certain professions that elicit/inspire the selfless in the human spirit. What might be these professions? Armed forces, police, doctors. It’ll take a few more decades before police can rebuild their credibility. Doctors are the only profession (apart from armed forces) who have allegedly taken an oath – the famed Hippocratic Oath. What a damn hypocrisy it has become for so many doctors out to fleece the clueless populace. But I digress. The armed forces are STILL the veritable oasis in the self-absorbed/everyman/every-clan-to-himself desert of Indian society. Sure – an attenuation of purpose, a reduction of the higher ideal has come about, corruption has crept in.. in high places of the armed forces. In spite of all that, it’s STILL a top bastion of that best of human ideal – to serve and protect! You may disagree on how much idealism and selflessness still remains in the Indian armed forces but you can’t pretend that it doesn’t exist! Because it ain’t true. Don’t piss on a soldier’s grave and drawl that he was in it only for the money because it ain’t true.
 
@@ -122,3 +123,4 @@ Reconciliation comes easy in a comfortable home, not in an unforgiving bunker.
 ये कुचे, ये गलियाँ, ये मंजर दिखाओ  
 जिन्हें नाज़ है हिन्द पर उनको लाओ  
 जिन्हें नाज़ है हिन्द पर वो कहाँ हैं
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3211
+featured_image: ../../../../uploads/2016/08/butcher_uk_pinterest_com.jpg
 categories: 
     - Food
 tags:
@@ -22,7 +23,7 @@ embed:
 image:
     - ''
 ---
-[![butcher_uk_pinterest_com](../../../../uploads/2016/08/butcher_uk_pinterest_com.jpg)](http://www.ulaar.com/2016/08/28/blame-the-butcher/butcher_uk_pinterest_com/)A recent conversation with my parents unearthed a nostalgic gem from our years in Bokaro. This is post #2 in my series on [understanding meat eaters](http://www.ulaar.com/2015/10/22/understanding-meat-eaters-through-the-lapsed-vegetarian-lens/).
+A recent conversation with my parents unearthed a nostalgic gem from our years in Bokaro. This is post #2 in my series on [understanding meat eaters](http://www.ulaar.com/2015/10/22/understanding-meat-eaters-through-the-lapsed-vegetarian-lens/).
 
 My older brother (S) was seven. We had our first cousin (let’s call her “IP”) living with us that year. She was six. I was too young to remember anything.
 
@@ -40,6 +41,4 @@ IP: “But Dad, S tells me you get *papam* if you eat meat!” (*papam* in Telug
 
 Uncle: “Silly! Only the person who killed the animal gets *papam*! Not you, me or anyone who eats it!”
 
-\*\*\*\*\*\*\*\*
 
-Next in the series: *Eating pork chops while petting your golden retriever*

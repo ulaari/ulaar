@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3158
+featured_image: ../../../../uploads/2016/04/squash_player_quote.jpg
 categories: 
     - Life
     - Sports
@@ -21,7 +22,6 @@ layout:
 embed:
     - ''
 ---
-*[![squash_player_quote](../../../../uploads/2016/04/squash_player_quote.jpg)](http://www.ulaar.com/?attachment_id=3361)Santa Cruz squash club (circa 1999)*  
 It was my second year of playing squash seriously. ‘*Seriously*‘ doesn’t mean I was any good yet. I was at that rookie stage of a squasher’s evolution when I was constantly looking for easy winners (read “low percentage drop shots or optimistic boasts”). I had signed up for a squash tourney at the Santa Cruz squash club.
 
 I have little recollection of the two games I played – quick embarrassing losses I’m sure.
@@ -63,3 +63,4 @@ If I ran an FM in 3:48, great. Let the ass kicking begin.. to get to the 3:30 to
 If I’ve run 75k multiple times, great. Let the ass kicking begin for a hilly 80k or a 24 hour ultra.
 
 If Dr. George Sheehan can get his PB at 60 years, surely I can try my darnedest in my late 40’s.
+

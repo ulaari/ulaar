@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3377
+featured_image: ../../../../uploads/2017/01/scmm_2017_pic_by_neha_gharat-1.jpg
 categories: 
     - Barefootia
     - Running

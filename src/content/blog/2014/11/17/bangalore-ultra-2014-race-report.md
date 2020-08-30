@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2993
+featured_image: ../../../../uploads/2013/11/ultra_2012_pic2.jpg
 categories: 
     - Barefootia
     - Running
@@ -117,3 +118,4 @@ Binge drinking is known to cause memory lapses. I reckon long distance running i
 - At the 63k mark, I smiled at another 75k runner. He smiled back. My smile read “Yeah! He’s going to take me.” His smile read “Yeah! I’m going to take him.” He would surge past at 64k and finish in 2<sup>nd</sup> place overall. I finished 24 minutes behind in 3<sup>rd</sup> My time was 9 hrs 17 min.
 
 Yeah – I had finished and drawn the test match. Unlike last year, my enthusiasm for next year’s race was a bit tempered. I *did* want to race this course again but on different terms.
+

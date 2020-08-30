@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3282
+featured_image: ../../../../uploads/2016/10/sheehan_quote_sweat.jpg
 categories: 
     - Running
 tags:
@@ -54,3 +55,4 @@ In Sheehan’s world, there are reasons beyond physiological that compel him to 
 > I know of few better ways to reach this primitive level where will and effort combine than interval quarters. The answer to life’s question becomes simply, yes or no. There is no place for explanations, qualifications, excuses. Will I or will I not continue until I know that this is truly the last lap?
 
 The day I start doing these kinds of intervals is when I can truly say “am doing my very best”. I’ve dubbed that state of mind as *intervaly*. I’d like to get intervaly. Sometime this year. Pretty please.
+

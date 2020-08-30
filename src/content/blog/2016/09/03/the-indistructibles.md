@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3220
+featured_image: ../../../../uploads/2016/09/indis_gy_tee_jun26_2000_IMG_20160901_224143.jpg
 categories: 
     - 'American Memories'
     - Life
@@ -49,3 +50,4 @@ Some of my accouterments have approached (or approaching) end-of-life and I want
 \#5 **Healdsburg Jazz Festival** (May 31 – Jun 3, 2000): What an[![indis_healdsburg_2000_IMG_20160828_122205](../../../../uploads/2016/09/indis_healdsburg_2000_IMG_20160828_122205.jpg)](http://www.ulaar.com/2016/09/03/the-indistructibles/indis_healdsburg_2000_img_20160828_122205/) incredible lineup of jazz musicians we were SO fortunate to hear over two days – Charles Lloyd, Pharaoh Sanders, Billy Higgins, Von and Chico Freeman. So when I saw this tank top shwag (see right), I grabbed it instantly. My favorite night time wear. At least for a few more years.
 
 [![indis_bluetee_1993_IMG_20160828_122302](../../../../uploads/2016/09/indis_bluetee_1993_IMG_20160828_122302-2.jpg)](http://www.ulaar.com/2016/09/03/the-indistructibles/indis_bluetee_1993_img_20160828_122302-3/)\#6 **Tank top from Mervyns** (1993-94): How can I Carbon-14-date this faded blue tank top? Well, watching your home team winning its first NBA Championship sorta etched things in. The seams are giving way in a few places but it (and I) aren’t giving up without a fight.
+

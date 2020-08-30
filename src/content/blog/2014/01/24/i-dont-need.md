@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2837
+featured_image: ../../../../uploads/2014/01/i-dont-need-to-know-cover.jpg
 categories: 
     - Life
     - Minimalism

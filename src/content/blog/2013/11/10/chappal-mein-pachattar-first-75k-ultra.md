@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2710
+featured_image: ../../../../uploads/2013/11/ultra_2012_pic3.jpg
 categories: 
     - Barefootia
     - Running
@@ -32,7 +33,7 @@ seo_noindex:
 
 <figure aria-describedby="caption-attachment-2809" class="wp-caption alignleft" id="attachment_2809" style="width: 198px">
 
-[![Somewhere between 12.5 and 25k.](../../../../uploads/2013/11/ultra_2012_pic3.jpg)](http://www.ulaar.com/wp-content/uploads/2013/11/ultra_2012_pic3.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2809">Somewhere between 12.5 and 25k.</figcaption></figure>
+[![Somewhere between 12.5 and 25k.](../../../../uploads/2013/11/ultra_2012_pic3.jpg)](http://www.ulaar.com/uploads/2013/11/ultra_2012_pic3.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2809">Somewhere between 12.5 and 25k.</figcaption></figure>
 
 Just a year ago, I ran my first ultra – a 50k distance at the Bangalore Ultra (Nov 2011). It was a particularly brutal rite of passage into ‘ultra’ territory. Brutal because a large chunk of the race terrain was through ploughed fields. Barring a few mountain goats and gazelles who pulsed their way to fast finishes with nary a missed step, the vast majority were falling like nine pins.
 
@@ -90,3 +91,4 @@ It was no time for solitary brooding and plodding. It was time for a good old-fa
 **Next year?**
 
 My first 75km ultra done and dusted but you know the weirdest thing? I felt there was still plenty of juice inside. Can’t wait for next year, I thought to myself.
+

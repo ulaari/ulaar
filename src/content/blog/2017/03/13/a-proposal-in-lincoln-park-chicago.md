@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3290
+featured_image: ../../../../uploads/2017/03/wp-1489672908809.jpg
 categories: 
     - Life
 tags:
@@ -37,10 +38,6 @@ My ex-colleague and friend Laurie was ambushed at the finish line of her first m
 Our friends Jason and Julie had a long relationship before they tied the knot. Along the way, Jason did a 6-month teaching-English-in-China gig. Along the way, they did TWO around-the-world backpacking vacations. During their second soirée (chronicled beautifully here), against a picturesque backdrop in some exotic island, Jason proposed to Julie. There were no selfie sticks back then and no friend in tow but I’m sure that moment is forever etched in their memories.
 
 My story is a bit different.
-
-<figure aria-describedby="caption-attachment-3423" class="wp-caption alignleft" id="attachment_3423" style="width: 300px">
-
-[![](../../../../uploads/2017/03/wp-1489672908809.jpg)](http://www.ulaar.com/wp-content/uploads/2017/03/wp-1489672908809.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3423">How I recall Lincoln Park ‘hood</figcaption></figure>
 
 Met this gorgeous girl on Jun 15 at a networking event in an art gallery in Chicago. I was deeply smitten. By the end of the evening I had made enough of an impression for her to acquiesce when I casually closed with “Hey, I enjoyed talking to you. Could you share your email address so we can catch up sometime?”
 
@@ -93,3 +90,4 @@ P.S. For the next few days, she’d keep asking me “Are you sure you meant it?
 To which I’d keep replying “I couldn’t be surer.”
 
 P.S (2). So there you have it Vikrant.
+

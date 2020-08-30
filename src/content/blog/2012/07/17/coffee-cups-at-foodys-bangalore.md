@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1891
+featured_image: ../../../../uploads/2012/07/IMG_7444.jpg
 categories: 
     - Food
 tags:
@@ -49,3 +50,4 @@ If you still haven’t figured out, here’s a slightly different view of the tw
 [![](../../../../uploads/2012/07/IMG_7445.jpg "IMG_7445")](http://www.ulaar.com/wp-content/uploads/2012/07/IMG_7445.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1894">Pic #3: left side cup unchanged, right side rotated 90 degrees</figcaption></figure>
 
 Comment away 🙂
+

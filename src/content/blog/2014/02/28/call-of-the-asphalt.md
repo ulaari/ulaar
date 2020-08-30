@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2873
+featured_image: ../../../../uploads/2014/02/asphalt-sealing2_atlanta.jpg
 categories: 
     - Barefootia
     - Running
@@ -32,7 +33,7 @@ Election time in India. Everybody loves it. The poor love it because it’s “f
 
 <figure aria-describedby="caption-attachment-2886" class="wp-caption alignleft" id="attachment_2886" style="width: 300px">
 
-[![What asphalt should look like - Atlanta](../../../../uploads/2014/02/asphalt-sealing2_atlanta.jpg)](http://www.ulaar.com/wp-content/uploads/2014/02/asphalt-sealing2_atlanta.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2886">What asphalt should look like – Atlanta</figcaption></figure>
+[![What asphalt should look like - Atlanta](../../../../uploads/2014/02/asphalt-sealing2_atlanta.jpg)](http://www.ulaar.com/uploads/2014/02/asphalt-sealing2_atlanta.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2886">What asphalt should look like – Atlanta</figcaption></figure>
 
 I love it because of the asphalt.
 
@@ -50,7 +51,7 @@ My two year barefoot running phase has had an interesting journey. In the first 
 
 <figure aria-describedby="caption-attachment-2887" class="wp-caption alignright" id="attachment_2887" style="width: 300px">
 
-[![What roads and pavements look like in Bangalore](../../../../uploads/2014/02/asphalt_bangalore.jpg)](http://www.ulaar.com/wp-content/uploads/2014/02/asphalt_bangalore.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2887">What roads and pavements look like in Bangalore</figcaption></figure>
+[![What roads and pavements look like in Bangalore](../../../../uploads/2014/02/asphalt_bangalore.jpg)](http://www.ulaar.com/uploads/2014/02/asphalt_bangalore.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2887">What roads and pavements look like in Bangalore</figcaption></figure>
 
 It may not be evident but huarache laces *wear off* (ask me later what I mean by “wear off”) every 3-4 months. The last time it happened before a Sat run in late 2013, I procrastinated the relacing and decided to go barefoot. I enjoyed it so much that I did it again for the next few Saturdays. I was finding the hills (both up and down) a lot easier to tackle. I was landing lighter and certainly not missing the slap-slap sound of the sandals. I did the [Nandi Hills pilgrimage](http://www.ulaar.com/2013/08/13/my-second-nandi-hills-climb/) twice and learnt some interesting differences between barefoot and 4mm huaraches, especially when one comes tearing down the hill.
 
@@ -59,3 +60,4 @@ After successfully negotiating the Bangalore Ultra 75km (50km in huaraches and 2
 I didn’t buy his theory entirely but it served as a forcing function. I chose barefoot for Mumbai. It seemed to be working far better for me in 2013 (compared to 2012), I was landing lighter and by corollary (or was it correlation?) I was cramping less.
 
 Since mid-Dec 2013, I switched back to barefoot. My compliance has been 95% in this period – the last two weekends being the exceptions. The score currently reads 1379km (BF) vs. 2222 (4mmH) but the former is steadily gaining ground.
+
