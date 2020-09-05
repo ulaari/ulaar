@@ -4,7 +4,6 @@ import './Subscribe.scss'
 class Subscribe extends React.Component { 
   render () {
     const mailchimpEndpoint = this.props.siteMeta.mailchimpEndpoint
-    console.log(mailchimpEndpoint)
     return (
       <div className="subscription-card">
         <div className="card-text">
