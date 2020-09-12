@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2803
+featured_image: ../../../../uploads/2013/11/ANIMAL-RIGHTS_inform2inspire_blogspot_com.jpg
 categories: 
     - Food
 tags:
@@ -24,10 +25,6 @@ seo_noindex:
     - 'false'
 ---
 *And what is good, Phaedrus, And what is not good. Need we ask anyone to tell us these things? – Robert Pirsig*
-
-<figure aria-describedby="caption-attachment-2807" class="wp-caption alignleft" id="attachment_2807" style="width: 300px">
-
-[![Pic courtesy inform2inspire.blogspot.com](../../../../uploads/2013/11/ANIMAL-RIGHTS_inform2inspire_blogspot_com.jpg)](http://www.ulaar.com/wp-content/uploads/2013/11/ANIMAL-RIGHTS_inform2inspire_blogspot_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2807">Pic courtesy inform2inspire.blogspot.com</figcaption></figure>
 
 I’ve been on this Indian Vegans Facebook group for sometime now. A fairly high traffic group so I pop in every now and then. Two days ago, somebody posted the following question:
 

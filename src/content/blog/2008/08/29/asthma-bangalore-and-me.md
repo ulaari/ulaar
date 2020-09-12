@@ -7,9 +7,10 @@ author: vishy
 description: ''
 type: post
 id: 42
-featured_image: ../../../../2008/08/depression-asthma.png
+featured_image: ../../../../uploads/2008/08/depression-asthma.png
 categories: 
-    - R2I, Life
+    - R2I
+    - Life
 tags:
     - asthma
     - bangalore

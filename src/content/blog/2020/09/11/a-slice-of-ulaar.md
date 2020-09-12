@@ -14,13 +14,10 @@ categories:
     - Habits
     - Minimalism
 tags:
-    - bokaro
-    - chicago
-    - didgeridoo
-    - flute
-    - guitar
-    - 'jethro tull'
-    - tull
+    - facebook
+    - vegan
+    - mailchimp
+    - gatsby
 post_format: []
 image:
     - ''
