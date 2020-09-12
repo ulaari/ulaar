@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 41
+featured_image: http://farm4.staticflickr.com/3277/2716075000_1af9d451ec.jpg
 categories: 
     - R2I
 tags:
@@ -92,3 +93,4 @@ It is Jul 28 and I’m writing this post from my friend’s house in Cedar Falls
 I’m having trouble embedding pictures so here’s the Flickr link: [Farewell USA Trip in Pictures](http://www.flickr.com/photos/ulaar/sets/72157606449242029/).
 
 *Update (Jul 2, 2012)*: Did some formatting tweaks and embedded one of the beautiful Crater Lake pictures.
+

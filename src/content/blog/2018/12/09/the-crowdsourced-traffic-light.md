@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1844
+featured_image: ../../../../uploads/2018/12/crazy_intersection_driveu_in.jpeg
 categories: 
     - India
 tags:
@@ -30,9 +31,6 @@ embed:
 sidebar_position:
     - as_blog
 ---
-<figure aria-describedby="caption-attachment-3906" class="wp-caption alignleft" id="attachment_3906" style="width: 300px">
-
-[![](../../../../uploads/2018/12/crazy_intersection_driveu_in.jpeg)](http://www.ulaar.com/2018/12/09/the-crowdsourced-traffic-light/crazy_intersection_driveu_in/)<figcaption class="wp-caption-text" id="caption-attachment-3906">Pic courtesy driveu.in</figcaption></figure>
 
 I’ve been wanting to write this post since 2009. Really. Have a look at [Year in Bangalore – the Unwritten Posts](http://www.ulaar.com/2009/09/06/a-year-in-bangalore-the-unwritten-blog-posts/).
 
@@ -52,3 +50,4 @@ Two perpendicular flows of motorists at an intersection represent two opposing t
 Metaphorically, a special kind of garden hose (with a perpendicular connector) can be used to explain the ebbing and flowing of the traffic patterns. The team that *does not* own the flow, has to start pinching the opposing direction’s hose, thereby narrowing the breadth of the flow. The pinching happens either by the group of frontline motorists, a collective moving-forward into the well of the intersection or.. by aggressive motorist(s) who can move quickly and block a section of the opposing flow. As the flow starts stuttering and thinning, motorists from the other team capitalize, cross-over and establish the next prevailing flow.. until it’s time for the flow to change again.
 
 May the flow be with you. At your next crowdsourced traffic light.
+

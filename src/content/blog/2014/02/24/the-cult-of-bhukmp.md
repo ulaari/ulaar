@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2870
+featured_image: ../../../../uploads/2014/02/bhukmp-group-photo-cubbon.jpg
 categories: 
     - Running
 tags:
@@ -101,3 +102,4 @@ Thou shalt get more &amp; more people addicted to the madness called running…
 Thou shalt promptly post to your blog, the contents of the crowd-sourced FB post that you started 🙂
 
 Thou shalt never forget “what happens in BHUKMP/Dandi stays in BHUKMP/Dandi” or else…
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 858
+featured_image: ../../../../uploads/2010/08/LonelinessOfTheLongDistanceRunner_wikipedia_org.jpeg
 categories: 
     - Running
 tags:
@@ -27,9 +28,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2028" class="wp-caption alignleft" id="attachment_2028" style="width: 204px">
-
-[![](../../../../uploads/2010/08/LonelinessOfTheLongDistanceRunner_wikipedia_org.jpeg "LonelinessOfTheLongDistanceRunner_wikipedia_org")](http://en.wikipedia.org/wiki/The_Loneliness_of_the_Long_Distance_Runner)<figcaption class="wp-caption-text" id="caption-attachment-2028">A 1962 film based on the book by the same name – Pic: courtesy Wikipedia</figcaption></figure>
 
 1. 5k and 10k are ‘short’ runs.
 2. Your weekly mileage is 25k and turns out to be a terrible week.
@@ -43,3 +41,4 @@ seo_noindex:
 10. Friday night ritual involves: heavy carb loading, extra hydration, corralling all the running gear, charging the Garmin, setting multiple wake-up alarms on your phone.
 11. You are stuck in a traffic jam and you start thinking ruefully “I could have run the distance in less time!”
 12. You return home from a 2-hour run and your spouse greets you with concern – “Back so soon? Everything ok?”
+

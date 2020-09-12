@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3737
+featured_image: ../../../../uploads/2018/04/IMG_20180506_125835.jpg
 categories: 
     - Photos
 tags: []

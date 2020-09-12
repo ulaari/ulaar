@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3247
+featured_image: ../../../../uploads/2016/09/indian_goat.jpg
 categories: 
     - Food
 tags:
@@ -23,7 +24,6 @@ embed:
 image:
     - ''
 ---
-[![London, Sept 2010](../../../../uploads/2016/09/indian_goat.jpg)](http://www.ulaar.com/2016/09/11/witness-to-a-slaughter/london-sept-2010/)It was my second year at [BIT Mesra](https://www.bitmesra.ac.in/).
 
 My friend was the hostel mess secretary (hostel #7). One of the secretary’s responsibilities was to accompany the hostel mess manager for the weekly groceries+produce shopping.
 
@@ -81,3 +81,4 @@ Questions to readers:
 - If yes, how old were you? and did it have any impact on your psyche?
 
 Do leave a comment if you are so inclined.
+

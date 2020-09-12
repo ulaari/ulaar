@@ -10,6 +10,8 @@ id: 4101
 featured_image: ../../../../uploads/2020/01/Screen-Shot-2020-01-04-at-11.09.48-AM.png
 categories: 
     - Experiments
+    - Habits
+    - Minimalism
     - Running
 tags:
     - nike

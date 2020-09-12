@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3927
+featured_image: ../../../../uploads/2019/02/deep-nestor-image.jpg
 categories: 
     - Books
     - Life
@@ -73,3 +74,4 @@ Nestor’s story is satisfying on both levels, and teaches that we live on the s
 Deep demonstrates that a rich, life-filled, mysterious realm of vast possibility is contained in that blackness. It will certainly enrich the thinking of anyone planning to spend time at the beach.
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="394" src="https://www.youtube.com/embed/cRN1tJghpzw?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" type="text/html" width="700"></iframe></span></div></figure>
+

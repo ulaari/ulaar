@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3041
+featured_image: ../../../../uploads/2015/10/lapsed-vegans.jpg
 categories: 
     - Food
 tags:
@@ -66,11 +67,9 @@ Like that woman in the restaurant, you don’t WANT to know how the dish on your
 
 The good news is that smart inter-disciplinarian scientists are creating meat in-the-lab which will taste and feel no different from traditional meat. So whatever subliminal conflicts you might have in your mind might just be resolved in your lifetime.
 
-Next episode candidates in this series…
+Related posts...
 
 - [*Blame the butcher!*](http://www.ulaar.com/2016/08/28/blame-the-butcher/)
-- *Hey vegetarian, you are just a lapsed vegan!*
-- *Killing for meat or clothes: does animal size matter?*
-- *Eating pork chops while petting your golden retriever*
+- [*Eating pork chops while petting your golden retriever*](https://www.ulaar.com/2018/10/20/eating-pork-chops-while-petting-your-golden-retriever/)
 - [Why do vegetarians annoy people who eat meat?](http://www.ulaar.com/2016/09/18/why-do-vegetarians-annoy-people-who-eat-meat/)
-- *Vegetarians and the “anticipated reproach” theory*
+

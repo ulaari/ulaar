@@ -1,7 +1,7 @@
 ---
 title: 'Never too late to be alone'
 date: '2016-05-23T17:50:24+05:30'
-status: publish
+status: draft
 permalink: /2016/05/23/never-too-late-to-be-alone
 author: vishy
 description: ''

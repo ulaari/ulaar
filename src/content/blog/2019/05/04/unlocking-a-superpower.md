@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3938
+featured_image: ../../../../uploads/2019/05/alarm-clock-app-windows-10-1.jpg
 categories: 
     - Life
 tags: []
@@ -98,3 +99,4 @@ But I had been there before.. not for too long but still.
 The only explanation is that old hackneyed one — I must have *really really really* wanted to stick to my training regimen this time.
 
 You are probably thinking I had a great year of racing with PBs galore. The truth couldn’t be further from that. But that’s another story.
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 670
+featured_image: ../../../../uploads/2010/07/haile_gebrselassie_topnews_in.jpeg
 categories: 
     - Running
 tags:
@@ -53,3 +54,4 @@ I had originally posted this story in my Xaviers Bokaro alumni mailing list back
 *Unfortunately, there’s a final sad twist to the story. That was the year Loreto house tied for 3rd place in the overall standings with Carmel house! Had I completed the race and secured an additional point, Loreto would have been in sole possession of 3rd place. I recall C being very sore on this point and guilted me on several occasions “had you got that one point, Loreto would have…”*
 
 Shame is temporary. Quitting is permanent! (Not sure who said this)
+

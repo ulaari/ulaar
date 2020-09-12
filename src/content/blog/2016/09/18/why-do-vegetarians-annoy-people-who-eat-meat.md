@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3256
+featured_image: ../../../../uploads/2016/09/vegan-hummus-terrorist1.jpg
 categories: 
     - Food
 tags:
@@ -25,7 +26,6 @@ embed:
 image:
     - ''
 ---
-[![vegan_joke](../../../../uploads/2016/09/vegan_joke-1.gif)](http://www.ulaar.com/2016/09/13/why-do-vegetarians-annoy-people-who-eat-meat/vegan_joke-2/)
 
 Why do vegetarians annoy people who eat meat?
 

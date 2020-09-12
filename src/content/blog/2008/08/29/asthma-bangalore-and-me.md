@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 42
+featured_image: ../../../../2008/08/depression-asthma.png
 categories: 
-    - R2I
+    - R2I, Life
 tags:
     - asthma
     - bangalore
@@ -54,9 +55,6 @@ tags:
     - 'why return to india'
 post_format: []
 ---
-<figure aria-describedby="caption-attachment-1245" class="wp-caption alignright" id="attachment_1245" style="width: 258px">
-
-[![](http://ulaar.files.wordpress.com/2008/08/asthma_my_healthguardian_pic.jpeg "asthma_my_healthguardian_pic")](http://ulaar.files.wordpress.com/2008/08/asthma_my_healthguardian_pic.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1245">Pic: courtesy myhealthguardian.com</figcaption></figure>
 
 Asthma and I go back a long way. One cold winter in [Bokaro](http://en.wikipedia.org/wiki/Bokaro_Steel_City), when I was 6 or 7, asthma came uninvited into my life. It’s only a slight exaggeration to say that it changed my life. Besides taking a lot of medicines and being bedridden more than the average kid, the big lifestyle impact was that I didn’t play much of any sport during my school or college years. In the 70’s and 80’s, asthma was not well understood – I mean besides the medicines prescribed by allopathic &amp; homeopathic doctors to suppress asthma. [Sports Star](http://www.sportstaronnet.com/) used to be part of my staple reading during my high school years. I was deeply puzzled when I read that [Morten Frost Hansen](http://en.wikipedia.org/wiki/Morten_Frost) (Dutch All England badminton champ) and [Jackie Joyner-Kersee](http://en.wikipedia.org/wiki/Jackie_Joyner_Kersee) (heptathlon Olympic champion) suffered from asthma in their childhood. I was to learn later that the best way to combat asthma is to exercise “more” (not “less”).
 

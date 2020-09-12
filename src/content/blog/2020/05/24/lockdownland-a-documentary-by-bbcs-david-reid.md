@@ -24,3 +24,4 @@ David, a super affable chap and India lover based in New Delhi, continued to pro
 This is possibly the first time a documentary from David does not involve him being the cameraman. His superb editing skills are on display however. Give it a dekko.
 
 <figure class="wp-block-embed-vimeo wp-block-embed is-type-video is-provider-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/419536632" webkitallowfullscreen="" width="700"></iframe></div></div></figure>
+
