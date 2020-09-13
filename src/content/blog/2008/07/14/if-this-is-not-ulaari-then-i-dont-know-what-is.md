@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 48
+featured_image: ../../../../uploads/2008/07/unconventional-controls.jpg
 categories: 
     - R2I
 tags:

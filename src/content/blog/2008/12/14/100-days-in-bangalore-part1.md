@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 299
+featured_image: ../../../../uploads/2008/12/vidhana_soudha_tripadvisor_com_sg.jpg
 categories: 
     - R2I
 tags:
@@ -69,7 +70,7 @@ I had planned to write this post sometime back – a retrospective kinda post pr
   - Title of this article should have read “long-aloof”, not “long-isolated”
 - [To South Mumbai](http://www.indianexpress.com/news/to-south-mumbai/394275/)
 
-Within the first 24 hours, I even wrote the post [Nahin Chalta Hai](http://ulaar.wordpress.com/2008/11/27/nahin-chalta-hai/) with my reactions and 2 cents on the changes India needs to undertake. After a week I realized that it’s impossible for me (in my capacity of a part-time blogger) to remotely do justice to the aftermath of the Mumbai attacks. So I decided to return to the blog’s original theme — which is to provide a flavor of an Indian family’s return to accustomed earth after spending 40% of our lives in America.
+Within the first 24 hours, I even wrote the post [Nahin Chalta Hai](https://www.ulaar.com/2008/11/27/nahin-chalta-hai/) with my reactions and 2 cents on the changes India needs to undertake. After a week I realized that it’s impossible for me (in my capacity of a part-time blogger) to remotely do justice to the aftermath of the Mumbai attacks. So I decided to return to the blog’s original theme — which is to provide a flavor of an Indian family’s return to accustomed earth after spending 40% of our lives in America.
 
 100 days completed in Bangalore — so what’s the mood at in the Kuruganti household? Pretty good, it turns out. Here’s a glimpse at the different facets of our settling down which encourage us that we may be on the right track…
 
@@ -86,3 +87,4 @@ Yes – Bangalore traffic really sucks and we are so glad we have Sunil to mitig
 **Jethro Tull at the Palace Grounds**: Thanks to my dear biwi, I was alerted about Tull’s Dec 2 concert in Bangalore at the Palace Grounds. I couldn’t believe it! If I needed a musical ‘welcome home’, this was it. I’ve been to 4 prior Tull concerts (three in Chicago, Illinois and one in San Jose, California) and I don’t miss an opportunity when Tull comes a touring. My dear biwi (bless her heart again!) was going to hold the home fort on Dec 2 (a weekday evening) while I indulged myself. Found several colleagues who were Tull enthusiasts so eventually we had a gang of five. A dear friend from SF Bay Area had to cancel his business trip due to illness so spot#5 got filled in the eleventh hour by another dear friend (from my Xaviers Bokaro days). Considering that this concert took place 5 days after the Mumbai attacks, we headed to the concert with some mixed feelings but ended up having a rollicking time. Ian Anderson was at his entertaining best. It was not a classic Tull concert – Part 1 was Anoushka Shankar and her troupe, Part 2 was classic Tull, and Part 3 was a fusion with Tull and Anoushka. The encore closer was a very unique and incredible live variation of Locomotive Breath with sitar and bansoori blending in exquisitely. I managed to record a few Qik videos – will post soon.
 
 Judging by the length of the post so far, realized that this is a two-part series so will end the post for now. Continued in [100 Days in Bangalore (Part 2)](http://ulaar.wordpress.com/2008/12/30/100-days-in-bangalore-part-2/).
+

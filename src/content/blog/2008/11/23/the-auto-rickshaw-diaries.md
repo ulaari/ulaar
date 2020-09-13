@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 284
+featured_image: ../../../../uploads/2008/11/autorick-nag.jpg
 categories: 
     - 'Car &amp; Driver'
     - India
@@ -49,3 +50,4 @@ My friend Soumya (who returned to India from America 8 years ago) sent me the fo
 Apparently Soumya and I are not alone in our fascination with the Indian auto rickshaw. [Priyanka Khot](http://delhiphotodairy.blogspot.com/) from Delhi waxes eloquent on *“the first love of her adult life – my hero – the Auto-Rickshaw* in her blog post [I Miss Auto-Rickshaws.](http://delhiphotodairy.blogspot.com/2008/10/i-miss-auto-rickshaws.html)
 
 Stay tuned since this is merely the beginning of The Auto Rickshaw Diaries.
+

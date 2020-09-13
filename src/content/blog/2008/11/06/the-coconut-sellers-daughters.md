@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 231
+featured_image: ../../../../uploads/2008/11/coconut-seller.jpg
 categories: 
     - India
     - R2I

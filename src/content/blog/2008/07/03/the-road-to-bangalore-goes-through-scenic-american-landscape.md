@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 41
-featured_image: ../../../../uploads/crater-lake-oregon.jpg
+featured_image: ../../../../uploads/2008/07/crater-lake-oregon.jpg
 categories: 
     - R2I
 tags:

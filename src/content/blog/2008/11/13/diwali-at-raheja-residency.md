@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 249
+featured_image: ../../../../uploads/2008/11/diwali-bangalore.jpeg
 categories: 
     - R2I
 tags:
@@ -30,3 +31,4 @@ The second and third videos were Qik’d at Mantri Classic – a smaller apartme
 <span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="394" src="https://www.youtube.com/embed/pmBXBS7LVqQ?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" type="text/html" width="700"></iframe></span>
 
 <span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="394" src="https://www.youtube.com/embed/lZ9KR0rTy9I?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" type="text/html" width="700"></iframe></span>
+

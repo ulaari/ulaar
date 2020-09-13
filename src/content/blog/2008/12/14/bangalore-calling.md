@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 26
+featured_image: ../../../../uploads/2008/12/cubbon_park_BANGALORE1_12929f_thehindu_com.jpeg
 categories: 
     - R2I
 tags:
@@ -102,3 +103,4 @@ Yes to all three – plenty (read PLENTY) of job options – especially for tech
 *Vishy*
 
 —–
+

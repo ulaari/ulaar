@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 177
+featured_image: ../../../../uploads/2008/10/soap-bubbles.jpg
 categories: 
     - R2I
 tags:
@@ -40,3 +41,4 @@ My good friend Monish who had moved to Bangalore from Silicon Valley last year h
 3. <span style="text-decoration:underline;">The Commuting Bubble</span>: With the double whammy of gnarling traffic and pollution looming large in Bangalore, getting the commuting bubble right is crucial. If you’ve been lucky enough to have your work and living bubbles located in close proximity, that’s half the battle won. A comfortable car (with a working air conditioning unit) addresses the bulk of the pollution. Hiring a driver goes a long way in alleviating the other pain point – painful traffic volumes. <span class="query">Following my June </span><span class="query">reconnaissance trip to Bangalore, Bombay &amp; Delhi, I wrote this post (</span><span class="query"> [Service with a Smile](http://ulaar.wordpress.com/2008/06/29/service-with-a-smile/)) where I discuss the broadening roles played by drivers in the Indian household. I’m pleased to report that we are proud owners of an arctic white [Maruti Suzuki SX4](http://www.marutisx4.com/home.html). A young lad (by name of Sunil Kumar) was hired in mid-Sep as our driver and has been rendering great chauffering service. </span>
 
 So go forth and claim your three bubbles.
+

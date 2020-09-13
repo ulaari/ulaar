@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 104
+featured_image: ../../../../uploads/2008/08/independence_day_celebrations_new_delhi.jpeg
 categories: 
     - R2I
 tags:
@@ -70,3 +71,4 @@ Flash update: In the midst of our Farewell USA tour (Cedar Falls to be precise),
 The nice people from Adobe had sent a Toyota Innova (the Indian minivan) with a luggage rack. I needn’t have worried about the luggage not fitting. The drive from the new [Bangalore International Airport](http://www.bengaluruairport.com/portal/page/portal/BIAL_PageGroup/BIAL_HOME) to the Adobe guest house on Bannerghatta Road took one hour. Our driver pointed out all the neighbourhoods along the way – our education and settling down in Bangalore had begun.
 
 P.S. Has anyone noticed that I’m gradually switching from American to British spelling (colour instead of color)? Strange thing is that this happened subconsciously.
+

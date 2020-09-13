@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 36
+featured_image: ../../../../uploads/2008/06/rk_laxman_maid_foreign_assignment.jpg
 categories: 
     - R2I
 tags:
@@ -61,3 +62,4 @@ The Indian chauffeur is called a *driver*. In most cases, the driver does just t
 The cook is the second most important service professional in the new age Indian household. Of the 15-odd friends whom I met, 90% employed a cook. If you exclude families with stay-at-home-moms, the number shoots up to 100%. The cook either lives in or spends a good chunk of the day in the house. In some cases, the cook also doubles as a maid.
 
 If you are a fan of P.G. Wodehouse (like me), you’ve probably read the exploits of [The Inimitable Jeeves](http://www.amazon.com/Inimitable-Jeeves-P-G-Wodehouse/dp/0140284125). Granted there are no butlers in the Indian household but the cook comes really close. On more than one occasion, the cooks in my friends’ households have shimmered up to me (the shimmering would make Jeeves proud) to enquire whether I’d like a cup of tea. Whether it’s the driver, the cook, the maid, or the facilities manager among my friends’ households, a common trait they displayed was their cheerful and genuine smile. Thus the association with that Wodehouse classic [Service with a Smile ](http://www.amazon.com/Service-Smile-P-G-Wodehouse/dp/0930330927)when I began this post.
+

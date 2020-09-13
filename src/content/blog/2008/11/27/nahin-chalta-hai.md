@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 301
+featured_image: ../../../../uploads/2008/11/tajnagar_railway_station_whataworldagain_wp_com.jpg
 categories: 
     - R2I
 tags:
@@ -75,3 +76,4 @@ And a final request, could we please have the Prime Minister or Sonia Gandhi or 
 An example of a celebrity produced (in this case Hollywood stars) video inspiring young Americans to vote in the recently concluded USA presidential election.
 
 <span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="394" src="https://www.youtube.com/embed/0vtHwWReGU0?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" type="text/html" width="700"></iframe></span>
+

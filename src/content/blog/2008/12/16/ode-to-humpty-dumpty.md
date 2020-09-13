@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 323
+featured_image: ../../../../uploads/2008/12/humpty_dumpty.jpg
 categories: 
     - Random
 tags:

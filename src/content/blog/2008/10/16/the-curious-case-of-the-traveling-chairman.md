@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 126
+featured_image: ../../../../uploads/2008/10/npskoramangala.jpg
 categories: 
     - R2I
     - 'Schools &amp; EDU'
@@ -82,3 +83,4 @@ http://r2blore.blogspot.com/2007/02/list-of-good-schools-in-bangalore.html
 *NPS* <span style="text-decoration: line-through;">*Koramangala*</span> *HSR Layout is no government office but the lady at the reception desk was an interesting blend of the aforementioned profiles**. When it came to my turn, her expression bore a mixture of boredom and mild annoyance.*
 
 *—- end retracted portion*
+

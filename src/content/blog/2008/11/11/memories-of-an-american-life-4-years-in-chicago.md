@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 238
+featured_image: ../../../../uploads/2008/11/lake_shore_drive_bw_diversey_fullerton.jpg
 categories: 
     - 'American Memories'
 tags:

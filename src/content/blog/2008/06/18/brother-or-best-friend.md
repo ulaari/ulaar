@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 27
+featured_image: ../../../../uploads/2008/06/13th-floor-barton-center.jpg
 categories: 
     - R2I
 tags:
@@ -47,3 +48,4 @@ My two-week whirlwind India trip was not touching Hyderabad. This was a bummer b
 I was really looking forward to it. My brother is older than me and I spent my first 20-something years hero-worshipping him. He was one of those brothers who shared a lot of his life experiences with me so that I could learn from his mistakes. I was one of those brothers who soaked all this up like a sponge. I’m also one of those chaps who go through life self-appointing one guru after another. My brother was my first guru.
 
 Coming back to the Bangalore meeting with my brother – we spent all of 30 hours together but we had a blast. During my America years, the frequency of our communications had reduced significantly but not the quality. Somehow, magically, we could just pick up where we had left off, whether it was one week or four months since our last conversation. So here we were in a really nice 13th floor rooftop restaurant in Bangalore chatting away when… after a lull, he remarked “Listening to you talk this evening, you sound more like my best friend than my brother.” Man! If I needed any more reasons for why I was returning to India (not that I did), here was one more. Looking forward to spending more moments like these in the coming years.
+

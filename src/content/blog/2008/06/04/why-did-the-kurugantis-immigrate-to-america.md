@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 20
+featured_image: ../../../../uploads/2008/06/third-world-america.jpeg
 categories: 
     - R2I
 tags:
@@ -56,9 +57,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1660" class="wp-caption alignleft" id="attachment_1660" style="width: 259px">
-
-[![](../../../../uploads/2008/06/third-world-america.jpeg "third-world-america")](http://www.ulaar.com/wp-content/uploads/2008/06/third-world-america.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1660">Pic: courtesy indianamerica.wordpress.com</figcaption></figure>
 
 Sometime in my 2nd year of engineering at [BIT Mesra](http://www.bitmesra.ac.in/), I first dreamed of coming to America, getting trained as a computer scientist, doing cutting-edge research and becoming wildly famous – you know, the usual dreams that 2nd year engineering students have. 🙂 With a single-minded focus, I threw myself into the application process for graduate studies – acing the GRE, writing Statement of Purposes, obtaining recommendation letters, etc. Four years later, on Aug 15, 1992, I boarded a Lufthansa flight to Houston to start my MS program at University of Houston. At this point, I was neither thinking of settling down in America nor did I have a definitive plan to return to India – my operating philosophy was simply to *wait and see* how my career progressed.
 
@@ -68,3 +66,4 @@ I’ve thought long and hard about why I dreamed of America in the first place. 
 
 1. Books are where dreams begin. I was a serious bookworm during my school years. It is not an exaggeration to say that I devoured 5-6 books a week (when school was in session). My earliest images of America were of the Wild West which was fueled by a heavy diet of [Louis L’Amour](http://www.louislamour.com/), Oliver Strange’s [Sudden](http://en.wikipedia.org/wiki/Sudden), and [Zane Gray](http://en.wikipedia.org/wiki/Zane_Grey). My reading then moved to adventure, intrigue, and science fiction where I encountered the likes of [Alistair MacLean](http://en.wikipedia.org/wiki/Alistair_MacLean), [Clive Cussler](http://en.wikipedia.org/wiki/Clive_Cussler), and [Isaac Asimov](http://en.wikipedia.org/wiki/Isaac_Asimov). Somewhere in the zillion mentions and portrayals of America (wild west, MIT, and CalTech), I became fascinated and wanted to *see* and *visit* America. By the time I reached college, the resolve became stronger and turned into professional hunger.
 2. By the time I reached [BIT Mesra](http://www.bitmesra.ac.in/) (my undergraduate alma mater), I had heard of many many folks (especially engineering graduates) who had immigrated to America to pursue graduate study. One of my friend’s brothers (who was already a professor at University of Pennsylvania) had won the prestigious Presidential Young Scientist award. All these social proof points added to my determination to pursue the (Indian) American Dream.
+

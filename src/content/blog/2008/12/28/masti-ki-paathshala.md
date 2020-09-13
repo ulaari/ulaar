@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 131
+featured_image: ../../../../uploads/2008/12/masti-ki-paathshala.jpg
 categories: 
     - R2I
     - 'Schools &amp; EDU'
@@ -59,3 +60,4 @@ The odds were stacked against us since we arrived in Bangalore a few months afte
 - Curriculum, teaching style and facilities suggest an International bent with an emphasis on extra-curricular activities
 
 The main criticism we heard about Greenwood was its high teacher turnover. We figured we’d keep an eye on that trend for the first year and take our chances. Our current thinking is to continue S at Greenwood High unless he gets admission into one of the NPS branches.
+

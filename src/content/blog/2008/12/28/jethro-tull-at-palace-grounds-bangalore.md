@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 337
+featured_image: ../../../../uploads/2008/12/tull-bangalore.jpg
 categories: 
     - Photos
     - R2I
@@ -61,3 +62,4 @@ A li’l bit of Heavy Horses: <span class="embed-youtube" style="text-align:cent
 A New Day Yesterday: <span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="394" src="https://www.youtube.com/embed/2Tu4cr9EFm0?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" type="text/html" width="700"></iframe></span>
 
 And… taking the bow at the closer: <span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="394" src="https://www.youtube.com/embed/nB3zH30isCs?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" type="text/html" width="700"></iframe></span>
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 99
+featured_image: ../../../../uploads/2008/08/sweat_nicolenewtonportfolio_com.jpeg
 categories: 
     - R2I
 tags:
@@ -82,3 +83,4 @@ After prancing around the country for a few weeks, we arrived at my cousin’s h
 The final logistics hop was to get all our baggage from Basking Ridge to my other cousin’s condo in Manhattan which we achieved in two separate trips. And finally (yes, really this time) a Super Shuttle ferried all our luggage to New York JFK airport – this was the most straightforward trip of all. As I reflect upon the above, I cannot help but feel a sense of satisfaction and accomplishment for pulling it off.
 
 P.S. Perhaps I should named this post “The Great Social Move” or “The Amazing Race”. What do you think?
+

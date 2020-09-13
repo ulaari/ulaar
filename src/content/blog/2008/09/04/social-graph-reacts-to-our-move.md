@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 51
+featured_image: ../../../../uploads/2008/09/adobe-bangalore-office-2008.jpg
 categories: 
     - R2I
 tags:
@@ -143,3 +144,4 @@ Back in July, in typical Kuruganti style, I sent an email to the vast majority o
 - *All the best to you. I hope my travels will once again bring me to Bangalore, and if so, I will definitely be in contact. Travel safely and keep well.*
 - *Wow!! That’s amazing news. I’m really happy for you! I’m also glad to have someone to visit if i’m ever in bangalore again. 🙂 Please keep us all up to date. Good luck!*
 - *Wow that is big news!!!! Would you happen to have some time before you leave the bay area to meet up for a coffee or something? Would love to connect before you head out to BLR. My in-laws are in BLR and we do visit every time we go back.*
+

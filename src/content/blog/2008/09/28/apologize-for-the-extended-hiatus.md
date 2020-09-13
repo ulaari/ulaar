@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 156
+featured_image: ../../../../uploads/2008/09/standby.jpeg
 categories: 
     - R2I
 tags:
@@ -43,11 +44,10 @@ It’s been 3+ weeks since my last post – I know! Work has kicked into high ge
 
 I’m developing a fresh appreciation for the part-time blogger. The full-time blogger merely has to juggle between work (writing) and family. The part-time blogger has to juggle between work (the gig that pays the bills), family (what feeds the soul), and finding that slice of 1-2 hours to complete a post. Meanwhile, the following posts are awaiting the finishing touch while fresh topics are clamoring for my mind share.
 
-- The man called Murali Menon
-- [The Three Bubbles](http://ulaar.wordpress.com/2008/10/25/the-three-bubbles/)
-- New Wheels – arranged or love marriage?
-- [Three Coincidences](http://ulaar.wordpress.com/2008/10/26/three-coincidences/)
+- [The Three Bubbles](https://www.ulaar.com/2008/10/25/the-three-bubbles/)
+- [Three Coincidences](https://www.ulaar.com/2008/10/26/three-coincidences/)
 
-Oct 27: Updated with link to [The Three Bubbles](http://ulaar.wordpress.com/2008/10/25/the-three-bubbles/).
+Oct 27: Updated with link to [The Three Bubbles](https://www.ulaar.com/2008/10/25/the-three-bubbles/).
 
-Nov 1: Updated with link to [Three Coincidences](http://ulaar.wordpress.com/2008/10/26/three-coincidences/).
+Nov 1: Updated with link to [Three Coincidences](https://www.ulaar.com/2008/10/26/three-coincidences/).
+

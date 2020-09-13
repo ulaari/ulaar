@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 119
+featured_image: ../../../../uploads/2008/08/bangalore-traffic-pic.jpg
 categories: 
     - R2I
 tags:
@@ -57,3 +58,4 @@ The first four days whizzed away pretty quickly with a rhythm. I’d go to work 
 - The Indian Lockbox
 
 (Oct 17: Updated with link to [The curious case of the ‘traveling’ chairman](http://ulaar.wordpress.com/2008/10/16/the-curious-case-of-the-traveling-chairman/))
+

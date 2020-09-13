@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 342
+featured_image: ../../../../uploads/2008/12/uofh_science_engg_bldg.jpeg
 categories: 
     - 'American Memories'
 tags:
@@ -39,7 +40,7 @@ seo_noindex:
 
 [![](../../../../uploads/2008/12/uofh_science_engg_bldg.jpeg "uofh_science_engg_bldg")](http://www.ulaar.com/wp-content/uploads/2008/12/uofh_science_engg_bldg.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1725">University of Houston – Science &amp; Engineering classroom complex (Pic: courtesy hayneswhaley.com)</figcaption></figure>
 
-This is Part 2 of a 3-part series on my life in America spanning Houston, Chicago and SF Bay Area. Part 1 was [Memories of an American Life – 4 years in Chicago](http://ulaar.wordpress.com/2008/11/11/memories-of-an-american-life-4-years-in-chicago/). I arrived in Houston, Texas on August 16, 1992 with one friend (my friend &amp; classmate from BIT Ranchi – Namita Raghavan). I left the city in October 1994 (headed to Chicago) with a Masters degree, several dozen good friends, and plenty of good memories. Below are some of my fond recollections:
+This is Part 2 of a 3-part series on my life in America spanning Houston, Chicago and SF Bay Area. Part 1 was [Memories of an American Life – 4 years in Chicago](https://www.ulaar.com/2008/11/11/memories-of-an-american-life-4-years-in-chicago/). I arrived in Houston, Texas on August 16, 1992 with one friend (my friend &amp; classmate from BIT Ranchi – Namita Raghavan). I left the city in October 1994 (headed to Chicago) with a Masters degree, several dozen good friends, and plenty of good memories. Below are some of my fond recollections:
 
 - Seeing Namita’s friendly face at the airport.
 - My first experience of American freeways in Soumya’s tiny 1992 Dodge Colt with cars whizzing by on both sides.
