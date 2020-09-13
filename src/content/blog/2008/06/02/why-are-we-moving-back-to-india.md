@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 18
+featured_image: ../../../../uploads/2008/06/us_india_flags_newswala_com.jpg
 categories: 
     - R2I
 tags:
@@ -63,9 +64,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1484" class="wp-caption alignleft" id="attachment_1484" style="width: 275px">
-
-[![](../../../../uploads/2008/06/us_india_flags_newswala_com.jpg "us_india_flags_newswala_com")](http://www.ulaar.com/wp-content/uploads/2008/06/us_india_flags_newswala_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1484">Pic: courtesy newswala.com</figcaption></figure>
 
 This is the first question our friends and acquaintances ask when they learn about our India plans. The first part of the answer lies in understanding [why we immigrated to America](http://ulaar.wordpress.com/2008/06/04/why-did-the-kurugantis-immigrate-to-america/) in the first place.
 

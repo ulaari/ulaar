@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 17
+featured_image: ../../../../uploads/2008/06/writing_noracaron_com.jpeg
 categories: 
     - Random
 tags:
@@ -48,9 +49,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1553" class="wp-caption alignleft" id="attachment_1553" style="width: 273px">
-
-[![](../../../../uploads/2008/06/writing_noracaron_com.jpeg "writing_noracaron_com")](http://www.ulaar.com/wp-content/uploads/2008/06/writing_noracaron_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1553">Pic: courtesy noracaron.com</figcaption></figure>
 
 The itch to blog has been there for several years. But I’m more of a generalist than a specialist. I believe it’s much easier for specialists to blog regularly than generalists. Audiences are interested in reading and subscribing to blogs that have a certain theme, focus, and some level of predictability. The operative word is *focus*.
 

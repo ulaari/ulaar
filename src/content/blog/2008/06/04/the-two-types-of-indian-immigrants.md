@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 21
+../../../../uploads/2008/06/lay_down_roots_fineartamerica_com.jpg
 categories: 
     - R2I
 tags:
@@ -49,9 +50,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1489" class="wp-caption alignleft" id="attachment_1489" style="width: 194px">
-
-[![](../../../../uploads/2008/06/lay_down_roots_fineartamerica_com.jpg "lay_down_roots_fineartamerica_com")](http://www.ulaar.com/wp-content/uploads/2008/06/lay_down_roots_fineartamerica_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1489">Home is wherever you can lay down some roots (Pic: courtesy fineartamerica.com)</figcaption></figure>
 
 *“When an Indian professional becomes a ‘Non-Resident Indian’ in the United States , he soon starts suffering from a strange disease. The symptoms are a fixture of restlessness,anxiety, hope and nostalgia. The virus is a deep inner need to get back home. Like Shakespeare said, “The spirit is willing but the flesh is weak.” The medical world has not coined a word for this malady. Strange as it is, it could go by a stranger name, the “X + 1″ syndrome.”*
 
@@ -70,3 +68,4 @@ However, the future for the *passive should-we* group is not as bleak as R. K. N
 Update (Jun 30): R.K. Narayan’s essay “India and America” from [A Writer’s Nightmare: Selected Essays 1958-1988](http://crack-a-book.blogspot.com/2007/09/writers-nightmare-selected-essays-rk.html) has a more optimistic ending…
 
 *“The Indian in America who is not able to live wholeheartedly on this basis finds himself in a halfway house; he is unable to overcome his conflicts while physically flourishing on the American soil. One may hope that the next generation of Indians (American-grown) will do better by accepting the American climate spontaneously; or, alternatively, return to India to lead a different life.”*
+

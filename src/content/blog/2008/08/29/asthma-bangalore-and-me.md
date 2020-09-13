@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 42
-featured_image: ../../../../uploads/2008/08/depression-asthma.png
+featured_image: ../../../../uploads/2008/08/depression-asthma.jpg
 categories: 
     - R2I
     - Life

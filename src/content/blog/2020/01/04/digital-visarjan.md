@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 4101
-featured_image: ../../../../uploads/2020/01/Screen-Shot-2020-01-04-at-11.09.48-AM.png
+featured_image: ../../../../uploads/2020/01/visarjan-pic.jpg
 categories: 
     - Experiments
     - Habits
