@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 21
-../../../../uploads/2008/06/lay_down_roots_fineartamerica_com.jpg
+featured_image: ../../../../uploads/2008/06/lay_down_roots_fineartamerica_com.jpg
 categories: 
     - R2I
 tags:
