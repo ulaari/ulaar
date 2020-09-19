@@ -128,22 +128,25 @@ class Header extends React.Component {
           <nav className={`navigation-drawer ${this.state.navOpen ? 'open opened': ''}`} id="nav-drawer">
             <ul className="nav-list">
               <li className="nav-item">
-                <Link to="/about/">About</Link>
+                <Link to="/about/">ABOUT</Link>
               </li>
               <li className="nav-item">
-                <Link to="/categories/cooperatives">Cooperatives</Link>
+                <Link to="/categories/amma">AMMA</Link>
               </li>
               <li className="nav-item">
-                <Link to="/categories/education">Education</Link>
+                <Link to="/categories/food">FOOD</Link>
               </li>
               <li className="nav-item">
-                <Link to="/categories/poverty-econ">Poverty Econ</Link>
+                <Link to="/categories/habits">HABITS</Link>
               </li>
               <li className="nav-item">
-                <Link to="/categories/rural">Rural</Link>
+                <Link to="/categories/life">LIFE</Link>
               </li>
               <li className="nav-item">
-                <Link to="/categories/ugly-indian">Ugly Indian</Link>
+                <Link to="/categories/minimalism">MINIMALISM</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/running">RUNNING</Link>
               </li>
             </ul>
           </nav>
