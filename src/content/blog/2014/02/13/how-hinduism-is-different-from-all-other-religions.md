@@ -26,7 +26,9 @@ layout:
     - ''
 embed:
     - ''
+featured_image: ../../../../uploads/2014/02/om_parvat_uttaranchal_org_uk.jpg    
 ---
+
 <figure aria-describedby="caption-attachment-2858" class="wp-caption alignleft" id="attachment_2858" style="width: 300px">
 
 [![Pic courtesy uttaranchal.org.uk](../../../../uploads/2014/02/om_parvat_uttaranchal_org_uk.jpg)](http://www.ulaar.com/wp-content/uploads/2014/02/om_parvat_uttaranchal_org_uk.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2858">Pic courtesy uttaranchal.org.uk</figcaption></figure>

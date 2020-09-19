@@ -27,6 +27,7 @@ layout:
     - ''
 embed:
     - ''
+featured_image: ../../../../uploads/2017/03/Casteist_Quates_of_Vivekanand-3.jpg    
 ---
 *\[<span style="text-decoration: underline;">Editor’s Note</span>: I don’t recall from which of his books I found this extract. It’s been sitting in my Drafts folder for 4.5 years and is eminently worth a read.\]*
 
