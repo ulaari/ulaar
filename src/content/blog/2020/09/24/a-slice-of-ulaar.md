@@ -1,8 +1,8 @@
 ---
 title: 'A slice of uLaaR'
-date: '2020-09-21T23:31:08+05:30'
+date: '2020-09-24T23:31:08+05:30'
 status: publish
-permalink: /2020/09/11/a-slice-of-ulaar
+permalink: /2020/09/24/a-slice-of-ulaar
 author: vishy
 description: ''
 type: post
