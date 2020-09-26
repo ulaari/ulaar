@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 707
+featured_image: ../../../../uploads/2010/07/come_to_india_tantra.jpg
 categories: 
     - Photos
     - R2I
@@ -22,4 +23,4 @@ email_notification:
 ---
 I’ve always been a fan of Tantra T-shirts and this one’s particularly appropriate for the blog. The talented Mr. Rochit was sporting this shirt during a weekend visit with his family. If you have any smart-alecy comments, don’t be silent…
 
-[![](http://ulaar.files.wordpress.com/2010/07/come_to_india_tantra.jpg "come_to_india_tantra")](http://ulaar.files.wordpress.com/2010/07/come_to_india_tantra.jpg)
+![](../../../../uploads/2010/07/come_to_india_tantra.jpg "come_to_india_tantra")
