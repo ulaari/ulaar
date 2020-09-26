@@ -1,7 +1,7 @@
 ---
 title: 'Bangalore’s Population Trends – 1871 to 2001'
 date: '2011-09-14T17:04:10+05:30'
-status: publish
+status: draft
 permalink: /2011/09/14/bangalores-population-trends-1871-to-2001
 author: vishy
 description: ''
@@ -29,12 +29,13 @@ As I browsed through the 107-page Invisible City-Makers research report, came ac
 
 <figure aria-describedby="caption-attachment-1155" class="wp-caption aligncenter" id="attachment_1155" style="width: 268px">
 
-[![](http://ulaar.files.wordpress.com/2011/09/bangalore_pop_1871-2001.png "bangalore_pop_1871-2001")](http://ulaar.files.wordpress.com/2011/09/bangalore_pop_1871-2001.png)<figcaption class="wp-caption-text" id="caption-attachment-1155">Who knew we had population records in the 1800's?</figcaption></figure>
+[![](https://www.ulaar.com/2011/09/bangalore_pop_1871-2001.png "bangalore_pop_1871-2001")](https://www.ulaar.com/2011/09/bangalore_pop_1871-2001.png)<figcaption class="wp-caption-text" id="caption-attachment-1155">Who knew we had population records in the 1800's?</figcaption></figure>
 
 If you were wondering about the Bangalore population in the 2011 census, provisional results released by Directorate of Census Operations in Karnataka peg it at a whopping **9,588,910**!
 
-JNNURM -&gt; Jawaharlal Nehru National Urban Renewal Mission ([website link](http://jnnurm.nic.in))
+JNNURM -&gt; Jawaharlal Nehru National Urban Renewal Mission 
 
 BSUP -&gt;Housing Project Under JnNURM
 
 CDP -&gt; City Development Plan
+

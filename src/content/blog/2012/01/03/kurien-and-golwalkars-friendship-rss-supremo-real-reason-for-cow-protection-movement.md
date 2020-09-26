@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1205
+featured_image: ../../../../uploads/2012/01/verghese-kurien.jpg
 categories: 
     - Books
     - Kurien
@@ -24,9 +25,6 @@ jabber_published:
 email_notification:
     - '1325597597'
 ---
-<figure aria-describedby="caption-attachment-1215" class="wp-caption alignleft" id="attachment_1215" style="width: 300px">
-
-[![](http://ulaar.files.wordpress.com/2012/01/verghese-kurien.jpg "verghese-kurien")](http://ulaar.files.wordpress.com/2012/01/verghese-kurien.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1215">Dr. Verghese Kurien (Pic courtesy: iLoveIndia.com)</figcaption></figure>
 
 *\[<span style="text-decoration:underline;">Editor’s Note</span>: In light of the Madhya Pradesh (BJP) government’s ban on consumption of beef, it’s relevant for us to understand RSS’s original reasons for evangelizing the cow protection movement in the 1960’s. Verghese Kurien’s autobiography ([I too had a dream](http://www.flipkart.com/books/8174364072)) casts unique light on this subject, through a burgeoning friendship that developed between Kurien and Golwalkar during their 12-year association on the committee.\]*
 
@@ -38,10 +36,7 @@ email_notification:
 > 
 > For twelve years the Government of India paid the committee members to travel to Delhi and attend the meetings. We continued like this and it was only when Morarji Desai became Prime Minister that I received a little slip of paper, which said, ‘The cow protection committee is hereby abolished.’ We were never even asked to submit a report.
 > 
-> <figure aria-describedby="caption-attachment-1216" class="wp-caption alignright" id="attachment_1216" style="width: 252px">
 
-[![](http://ulaar.files.wordpress.com/2012/01/gurujifirst.jpg "gurujifirst")](http://ulaar.files.wordpress.com/2012/01/gurujifirst.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1216">Shri Golwalkar Guruji, RSS's 2nd Sarasanghachalak (Pic courtesy: golwalkarguruji.org)</figcaption></figure>
-> 
 > However, one rather unusual and unexpected development during our regular committee meetings was that during that time, Golwalkar and I became close friends. People were absolutely amazed to see that we had become so close that whenever he saw me walk into the room he would rush to embrace me. He would take me aside and try to pacify me after our meetings, ‘Why do you keep losing your temper with the Shankaracharya? I agree with you about him. But don’t let the man rile you. Just ignore him.’
 > 
 > Golwalkar was a very small man — barely five feet — but when he got angry fire spewed out of his eyes. What impressed me most about him was that he was an intensely patriotic Indian. You could argue that he was going about preaching his brand of nationalism in a totally wrong way but nobody could question his sincerity. One day after one of our meetings when he had argued passionately for banning cow slaughter, he came to me and asked, ‘Kurien, shall I tell you why I’m making an issue of this cow slaughter business?’
@@ -53,3 +48,4 @@ email_notification:
 > ‘Look at what our country has become. What is good is foreign: what is bad is Indian. Who is a good Indian? It’s the fellow who wears a suit and a tie and puts on a hat. Who is a bad Indian? The fellow who wears a dhoti. If this nation does not take pride in what it is and merely imitates other nations, how can it amount to anything? Then I saw that the cow has potential to unify the country – she symbolizes the culture of Bharat. So I tell you what, Kurien, you agree with me to ban cow slaughter on this committee and I promise you, five years from that date, I will have united the country. What I’m trying to tell you is that I’m not a fool, I’m not a fanatic. I’m just cold-blooded about this. I want to use the cow to bring out our Indianness, So please cooperate with me on this.’
 > 
 > Of course neither did I concur with him on this nor did I support his argument for banning cow slaughter on the committee. However, I was convinced that in his own way he was trying to instil a pride across our country about our being Indian. This side of his personality greatly appealed to me. That was the Golwalkar I knew. They had accused him of plotting the murder of Mahatma Gandhi but somehow I could never believe it. To me he came across as an honest and outspoken man and I always thought that if he were the Hindu fanatic that he was made out to be, he would never have been my friend.
+

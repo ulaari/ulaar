@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1259
+featured_image: ../../../../uploads/2012/01/bertrand-russell-1960.jpg
 categories: 
     - Books
 tags:
@@ -21,9 +22,9 @@ jabber_published:
 email_notification:
     - '1327382588'
 ---
-Nobody reads essays anymore, especially those from the early twentieth-century era. If you’ve been following this blog for a while, you know that the large majority of our “pulp library” is still in California (most of the books are in my sister’s garage and some in my cousin’s attic). If you want to know how unconventional our US-to-India move was, check out [A sense of satisfaction… and accomplishment](http://ulaar.wordpress.com/2008/08/13/a-sense-of-satisfaction-and-accomplishment/). We managed to bring 10-odd books with us, sorta “Desert Island mini library”. The rest of the books are coming home via a patent-pending “Web 2.0 meets slow-boat-to-China” shipping strategy – more on that in a separate post.
+Nobody reads essays anymore, especially those from the early twentieth-century era. If you’ve been following this blog for a while, you know that the large majority of our “pulp library” is still in California (most of the books are in my sister’s garage and some in my cousin’s attic). If you want to know how unconventional our US-to-India move was, check out [A sense of satisfaction… and accomplishment](https://www.ulaar.com/2008/08/13/a-sense-of-satisfaction-and-accomplishment/). We managed to bring 10-odd books with us, sorta “Desert Island mini library”. The rest of the books are coming home via a patent-pending “Web 2.0 meets slow-boat-to-China” shipping strategy – more on that in a separate post.
 
-[![](http://ulaar.files.wordpress.com/2012/01/russell_skeptical_essays_cover.jpg "russell_skeptical_essays_cover")](http://www.amazon.com/RC-Bundle-Sceptical-Routledge-Classics/dp/0415325080/ref=dp_ob_image_bk)Bertrand Russell’s [Skeptical Essays](http://www.amazon.com/RC-Bundle-Sceptical-Routledge-Classics/dp/0415325080/ref=dp_ob_image_bk) was a volume I picked up at one of the annual Bangalore book fairs in Palace Grounds. As you can imagine, it’s not easy reading but compared to other philosophy works, several essays are lucid enough. I found the eleventh essay, The Need for Political Skepticism, particularly educational and relevant to put in perspective the struggling and bumbling democracy that is India. Remember that this essay was delivered as a a presidential address to the Students Union of London School of Economics and Political Science in **1923**!
+Bertrand Russell’s [Skeptical Essays](http://www.amazon.com/RC-Bundle-Sceptical-Routledge-Classics/dp/0415325080/ref=dp_ob_image_bk) was a volume I picked up at one of the annual Bangalore book fairs in Palace Grounds. As you can imagine, it’s not easy reading but compared to other philosophy works, several essays are lucid enough. I found the eleventh essay, The Need for Political Skepticism, particularly educational and relevant to put in perspective the struggling and bumbling democracy that is India. Remember that this essay was delivered as a a presidential address to the Students Union of London School of Economics and Political Science in **1923**!
 
 **On political parties**
 
@@ -40,3 +41,4 @@ Nobody reads essays anymore, especially those from the early twentieth-century e
 > Wherever party politics exist, the appeal of a politician is primarily to a section, while his opponents appeal to an opposite section. His success depends upon turning his section into a majority. A measure which appeals to all sections equally will presumably be common ground between the parties, and will therefore be useless to the party politician. Consequently he concentrates attention upon those measures which are disliked by the section that forms the nucleus of his opponents’ supporters. Moreover, a measure, however admirable, is useless to a politician unless he can give reasons for it which will appear convincing to the average man when set forth in a platform speech. We have thus two conditions which must be fulfilled by the measures on which party politicians lay stress: (1) They must seem to favour the needs of a section of the nation; (2) the arguments for them must be of the utmost simplicity. Of course this does not apply to a time of war, because then the party conflict is suspended in favour of conflict with the external enemy. In war, the arts of the politician are expended in neutrals, who correspond to the doubtful voter in ordinary politics. The late war showed that, as we should have expected, democracy affords an admirable training for the business of appealing to neutrals. That was one of the main reasons why democracy won the war. It is true it lost the peace; but that is another question.
 
 There are more nuggets of beauty in this essay so I’ll likely post a part 2 in the future.
+

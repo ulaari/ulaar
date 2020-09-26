@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1298
+featured_image: ../../../../uploads/2012/02/nakai_how_west_was_lost.jpg
 categories: 
     - 'American Memories'
     - Books
@@ -31,9 +32,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1301" class="wp-caption alignleft" id="attachment_1301" style="width: 200px">
-
-[![](../../../../uploads/2012/02/nakai_how_west_was_lost.jpg "nakai_how_west_was_lost")](http://www.ulaar.com/wp-content/uploads/2012/02/nakai_how_west_was_lost.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1301">Pic: courtesy m3space.net</figcaption></figure>
 
 I grew up on a diet of [Wild West](http://en.wikipedia.org/wiki/American_Old_West) novels and a dominant American narrative that celebrated the victory of the white man against the native American Indian. It was always about how the West was “won.”
 
@@ -61,3 +59,4 @@ And William Tell Sackett’s subsequent conversation with Powder Face reveals th
 > needed you, and you will always have a home where they are.”
 > 
 > The flames burned low, flickered, and went out. Red coals remained. The chill wind stirred the leaves again. Powder Face sat silently, and I went to my blankets.
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1224
+featured_image: ../../../../uploads/2012/01/pgw_bach_anonymous_cover2.jpg
 categories: 
     - Books
 tags:
@@ -21,9 +22,6 @@ jabber_published:
 email_notification:
     - '1326174906'
 ---
-<figure aria-describedby="caption-attachment-1228" class="wp-caption alignleft" id="attachment_1228" style="width: 300px">
-
-[![](http://ulaar.files.wordpress.com/2012/01/pgw_bach_anonymous_cover2.jpg "pgw_bach_anonymous_cover2")](http://www.amazon.co.uk/Bachelors-Sir-P-G-Wodehouse/dp/1841591750/ref=sr_1_1?ie=UTF8&qid=1326174703&sr=8-1)<figcaption class="wp-caption-text" id="caption-attachment-1228">Pic: courtesy amazon.co.uk (New hardcover edition to be released in Mar 2012)</figcaption></figure>
 
 Ephraim Trout is a highly competent lawyer and one of the founding members of Bachelors Anonymous – a Los Angeles-based circle of luminaries whose charter is to ensure that men remain bachelors. Earlier in the story, [Trout argues ardently against marriage](http://ulaar.wordpress.com/2012/01/08/in-which-ephraim-trout-argues-against-marriage/). A mere day later, after an unexpected encounter with a woman, Trout falls in love. In the passage below, Trout’s transformation (from allergic-to-marriage to family-man) is complete. Trout has just answered a call from Vera Dalrymple and has confirmed (on Igor Llewelleyn’s behalf) that he will be dining with Vera. And then he launches into a paean for the institution of marriage.
 
