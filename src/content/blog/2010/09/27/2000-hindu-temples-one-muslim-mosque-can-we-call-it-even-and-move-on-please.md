@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 907
+featured_image: ../../../../uploads/2010/09/babri_masjid_file_photo_wikipedia.jpeg
 categories: 
     - India
     - Kiddism
@@ -37,7 +38,7 @@ seo_noindex:
 
 On Sep 21, I tweeted the following:
 
-[![](http://ulaar.files.wordpress.com/2010/09/tweet_on_mosques.gif?w=300 "tweet_on_mosques")](http://ulaar.files.wordpress.com/2010/09/tweet_on_mosques.gif)
+![](../../../../uploads/2010/09/tweet_on_mosques.gif "tweet_on_mosques")
 
 Since my follower count is a lowly 280, not much of a discussion happens on Twitter. But since I had also published it to Facebook, there were a few responses – a grand total of 2 friends “liked” the post. I was trying to be controversial people! I guess my friends know me too well – it was a rhetorical question and we all know the answer.
 

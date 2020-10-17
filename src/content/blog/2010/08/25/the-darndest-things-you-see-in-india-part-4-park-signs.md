@@ -25,11 +25,11 @@ email_notification:
 ---
 <table><tbody><tr><td align="left"><figure aria-describedby="caption-attachment-798" class="wp-caption alignleft" id="attachment_798" style="width: 225px">
 
-[![](http://ulaar.files.wordpress.com/2010/08/img_0373.jpg?w=225 "koramangala_park_sign_1")](http://ulaar.files.wordpress.com/2010/08/img_0373.jpg)<figcaption class="wp-caption-text" id="caption-attachment-798">Sign inside a Koramangala park. Quick! How many DO's and how many DONT's?</figcaption></figure>
+![](../../../../uploads/2010/08/img_0373.jpg "koramangala_park_sign_1")<figcaption class="wp-caption-text" id="caption-attachment-798">Sign inside a Koramangala park. Quick! How many DO's and how many DONT's?</figcaption></figure>
 
 </td><td></td><td align="right"><figure aria-describedby="caption-attachment-799" class="wp-caption alignright" id="attachment_799" style="width: 225px">
 
-[![](http://ulaar.files.wordpress.com/2010/08/img_0374.jpg?w=225 "koramangala_park_sign_2")](http://ulaar.files.wordpress.com/2010/08/img_0374.jpg)<figcaption class="wp-caption-text" id="caption-attachment-799">Another park! Another sign! Easier on the eye. Too bad it's still prohibition time!</figcaption></figure>
+![](../../../../uploads/2010/08/img_0374.jpg "koramangala_park_sign_2")<figcaption class="wp-caption-text" id="caption-attachment-799">Another park! Another sign! Easier on the eye. Too bad it's still prohibition time!</figcaption></figure>
 
 </td></tr></tbody></table>
 

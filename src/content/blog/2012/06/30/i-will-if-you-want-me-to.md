@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1791
+featured_image: ../../../../uploads/2012/06/profimedia-0007917928.jpeg
 categories: 
     - Kiddism
 tags:
@@ -21,9 +22,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1810" class="wp-caption alignleft" id="attachment_1810" style="width: 300px">
-
-[![](../../../../uploads/2012/06/profimedia-0007917928.jpeg "South Asian Indian parent and children eating lunch on dining table in resort Shiroda Sindhudurga Ma")](http://www.ulaar.com/wp-content/uploads/2012/06/profimedia-0007917928.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1810">Pic: courtesy profimedia.com</figcaption></figure>
 
 Most people in the world, when asked if they’d like another serving of food, would answer either “Yes” or “No”.
 
@@ -36,3 +34,4 @@ Depending on the parents’ mood, the exasperated (or amused) response would be 
 This is the part where it gets interesting. Sometimes the answer would be “Yes”, other times it would be “No”.
 
 In his own personal version of “Maybe”, this seems to be his clever way of ingratiating himself with the parents. *Heads or tails I win*. At least that’s what I think. But what do *I* know? *He’*s the twenty-first century model, not me.
+
