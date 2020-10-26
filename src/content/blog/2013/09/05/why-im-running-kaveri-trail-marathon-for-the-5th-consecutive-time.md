@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2755
+featured_image: ../../../../uploads/2013/09/05/ktm_2012_race_pic.jpg
 categories: 
     - Barefootia
     - Running
@@ -36,3 +37,4 @@ There are races you run for your PBs. Boring sissy flat courses like the Dubai M
 KTM 2012 was my [first barefoot trail marathon](http://www.ulaar.com/2012/11/19/my-first-barefoot-trail-marathon/). Compared to last season, I have a lot more barefoot mileage under my soles and a few less demons in my head. That, combined with the fact that this could be my last race at this venue, is making my heart beat faster as race day approaches.
 
 <div></div><div></div>
+

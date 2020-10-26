@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2513
+featured_image: ../../../../uploads/2013/03/sir_rajaram_gaunker.jpg
 categories: 
     - Running
 tags:
@@ -65,3 +66,4 @@ Choosing the right diet, strength/interval/tempo training and long runs — thes
 The music stopped. He was deluged by effusive words of awe and congratulations that would make proud a Robert Funk. The Dronocharyas and the Arjunas watched awkwardly from the sidelines. Behold the modern era Ekalavya.
 
 And now… do read his longer (though still modest) account of his [5:41 to 3:24 marathon journey](http://rajar.am/post/43463306664/5-41-to-3-24-my-marathon-journey).
+

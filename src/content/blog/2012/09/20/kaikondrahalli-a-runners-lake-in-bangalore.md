@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2185
+featured_image: ../../../../uploads/2012/09/kkh-lake.jpg
 categories: 
     - Photos
     - Running

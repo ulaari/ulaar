@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2697
+featured_image: ../../../../uploads/2013/06/natural-running-cucuzzella.png
 categories: 
     - Barefootia
     - Running
@@ -29,10 +30,6 @@ seo_noindex:
     - 'false'
 ---
 *The human foot is a work of art and masterpiece of human engineering. – Leonardo Vinci*
-
-<figure aria-describedby="caption-attachment-2698" class="wp-caption alignleft" id="attachment_2698" style="width: 300px">
-
-[![Re-evolution of running (courtesy naturalrunningcenter.com)](../../../../uploads/2013/06/re-evolution_of_running_text_e1032_cucuzzella_nrc.png)](http://www.ulaar.com/wp-content/uploads/2013/06/re-evolution_of_running_text_e1032_cucuzzella_nrc.png)<figcaption class="wp-caption-text" id="caption-attachment-2698">Re-evolution of running (courtesy naturalrunningcenter.com)</figcaption></figure>
 
 This post is meant to be just a teaser about Dr. Mark Cucuzzella. Something tells me I’ll get carried away.
 

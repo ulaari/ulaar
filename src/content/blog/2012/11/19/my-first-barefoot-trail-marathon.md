@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2160
+featured_image: ../../../../uploads/2012/11/IMG_7114.jpg
 categories: 
     - Barefootia
     - Running
@@ -28,7 +29,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-On Sep 16, 2012, I ran my fourth consecutive Kaveri Trail Marathon (KTM) and my eleventh marathon overall. I finished in 4 hours 45 min — 30 minutes faster than my slowest KTM (2009) and 16 minutes slower than my fastest KTM (2011). It was still special because it was my first barefoot marathon. By ‘barefoot’, I don’t mean [this](http://www.treehugger.com/sustainable-fashion/terra-plana-launches-evo-barefoot-running-shoe.html), [this](http://barefootrunningshoes.org/vibram-fivefingers/men/classic-men/) or even [this](http://www.invisibleshoe.com/store/products/Custom-made-Invisible-Shoes-with-FeelTrue-outsoles.html). I’m talking about [Senor Left](http://www.ulaar.com/wp-content/uploads/2012/10/IMG_7481_left.jpg) and [Senor Right](http://www.ulaar.com/wp-content/uploads/2012/10/IMG_7482_right.jpg) – in their unencumbered buff.
+On Sep 16, 2012, I ran my fourth consecutive Kaveri Trail Marathon (KTM) and my eleventh marathon overall. I finished in 4 hours 45 min — 30 minutes faster than my slowest KTM (2009) and 16 minutes slower than my fastest KTM (2011). It was still special because it was my first barefoot marathon. By ‘barefoot’, I don’t mean [this](http://www.treehugger.com/sustainable-fashion/terra-plana-launches-evo-barefoot-running-shoe.html), [this](http://barefootrunningshoes.org/vibram-fivefingers/men/classic-men/) or even [this](http://www.invisibleshoe.com/store/products/Custom-made-Invisible-Shoes-with-FeelTrue-outsoles.html). I’m talking about [Senor Left](../../../../uploads/2012/10/IMG_7481_left.jpg) and [Senor Right](../../../../uploads/2012/10/IMG_7482_right.jpg) – in their unencumbered buff.
 
 The next morning conversation with friend Manoj after dropping kids to school.
 
@@ -61,3 +62,4 @@ On Jun 24, I did my first training run with the huarache sandals with scarcely a
 An innocent statement from a fellow runner (Augustus Franklin) changed all that…
 
 <div style="text-align: center;">***************** *to be continued* ******************</div>
+

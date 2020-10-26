@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2638
+featured_image: ../../../../uploads/2013/04/chris-mcd.png
 categories: 
     - Barefootia
     - Running
@@ -27,9 +28,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2644" class="wp-caption alignleft" id="attachment_2644" style="width: 202px">
-
-[![Pic courtesy chrismcdougall.com](../../../../uploads/2013/04/chris_mcd_pic.gif)](http://www.ulaar.com/wp-content/uploads/2013/04/chris_mcd_pic.gif)<figcaption class="wp-caption-text" id="caption-attachment-2644">Pic courtesy chrismcdougall.com</figcaption></figure>
 
 A mini war of words erupted on our running group recently. The subject was Chris McDougall.
 

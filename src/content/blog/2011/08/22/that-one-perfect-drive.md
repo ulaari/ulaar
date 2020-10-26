@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1030
+featured_image: ../../../../2011/08/golf-omnibus-p-g-wodehouse-hardcover-cover-art.jpg
 categories: 
     - Running
     - Sports
@@ -37,9 +38,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1127" class="wp-caption alignleft" id="attachment_1127" style="width: 200px">
-
-[![](http://ulaar.files.wordpress.com/2011/08/golf-omnibus-p-g-wodehouse-hardcover-cover-art.jpg "golf-omnibus-p-g-wodehouse-hardcover-cover-art")](http://www.amazon.com/Golf-Omnibus-P-G-Wodehouse/dp/0517057948)<figcaption class="wp-caption-text" id="caption-attachment-1127">The Golf Omnibus - 31 tales from the green by the master</figcaption></figure>
 
 Following is an excerpt from PG Wodehouse’s **A Mixed Threesome** – one of many beautiful golf stories from [The Golf Omnibus](http://www.amazon.com/Golf-Omnibus-P-G-Wodehouse/dp/0517057948). The scene being described is that of the story’s protagonist (Mortimer Sturgis) executing that perfect golf swing. In the narrative below, the inimitable Oldest Member (who stars in many of Wodehouse’s golf stories) is speaking in the first person view and Mortimer Sturgis is speaking in the third person view.
 
@@ -77,7 +75,7 @@ I’ve been fortunate in experiencing two “moments of perfection” in two sep
 
 <figure aria-describedby="caption-attachment-1126" class="wp-caption alignright" id="attachment_1126" style="width: 300px">
 
-[![](http://ulaar.files.wordpress.com/2011/08/discgolf02.jpg "discgolf02")](http://ulaar.files.wordpress.com/2011/08/discgolf02.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1126">A disc golfer preparing to putt</figcaption></figure>
+[![](../../../../uploads/2011/08/discgolf02.jpg "discgolf02")](../../../../uploads/2011/08/discgolf02.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1126">A disc golfer preparing to putt</figcaption></figure>
 
 A well-kept secret in USA is the sport of disc golf. For the uninitiated, disc golf (or “frisbee golf” as fondly referred by the non-puritanical) is a sport modeled on golf. Instead of metallic clubs and a ball, one uses different types of aerodynamically specialized flying discs (driver discs, approach discs, putter discs – you get the idea). Instead of a hole in the ground, you have a metallic basket with a receptacle and chains. Disc golf aficionados refer to regular golf as *stick golf*. Unlike stick golf, which require large areas of water-guzzling well-manicured grass and legions of golf course designers, disc golf is one of the more environment friendly sports. A colleague and good friend (Gary Smith) introduced me to this sport in the fall of 1995. For the next three years in Chicago I played disc golf every opportunity I got and, believe me, I created many opportunities as well.
 
@@ -91,8 +89,9 @@ Three weeks after I had successfully run my third full marathon (and my first Mu
 
 <figure aria-describedby="caption-attachment-1123" class="wp-caption alignleft" id="attachment_1123" style="width: 300px">
 
-[![](http://ulaar.files.wordpress.com/2011/08/may-2011-010a.jpg?w=300 "may 2011 010a")](http://ulaar.files.wordpress.com/2011/08/may-2011-010a.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1123">Garmin Forerunner 305: unreal 10k on Feb 7, 2010</figcaption></figure>
+[![](../../../../uploads/2011/08/may-2011-010a.jpg?w=300 "may 2011 010a")](../../../../uploads/2011/08/may-2011-010a.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1123">Garmin Forerunner 305: unreal 10k on Feb 7, 2010</figcaption></figure>
 
 <figure aria-describedby="caption-attachment-1124" class="wp-caption alignright" id="attachment_1124" style="width: 300px">
 
-[![](http://ulaar.files.wordpress.com/2011/08/may-2011-011a.jpg?w=300 "may 2011 011a")](http://ulaar.files.wordpress.com/2011/08/may-2011-011a.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1124">Sustaining a 4:45 pace for 10k? No way I can repeat that!</figcaption></figure>
+[![](../../../../uploads/2011/08/may-2011-011a.jpg?w=300 "may 2011 011a")](../../../../uploads/2011/08/may-2011-011a.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1124">Sustaining a 4:45 pace for 10k? No way I can repeat that!</figcaption></figure>
+

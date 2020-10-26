@@ -1,4 +1,5 @@
 ---
+
 title: 'Training runs and motivation'
 date: '2013-03-21T22:06:05+05:30'
 status: publish
@@ -7,6 +8,7 @@ author: vishy
 description: ''
 type: post
 id: 2569
+featured_image: ../../../../uploads/2013/03/toshihikoseko2.jpg
 categories: 
     - Running
 tags:
@@ -24,10 +26,10 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-> <figure aria-describedby="caption-attachment-2571" class="wp-caption alignleft" id="attachment_2571" style="width: 192px">
+<figure aria-describedby="caption-attachment-2571" class="wp-caption alignleft" id="attachment_2571" style="width: 192px">
 
 [![Toshihiko Seko (Pic courtesy whalesandwolves.com)](../../../../uploads/2013/03/toshihikoseko2.jpg)](http://www.ulaar.com/wp-content/uploads/2013/03/toshihikoseko2.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2571">Toshihiko Seko (Pic courtesy whalesandwolves.com)</figcaption></figure>
-> 
+ 
 > “Does a runner at your level feel like you’d rather not run today, like you don’t want to run and would rather just sleep in?” He stared at me and then, in a voice that made it abundantly clear how stupid he thought the question was, replied “Of course. All the time!”
 
 The questioner? Novelist and marathoner Haruki Murakami. The elite runner? Japanese Olympian Toshihiko Seko. Seko represented his country in the 1984 and 1988 Olympics. While he didn’t win any Olympic medals, his memorable wins include the Boston Marathon (1981 and 1987), London Marathon (1986), and Chicago (1986). I’ve seriously short-changed Seko’s accomplishments so must absolutely read[ Toshihiko Seko and Kiyoshi Nakamura’s Old School](http://moti-athletics-histo.blogspot.com/2011/06/toshihiko-seko-and-kiyoshi-nakamuras.html) to truly appreciate his greatness — world records in the 25k and 30k distances that stood for 30 years is but ONE facet of his greatness.
@@ -49,3 +51,4 @@ It’s only apt to end this post with Murakami’s reflection (following his Sek
 [![seko_arms_nakamura83a](../../../../uploads/2013/03/seko_arms_nakamura83a.jpg)](http://www.ulaar.com/wp-content/uploads/2013/03/seko_arms_nakamura83a.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2573">Toshihiko Seko and coach Nakamura, after 1983 Fukuoka marathon  
 Photo: Nobby Hashizume  
 http://www.juanjosemartinez.com.mx/running.html</figcaption></figure>
+

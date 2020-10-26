@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2600
+featured_image: ../../../../uploads/2013/04/triple-jumper-caterine.jpg
 categories: 
     - Running
 tags:

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2594
+featured_image: ../../../../uploads/2013/04/kannada_keyboard_layout.jpeg
 categories: 
     - Random
     - Running
@@ -43,3 +44,4 @@ You’ll see an occasional English noun — one Kannadifies it by merely appendi
 *Nanna prathama ippattu erudu varsha tumba asthma aagittu. Olage ondu savara ombattu nooru tombattu aaru, naanu ardha marathon oDide. Aaru varsha mele, naanu sampoorna marathon oDide. Varege eega, naanu hadinaidu marathons-u oDide mattu eeginadinagaLu hattirakke taru erudu savara kilometers-u shoes illade oDittaidini.*
 
 I’ll be surprised if you didn’t find the above strange. One example of the strangeness (from literal translation) is “varege eega” — I am starting that sentence with “Till now”..
+

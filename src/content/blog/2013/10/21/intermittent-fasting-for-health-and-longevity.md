@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2794
+featured_image: ../../../../uploads/2013/10/Rich-Eats-Intermittent-Fasting-2.jpg
 categories: 
     - Food
     - Running
@@ -28,9 +29,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2795" class="wp-caption alignleft" id="attachment_2795" style="width: 275px">
-
-[![Pic courtesy richeats.tv](../../../../uploads/2013/10/Rich-Eats-Intermittent-Fasting-2.jpg)](http://www.ulaar.com/wp-content/uploads/2013/10/Rich-Eats-Intermittent-Fasting-2.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2795">Pic courtesy richeats.tv</figcaption></figure>
 
 On the eve of [Karwa Chauth](http://www.karwachauth.com/the-legend-of-karwa-chauth.html), I thought this would be a topical post. Todd Becker (author of the [Getting Stronger](http://gettingstronger.org/) blog) has written on this topic at length. My contribution in this post is to summarize the salient points for the ADD generation. The only reason I filed this post under Running is because of the earlier hormetism post linking cold showers and barefoot running.
 
@@ -67,3 +65,4 @@ On the eve of [Karwa Chauth](http://www.karwachauth.com/the-legend-of-karwa-chau
 > A number of studies have shown that fasting for short periods of time, generally less than 2-3 days, produce many of the same health benefits as general calorie reduction, without having to reduce the average number of calories consumed per week. However, many adherents of intermittent fasting find that their average calorie intake tends to decrease voluntarily; in other words, they tend not to “make up for lost time” on their non-fasting days. And many people (myself included) feel that it is psychologically more tolerable to alternate fasting with the ability to eat to fullness, rather than restricting calories at every meal. In addition, there are some scientific arguments that favor a “cycling” approach for optimizing the secretion of hormones such as leptin, and for avoiding a long term adaptive reduction in basal metabolic rate. If you are afraid that skipping meals will cause your metabolism to shut down and shift into “starvation mode”, dispel that thought. A study by Zauner et al in the Journal of Clinical Nurtrition showed [metabolic rate actually increases during fasting up to 4 days](http://www.ajcn.org/cgi/content/abstract/71/6/1511), due to a more than doubling of norepinephrine. So fasting for 6-24 hours hours has no downside.
 
 Above content from Todd Becker’s [Calorie restriction and hormesis](http://gettingstronger.org/wp-content/plugins/wordpress-toolbar/toolbar.php?wptbto=http%3A%2F%2Fgettingstronger.org%2F2010%2F05%2Fcalorie-restriction-and-hormesis%2F&wptbhash=aHR0cDovL2dldHRpbmdzdHJvbmdlci5vcmcvMjAxMS8wNS9pbnRlcm1pdHRlbnQtZmFzdGluZy1mb3ItaGVhbHRoLWFuZC1sb25nZXZpdHkvPHdwdGI%2BSW50ZXJtaXR0ZW50IGZhc3RpbmcgZm9yIGhlYWx0aCBhbmQgbG9uZ2V2aXR5PHdwdGI%2BaHR0cDovL2dldHRpbmdzdHJvbmdlci5vcmc8d3B0Yj5HZXR0aW5nIFN0cm9uZ2Vy) blog post. If you like watching video talks, there are 5 Becker videos embedded in [this post](http://gettingstronger.org/2011/05/intermittent-fasting-for-health-and-longevity/).
+

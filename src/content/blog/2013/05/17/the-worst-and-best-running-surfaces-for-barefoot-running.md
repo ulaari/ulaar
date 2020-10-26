@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2668
+featured_image: ../../../../uploads/2013/05/best-running-surface-300x300.jpg
 categories: 
     - Barefootia
     - Running
@@ -29,10 +30,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2671" class="wp-caption alignleft" id="attachment_2671" style="width: 300px">
-
-[![Pic courtesy theruniverse.com](../../../../uploads/2013/05/best-running-surface-300x300.jpg)](http://www.ulaar.com/wp-content/uploads/2013/05/best-running-surface-300x300.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2671">Pic courtesy theruniverse.com</figcaption></figure>
-
 Steve Sashen of Invisibleshoe.com (now rebranded as XeroShoes.com) wrote an interesting blog post back in Dec 2009. I discovered it only a few days ago via an email subscription on his website. The gist of his article (which I agree with) is that soft surfaces are absolutely the worst surfaces for barefoot running and hard surfaces are the best.
 
 Sounds crazy, right?

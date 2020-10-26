@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2297
+featured_image: ../../../../uploads/2012/11/hit_the_ground_running_mtv_com.jpeg
 categories: 
     - Running
 tags:
@@ -53,14 +54,11 @@ I completed my 12th marathon yesterday (and my 2nd Ultra). It finally made sense
 
 <div>#### \#12 Bangalore <span style="color: #0000ff;">75km</span> <span style="color: #0000ff;">Ultra</span> Marathon – <span style="color: #0000ff;">50km huaraches</span><span style="color: #0000ff;"> + 25km shoes</span> (Nov 2012) – <span style="color: #ff0000;">9 hrs 45 min<span style="color: #000000;"> (Rank: 7)</span></span>
 
-<div style="text-align: center;">***********************</div><div><figure aria-describedby="caption-attachment-2300" class="wp-caption alignleft" id="attachment_2300" style="width: 160px">
 
-[![](../../../../uploads/2012/11/hit_the_ground_running_mtv_com.jpeg "hit_the_ground_running_mtv_com")](http://www.ulaar.com/wp-content/uploads/2012/11/hit_the_ground_running_mtv_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2300">Pic: courtesy mtv.com</figcaption></figure>
-
-</div><div>P.S. The above list only includes official races. For completeness (at least for now), listing training runs above marathon distance.</div><div></div><div>- 43km training run (Oct 2010)
+P.S. The above list only includes official races. For completeness (at least for now), listing training runs above marathon distance:
+- 43km training run (Oct 2010)
 - Solo marathon inside Osmania University (Jul 31, 2012)
 - Marathon with Pankaj &amp; Praveen in Bangalore (Aug 14, 2012)
 - 57km training run with Praveen in Bangalore (Oct 7, 2012)
 - 
 
-</div></div></div></div></div></div></div>

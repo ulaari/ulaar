@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2454
+featured_image: ../../../../uploads/2013/01/rest_recovery_endurancetrainingblog.jpeg
 categories: 
     - Running
 tags:
@@ -24,9 +25,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2457" class="wp-caption alignleft" id="attachment_2457" style="width: 196px">
-
-[![Pic courtesy endurancetrainingblog.com](../../../../uploads/2013/01/rest_recovery_endurancetrainingblog.jpeg)](http://www.ulaar.com/2013/01/16/can-never-train-too-easy-but-can-train-too-hard/rest_recovery_endurancetrainingblog/)<figcaption class="wp-caption-text" id="caption-attachment-2457">Pic courtesy endurancetrainingblog.com</figcaption></figure>
 
 My running pal (Sunil) shared this great Buzzfeed article ([The Runner’s Recovery Masterclass](http://www.realbuzz.com/articles/the-runner-s-recovery-masterclass-gb-en/#pagination-top)) that puts recovery at the heart of a runner’s training plan. If you are a marathon runner (at any stage in your evolution), you should read it. If you are a morphed product of the ADD generation, I’ve cherry-picked thirteen axioms from the article. How easy was the cherry-picking? Extremely easy because the writer had these in bold – the title of this blog post is #12. Go on – skim the list below and go read the article which also includes helpful suggested training (&amp; recovery) week templates.
 
@@ -52,3 +50,4 @@ My running pal (Sunil) shared this great Buzzfeed article ([The Runner’s Recov
 - Hill training should be followed with flat training.
 - Try scheduling the easy days for when you’re busiest at work or home.
 - Take at least one easy week every month.
+

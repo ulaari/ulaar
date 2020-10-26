@@ -2,7 +2,7 @@
 title: 'Geocoded musical memories'
 date: '2020-08-05T12:52:58+05:30'
 status: draft
-permalink: '/?p=4242'
+permalink: /2020/10/24/geocoded-musical-memories
 author: vishy
 description: ''
 type: post
@@ -12,12 +12,8 @@ categories:
 tags: []
 post_format: []
 ---
-**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
-Part 2**
 
-**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
-
-My generation is possibly the last that got most of its music recommendations via friends &amp; family, radio stations, and eclectic cafes. This section is a tribute of sorts to folks who introduced the most delightful music to me.. at key points in my life.
+My generation is possibly the last that got most of its music recommendations from friends, family, and radio stations (and eclectic cafes). This section is a tribute of sorts to folks who introduced the most delightful music to me.. at key points in my life.
 
 Here I go in chronological order..
 
@@ -44,4 +40,3 @@ Here I go in chronological order..
 - Uttam Singh’s “song he played” during power cuts in Jamshedpur
 - Cesario Evora in Borders, Clearwater (I had to buy it of course)
 - Coffee Society (Ratatat &amp; Jaga Jazzist)
-- 

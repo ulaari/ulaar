@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2305
+featured_image: ../../../../uploads/2012/11/huaraches_ultra_nov10_2012.jpg
 categories: 
     - Barefootia
     - Running
@@ -66,3 +67,4 @@ What <span style="text-decoration: underline;">*will*</span> this post be about?
 It will answer the question as to why I picked the huarache sandals from [Invisibleshoe.com](https://www.invisibleshoe.com/) as my minimalist footwear. Why not [Luna Sandals](https://www.lunasandals.com/) from Barefoot Ted? And why not the more popular [Vibram Five Fingers](http://www.vibramfivefingers.com/index.htm) or the more shoe-like [Vivo Barefoot](http://www.vivobarefoot.com/us/)?
 
 If you’d like me to complete this post, either do a Facebook Like or leave a comment. Based on the response, will bump up its publishing priority 🙂
+

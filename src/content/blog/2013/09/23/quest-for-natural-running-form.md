@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2742
+featured_image: ../../../../uploads/2013/09/ktm_2013_pic3.jpg
 categories: 
     - Barefootia
     - Running

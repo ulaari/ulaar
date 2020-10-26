@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2746
+featured_image: ../../../../uploads/2013/08/Nandi_Hills_Fort_Entrance1.jpg
 categories: 
     - Barefootia
     - Running
@@ -73,3 +74,4 @@ The second downhill was negotiated at a more sane pace (6:10’ish for the first
 Thank you Nandi Goddess. I shall be back again. Hopefully soon.
 
 *\[<span style="text-decoration: underline;">Closing note</span>: My calves were extremely sore (think “knife like shooting pain” every time I took a step) the next day. This morning, they were still sore but I managed to do an easy 8k run. I believe I’ve figured out why my calves took such a beating. Stay tuned for that *sequel post –* <span style="color: #0000ff;">Lessons from my second Nandi Hills climb</span>.\]*
+

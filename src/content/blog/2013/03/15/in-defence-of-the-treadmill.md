@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2561
+featured_image: ../../../../uploads/2013/03/amyadair_wp_com_girl-on-treadmill1.jpg
 categories: 
     - Running
 tags:
@@ -24,9 +25,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2562" class="wp-caption alignleft" id="attachment_2562" style="width: 300px">
-
-[![Pic courtesy amyadair.wordpress.com](../../../../uploads/2013/03/amyadair_wp_com_girl-on-treadmill1.jpg)](http://www.ulaar.com/wp-content/uploads/2013/03/amyadair_wp_com_girl-on-treadmill1.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2562">Pic courtesy amyadair.wordpress.com</figcaption></figure>
 
 Treadmills get a bad rap. Serious (and snooty) runners look down on it.. You can ‘start’ running on treadmills but as soon as you get comfortable with 5k+ distances, it’s time to hit the trail/road. Or so is the guidance issued to newbie runners by seasoned runners. Yours truly has also routinely dished out that advice.
 
@@ -63,3 +61,4 @@ Here’s one from “Very Bad”:
 And this comment by jtupper (who apparently coached a 2:09 marathoner)
 
 > I have used treadmills for a few years (started in 1960) and also coached Kenny for a number of years. He did a bunch of 2 hour (20-mile) runs on his treadmill in Santa Fe, NM also, leading up to his 2:09+ in NY City. I remember thinking that a 2:09 run must feel quite brief &amp; maybe even pleasant compared with the concentration required to stay on that thing for 2 hours a bunch of times. I have also tested many runners on many treadmills and have yet to see any real change is stride rate or running mechanics as some think happens. No question the cost of a specific speed (say 6:00 pace for example) is less on a calibrated treadmill, compared with overground running, but one could argue that just doing the work is what really matters. Sometimes you may want to run at a specific pace, other times you just want a solid challenge.
+

@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2621
+featured_image: ../../../../uploads/2013/04/scott-jurek-landscape.jpg
 categories: 
     - Running
 tags:
@@ -22,10 +23,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2622" class="wp-caption alignleft" id="attachment_2622" style="width: 300px">
-
-[![Pic courtesy masterfile.com](../../../../uploads/2013/04/running_man_grocery_store_masterfile_com.jpg)](http://www.ulaar.com/wp-content/uploads/2013/04/running_man_grocery_store_masterfile_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2622">Pic courtesy masterfile.com</figcaption></figure>
-
 In my last 5 years of increasingly regular marathon running, my consumption of running legends lore has been surprisingly minimal. After all, how many sports can one follow? Besides cricket, tennis, squash, and golf i.e. And where’s the written rule that states *one shalt follow the sport that thy playeth*?
 
 The above is just an elaborate way of confessing that I wasn’t aware of Scott Jurek’s existence until last year. Then his [Eat and Run](http://scottjurek.com/eatandrun/) book came out. I read about him and instantly became a huge fan. Then I read his book and became a bigger fan.

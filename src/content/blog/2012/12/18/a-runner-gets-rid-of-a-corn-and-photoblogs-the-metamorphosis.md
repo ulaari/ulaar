@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2366
+featured_image: ../../../../uploads/2012/12/wpid-20121201_102018.jpg
 categories: 
     - Photos
     - Running
@@ -120,3 +121,4 @@ Disclaimer: the pictures below are NOT for the squeamish.
 [![image](../../../../uploads/2012/12/wpid-20121215_105906.jpg "20121215_105906.jpg")](http://www.ulaar.com/wp-content/uploads/2012/12/wpid-20121215_105906.jpg)<figcaption class="wp-caption-text">We’re all good now.. barring a few furrows and some unrelated blisters.</figcaption></figure>
 
 Closing note: this is the first post I published from the MOST EXCELLENT WordPress client on Android.
+

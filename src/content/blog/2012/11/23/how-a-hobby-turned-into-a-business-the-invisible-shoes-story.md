@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2317
+featured_image: ../../../../uploads/2012/11/steven_sashen_running.jpeg
 categories: 
     - Barefootia
     - Running
@@ -75,3 +76,4 @@ Steven Sashen sent an email this morning to his loyal customer base announcing t
 > **Thank you SOOO much!**
 
 Link to Invisible Shoes’ [third anniversary sale](http://www.invisibleshoe.com/1524/anniversary3/) (20% off on everything!)
+

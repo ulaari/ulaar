@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2724
+featured_image: ../../../../uploads/2013/07/nandi_hills_clouds_by_hari.jpg
 categories: 
     - Barefootia
     - Running
@@ -105,3 +106,4 @@ You know what’s most satisfying? That we are no longer just sitting around in 
 **Kidney**: “Shhh….. I think he’s going to wake up soon. I’m about to burst!”
 
 The voices go silent. And I wake up.
+

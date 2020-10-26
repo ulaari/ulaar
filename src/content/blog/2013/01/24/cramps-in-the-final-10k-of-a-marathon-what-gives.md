@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2465
+featured_image: ../../../../uploads/2013/01/slither_cramp.jpeg
 categories: 
     - Running
 tags:
@@ -76,3 +77,4 @@ If you’ve run more than a few marathons, you’d have learned that preventing 
 > CK: do 5 consecutive dandi run of 32+ before any marathon; you will not feel any cramps.
 > 
 > SS: Interesting: lemon is acidic but not lemon and water: <http://www.godsdirectcontact.com/vegetarian/ch/aa.htm>
+

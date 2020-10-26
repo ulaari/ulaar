@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2473
+featured_image: ../../../../uploads/2013/01/ambuja-jaipur-marathon-2014.jpeg
 categories: 
     - India
     - Running
@@ -55,3 +56,4 @@ Yesterday was the 4th edition of the [Ambuja Jaipur Marathon](http://www.maratho
 —
 
 Follow-up comment from Rakhi on the FB thread: A very unfortunate and disappointing experience. And a harsh reminder of the grim reality of india. Do we wonder why Nirbhaya happened? I went to sleep last night asking Strang the question – how many thousands of Nibhayas may happen in a city like Jaipur where their sad stories go unnoticed and remain untold?
+

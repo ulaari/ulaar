@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2333
+featured_image: ../../../../uploads/2013/05/ryans-sport-shop.jpeg
 categories: 
     - Running
 tags:
@@ -34,9 +35,9 @@ seo_noindex:
 
 I ran my first full marathon in Oct 2002. I had spontaneously decided to train for the Mercury Interactive San Jose Marathon exactly 3.5 months earlier. The only marathoner I knew at that point was Mike Clothier. Mike, a colleague at Yahoo, was no ordinary marathoner. An amiable super-nice South African – he had already run 25 marathons and 2 Ironmans. Much later I would find out how big a deal an Ironman is. He never mentioned running the Comrades because (I’m speculating here) Comrades is like a Bar Mitzvah for South Africans who turn 15, right? (or is it 12?)
 
-I joke about these things now but back then I was a complete marathon neophyte. Sure – I had trained 3 months for a half-marathon during my [Chicago years](http://www.ulaar.com/2008/11/11/memories-of-an-american-life-4-years-in-chicago/) (and missed the race – another story!) but doubling the distance was quite a daunting prospect.
+I joke about these things now but back then I was a complete marathon neophyte. Sure – I had trained 3 months for a half-marathon during my [Chicago years](https://www.ulaar.com/2008/11/11/memories-of-an-american-life-4-years-in-chicago/) (and missed the race – another story!) but doubling the distance was quite a daunting prospect.
 
-Mike served as my virtual [Dronacharya](http://en.wikipedia.org/wiki/Drona) (aka “Drona”) during my entire training duration — from recommending a shoe store to the virtues of [Body Glide](http://www.bodyglide.com/) to chalking/following a detailed running plan. The ‘virtual’ adjective is very important because Drona isn’t particularly liked because of his many ‘lapses of judgement’. Mike is ALL GOOD (and this habitually digressing writer shall leave that as an understatement). If you are wondering why I’m obsessed with Drona, this [alternative reality Ekalavya story](http://www.ulaar.com/2013/03/12/meet-sir-gaunker-modern-era-ekalavya-happy-ending/) tells you why.
+Mike served as my virtual [Dronacharya](http://en.wikipedia.org/wiki/Drona) (aka “Drona”) during my entire training duration — from recommending a shoe store to the virtues of [Body Glide](http://www.bodyglide.com/) to chalking/following a detailed running plan. The ‘virtual’ adjective is very important because Drona isn’t particularly liked because of his many ‘lapses of judgement’. Mike is ALL GOOD (and this habitually digressing writer shall leave that as an understatement). If you are wondering why I’m obsessed with Drona, this [alternative reality Ekalavya story](https://www.ulaar.com/2013/03/12/meet-sir-gaunker-modern-era-ekalavya-happy-ending/) tells you why.
 
 **Ryan’s Sport Shop**
 

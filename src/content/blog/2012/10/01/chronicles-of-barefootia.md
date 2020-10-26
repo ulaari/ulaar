@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2233
+featured_image: ../../../../uploads/2012/10/IMG_7480.jpg
 categories: 
     - Barefootia
     - Running
@@ -63,3 +64,4 @@ seo_noindex:
 <figure aria-describedby="caption-attachment-2241" class="wp-caption aligncenter" id="attachment_2241" style="width: 300px">
 
 [![](../../../../uploads/2012/10/IMG_7480.jpg "IMG_7480")](http://www.ulaar.com/wp-content/uploads/2012/10/IMG_7480.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2241">Right foot – 9 hours after my first barefoot full marathon</figcaption></figure>
+

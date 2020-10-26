@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2204
+featured_image: ../../../../uploads/2012/09/padmapada_media_radiosai_org.jpeg
 categories: 
     - Barefootia
     - Running
@@ -30,10 +31,6 @@ seo_noindex:
 ---
 In [Walking on Fire](http://www.ulaar.com/2012/09/26/walking-on-fire/), I wrote about breaching my first major barrier in barefoot running. The second inflection in my barefoot running adventures occurred on Jun 21. I call this my “Padmapada moment” and you’ll soon see why. But first [this story](http://shankaraguru.blogspot.in/2009/12/four-disciples-shankaracharya-students.html) of Adi Shankara’s most famous disciple.
 
-<figure aria-describedby="caption-attachment-2191" class="wp-caption alignleft" id="attachment_2191" style="width: 198px">
-
-[![](../../../../uploads/2012/09/padmapada_media_radiosai_org.jpeg "padmapada_media_radiosai_org")](http://www.ulaar.com/wp-content/uploads/2012/09/padmapada_media_radiosai_org.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2191">Pic courtesy radiosai.org</figcaption></figure>
-
 *Adi Shankara was traveling and they set up camp at a beautiful lake. Padmapada was foraging on the opposite bank of the lake, when suddenly the Guru called him… So intense was Padmapada’s love and devotion to His Guru, that he just ran across the lake on the water to where his Guru was… It is said that wherever Padmapada’s feet touched the water, a Lotus sprang up to support him. And hence he got the name Padmapada.*
 
 On that particular day in June, I had skipped my morning run so I was stuck with a compensation run in the evening leaving me with a grumpy feeling. After completing two rounds at a 5:48 pace, the grumpiness had turned to sullenness. Leisurely pace and the rocky trail stretches had mostly been smoothed away so why was I still in a surly mood?
@@ -49,3 +46,4 @@ With one more lap still to go and the momentum firmly with me, I kept going at t
 Days later as I reflected on the ‘miracle’, it all made sense of course. I was running faster. My stride length hadn’t increased but my cadence (and thus my turnover) was higher. So my feet were spending less time on the ground (than at lower cadence). Less time on ground means less impact — a virtuous cycle that’s relevant for any distance runner (shod or barefoot). In this particular case, it assumed a special significance for me.
 
 *Closing note*: I’m often asked if it hurts running barefoot – especially on Indian roads and trails. I answer “yes” – of course. These days I also add the following – *Not all pain is significant*. I wish I could say that was my original quote. In Scott Jurek’s book [Eat and Run: My unlikely journey to ultramarathon greatness](http://www.amazon.com/Eat-Run-Unlikely-Ultramarathon-Greatness/dp/0547569653), he attributes that quote to a fellow ultramarathoner and physician Dave Terry.
+

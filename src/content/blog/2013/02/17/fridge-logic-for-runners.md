@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2502
+featured_image: ../../../../uploads/2013/02/20130217_214743.jpg
 categories: 
     - Running
 tags:
@@ -66,3 +67,4 @@ The picture on the left is from the physical magazine (my Samsung Galaxy SII doe
 Vegan super athletes Scott Jurek and Rich Roll probably wouldn’t sign off on #3, #5 and #13. I found #10 (Tomatoes) to be a strange addition (especially for the touted reasons) but the remaining ten seem right on the money.
 
 What do you (fellow marathoners) think?
+

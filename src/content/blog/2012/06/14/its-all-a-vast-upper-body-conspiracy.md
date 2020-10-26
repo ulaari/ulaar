@@ -83,4 +83,6 @@ The post-ultra night of Nov 13 was of the latter kind, but with a twist. Sometim
 
 The muscles stop twitching. The voices go silent. And I wake up.
 
-*(The story continues here – [Achieving terminal velocity](http://www.ulaar.com/2012/06/26/achieving-terminal-velocity/))*
+Related posts:
+- *[Achieving terminal velocity](https://www.ulaar.com/2012/06/26/achieving-terminal-velocity/)*
+- *[A gift that keeps on giving](https://www.ulaar.com/2013/07/15/a-gift-that-keeps-on-giving/)*

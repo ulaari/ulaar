@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2615
+featured_image: ../../../../uploads/2013/04/cold_showers_gettingstronger_org.jpeg
 categories: 
     - Barefootia
     - Running
@@ -66,3 +67,4 @@ If you are leery of clicking on “How to do…” type of links (I understand),
 > For example, if we take a cold shower, the thermogenic opponent-process outlasts this and we feel a lasting pleasant warmth after stepping out of the shower. More interestingly, **the opponent process gets stronger and lasts longer with each repetition**; the body is adapting and realizes it must try harder to maintain homeostasis. That means that the original “shock” is muted faster and more strongly, even from the beginning. It also means that with repetition the opponent process continues to get stronger and last longer after the stimulus stops. So the more you take cold showers, the shorter the initial unpleasantness, and the longer and stronger the “afterglow”.
 
 *Closing note*: I’ll be returning to Todd Becker’s blog soon and will likely make this into a series.
+
