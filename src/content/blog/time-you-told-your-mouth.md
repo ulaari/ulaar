@@ -1,6 +1,6 @@
 ---
-title: 'It's time you told your mouth'
-date: '2020-08-05T12:52:58+05:30'
+title: 'Its time you told your mouth'
+date: '2020-10-24T12:52:58+05:30'
 status: draft
 permalink: /2020/10/24/time-you-told-your-mouth
 author: vishy
@@ -8,7 +8,7 @@ description: ''
 type: post
 id: 4242
 categories: 
-    - Music
+    - 'American Memories'
 tags: []
 post_format: []
 ---
