@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 975
+featured_image: ../../../../uploads/2011/01/ktm_picturesque.jpeg
 categories: 
     - Running
 tags:

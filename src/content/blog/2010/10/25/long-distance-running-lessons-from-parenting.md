@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 919
+featured_image: ../../../../uploads/2010/10/running-with-stroller.jpg
 categories: 
     - Running
 tags:

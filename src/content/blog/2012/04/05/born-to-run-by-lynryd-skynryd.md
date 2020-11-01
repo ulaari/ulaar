@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1406
+featured_image: ../../../../uploads/2012/04/lynyrd_skynryd_last_rebel-150x150.jpg
 categories: 
     - Running
 tags:
@@ -21,7 +22,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-[![](../../../../uploads/2012/04/lynyrd_skynryd_last_rebel-150x150.jpg "lynyrd_skynryd_last_rebel")](http://www.ulaar.com/wp-content/uploads/2012/04/lynyrd_skynryd_last_rebel.jpeg)I’ve had Lynryd Skynryd’s The Last Rebel album in my music collection for years (maybe even decades). As I was listening to my “Rock” genre in random mode today and it started playing “Born to Run”, it struck me “Hey – this is the same title as that famous running book by McDougal!” I replayed the song a few times, paying extra attention to the lyrics.. then gave up and dug the lyrics from eLyrics.net.
+I’ve had Lynryd Skynryd’s The Last Rebel album in my music collection for years (maybe even decades). As I was listening to my “Rock” genre in random mode today and it started playing “Born to Run”, it struck me “Hey – this is the same title as that famous running book by McDougal!” I replayed the song a few times, paying extra attention to the lyrics.. then gave up and dug the lyrics from eLyrics.net.
 
 *There’s an old man sittin’ on a front porch now*  
 *Talkin’ ’bout how it used to be*  

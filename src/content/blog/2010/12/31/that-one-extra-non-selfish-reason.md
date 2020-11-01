@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1014
+featured_image: ../../../../uploads/2010/12/random-race-pic.jpg
 categories: 
     - Running
 tags:

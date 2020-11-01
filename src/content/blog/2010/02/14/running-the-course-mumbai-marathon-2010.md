@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 452
+featured_image: ../../../../uploads/2010/02/mumbai_marathon_2010_sealink.jpeg
 categories: 
     - Running
 tags:

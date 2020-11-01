@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1441
+featured_image: ../../../../uploads/2012/04/runner_motivation_pic.jpeg
 categories: 
     - Books
     - Running
@@ -18,9 +19,6 @@ tags:
     - Running
 post_format: []
 ---
-<figure aria-describedby="caption-attachment-1446" class="wp-caption alignleft" id="attachment_1446" style="width: 259px">
-
-[![](../../../../uploads/2012/04/runner_motivation_pic.jpeg "runner_motivation_pic")](http://www.ulaar.com/wp-content/uploads/2012/04/runner_motivation_pic.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1446">Pic: courtesy Google Images/Pinterest.com</figcaption></figure>
 
 Haruki Murakami, famous novelist and marathon runner, this question in his memoir [What I talk about when I talk about running](http://www.amazon.com/What-About-Running-Vintage-International/dp/0307389839/ref=tmm_pap_title_0).
 

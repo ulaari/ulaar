@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 971
+featured_image: ../../../../uploads/2011/01/born-to-run-budhia-singh.jpeg
 categories: 
     - Running
 tags:

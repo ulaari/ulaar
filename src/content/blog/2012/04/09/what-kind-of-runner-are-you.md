@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1423
+featured_image: ../../../../uploads/2012/04/haruki_murakami_runner_pic_operatic_wp_com.jpeg
 categories: 
     - Running
 tags:

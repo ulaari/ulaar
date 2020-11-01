@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1284
+featured_image: ../../../../uploads/2012/02/asterix-magic-potion.png
 categories: 
     - Running
 tags:
@@ -28,9 +29,6 @@ jabber_published:
 email_notification:
     - '1328613367'
 ---
-<figure aria-describedby="caption-attachment-1292" class="wp-caption alignleft" id="attachment_1292" style="width: 269px">
-
-[![](../../../../uploads/2012/02/asterix-magic-potion.png?w=269 "Asterix-magic-potion")](http://www.ulaar.com/wp-content/uploads/2012/02/asterix-magic-potion.png)<figcaption class="wp-caption-text" id="caption-attachment-1292">Look for the Asterix reference at the tail end of post (Pic: courtesy zenitram.over-blog.com)</figcaption></figure>
 
 This is Part 2 of my Mumbai Marathon 2012 race report and continues from [For a few minutes less: a race report from Mumbai Marathon 2012](http://ulaar.wordpress.com/2012/02/01/for-a-few-minutes-less-a-race-report-from-mumbai-marathon-2012/).
 

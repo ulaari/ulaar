@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1030
-featured_image: ../../../../2011/08/golf-omnibus-p-g-wodehouse-hardcover-cover-art.jpg
+featured_image: ../../../../uploads/2011/08/discgolf02.jpg
 categories: 
     - Running
     - Sports

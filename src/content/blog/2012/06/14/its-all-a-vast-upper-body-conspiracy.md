@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1673
+featured_image: ../../../../uploads/2012/06/brooks_gts11_green.jpg
 categories: 
     - Barefootia
     - Running
@@ -27,9 +28,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1680" class="wp-caption alignleft" id="attachment_1680" style="width: 300px">
-
-[![](../../../../uploads/2012/06/brooks_gts11_green.jpg "brooks_gts11_green")](http://www.ulaar.com/wp-content/uploads/2012/06/brooks_gts11_green.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1680">Pic: courtesy amazon.com</figcaption></figure>
 
 It’s been a little over 3 months since I changed my running shoe. I fuss and obsess over my new shoe like never before. To the extent that I’ve taken to washing them after every run. Strange, huh?
 

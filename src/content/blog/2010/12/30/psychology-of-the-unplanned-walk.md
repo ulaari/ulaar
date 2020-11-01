@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1010
+featured_image: ../../../../uploads/2010/12/trail_walk_greenwoodworker_co_uk.jpeg
 categories: 
     - Running
 tags:
@@ -28,9 +29,6 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1835" class="wp-caption alignleft" id="attachment_1835" style="width: 217px">
-
-[![](../../../../uploads/2010/12/trail_walk_greenwoodworker_co_uk.jpeg "trail_walk_greenwoodworker_co_uk")](http://www.ulaar.com/wp-content/uploads/2010/12/trail_walk_greenwoodworker_co_uk.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1835">Pic: courtesy greenwoodworker.co.uk</figcaption></figure>
 
 There are only two primary strategies to running a marathon – running the entire distance at close to your target pace or adopt a run-walk rhythm for the entire distance. The latter (run-walk) strategy, popularized by US Olympian Jeff Galloway, advocates a run-walk rhythm (for example, run a mile followed by a minute of walking) where the length of the run and duration of the walk can be custom to the runner. The rest of this post has nothing to do with the run-walk strategy. Instead, it’s an attempt to analyze a key problem the former strategy (of running continuously) throws up — the <span style="text-decoration: underline;">*unplanned*</span> walk.
 

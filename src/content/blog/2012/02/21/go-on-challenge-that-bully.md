@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1350
+featured_image: ../../../../uploads/2012/02/sackett_lonely_on_the_mountain_cover.jpg
 categories: 
     - Books
     - Running
@@ -37,10 +38,6 @@ A friend and running fanatic (Partha) once told me a story about one of his frie
 > Partha: “Actually I’m into long distance running – think ‘marathons’. In fact, I ran two full marathons in the past year.”
 > 
 > Jake (laughing and openly taunting now): “You know what? It’s the really slow runners that take up long distance running!”
-
-<figure aria-describedby="caption-attachment-1351" class="wp-caption alignleft" id="attachment_1351" style="width: 210px">
-
-[![](../../../../uploads/2012/02/sackett_lonely_on_the_mountain_cover.jpg "sackett_lonely_on_the_mountain_cover")](http://www.ulaar.com/wp-content/uploads/2012/02/sackett_lonely_on_the_mountain_cover.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1351">Pic: courtesy paperbackswap.com</figcaption></figure>
 
 Not sure how exactly the conversation ended but knowing Partha to be the perfect gentleman, I don’t think he switched to French. I bristled with righteous indignation after hearing this story. Partha should not have taken it lying down. So I told him this doggone-never-give-up Sackett story from Louis L’Amour’s [Lonely on the Mountain](http://www.amazon.com/Lonely-Mountain-Sacketts-Louis-LAmour/dp/0553276786):
 
