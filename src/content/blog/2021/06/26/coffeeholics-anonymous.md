@@ -19,7 +19,7 @@ tags:
 post_format: []
 ---
 
-"After 2 years of a nocturnal heavy Masters program, I found it hard to stay awake beyond 10am at my new job so I turned to black coffee. Before I knew it, I was up to 5 a day and I was hooked."
+"After 2 years of a nocturnal heavy Masters program, I found it hard to stay awake beyond 10am at my new job so I turned to black coffee. Before I knew it, I was up to 5 a day and hooked."
 
 "I can't remember the last time I woke up in the morning and did NOT immediately brew coffee."
 
@@ -45,7 +45,7 @@ post_format: []
 
 "I once spent a night in the jail because I assaulted a barista. He mistakenly served me a disgusting hazelnut concoction instead of my regular cappuccino. I know he brews 100's of cups daily but that was MY morning cappuccino he screwed up."
 
-"What annoys me the most is the false equivalence between the 2-coffees-a-day chappie with the 2-cigarettes-a-day chump. The latter is a dimwit who has quit the race with victory in grasping distance. The former is the truly rare balanced human being." 
+"What annoys me the most is the false equivalence between the 2-coffees-a-day chappie and the 2-cigarettes-a-day chump. The latter is a dimwit who has quit the race with victory in grasping distance. The former is the truly rare balanced human being." 
 
                                 ********************
 This was obviously on a Zoom call with half the attendees 'keeping video off` as they hadn't had their morning coffee yet.
