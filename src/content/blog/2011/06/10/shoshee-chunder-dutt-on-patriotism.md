@@ -22,7 +22,11 @@ email_notification:
 tagazine-media:
     - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"2859667";s:7:"blog_id";s:7:"2786457";s:9:"mod_stamp";s:19:"2011-06-10 18:17:07";}'
 ---
-<div class="poem">*Heard ye that lofty pealing sound*  
+<div class="poem">
+</div>
+
+
+*Heard ye that lofty pealing sound*  
 *⁠Upon the balmy air,*  
 *The exulting shout that best proclaims*  
 *⁠The deeds which heroes dare?*  
@@ -42,7 +46,7 @@ tagazine-media:
 *Their haughty plumes and ensigns red*  
 *⁠Are fluttering in the gale;*
 
-</div><div class="poem">*And helmets cleft, and canvas torn,*  
+And helmets cleft, and canvas torn,*  
 *⁠Proclaim the fighting done;*  
 *And neighing steeds, and bloody spears,*  
 *⁠Announce the battle won.*  
@@ -84,20 +88,15 @@ tagazine-media:
 
 \*\*\*\*\*\*\*
 
-</div>*The mountain torrent rushing down*
 
-*Can ne’er its course retrace,*
+*The mountain torrent rushing down*  
+*Can ne’er its course retrace,*  
+*And souls that speed on glory’s path*  
+*Must ever onward press:*  
 
-*And souls that speed on glory’s path*
+*Aye, onward press — to bleed and die,*  
+*Triumphant still in death:*  
+*Imposter, hence! in other lands*  
+*Go draw thy coward breath.*  
 
-*Must ever onward press:*
-
-*Aye, onward press — to bleed and die,*
-
-*Triumphant still in death:*
-
-*Imposter, hence! in other lands*
-
-*Go draw thy coward breath.*
-
-**May 2020 update**: in my original post, I had only included the last 2 paragraphs of The Warrior Returns.
+**May 2020 update**: in my original post, I had included only the last 2 paragraphs of The Warrior Returns.
