@@ -51,10 +51,8 @@ Your loving Amma.
 
 That's it for now.
 
-*Closing Note: Fittingly, in a serendipidous way, the two cousins (Sirisha and my mother) now live within 500 meters of each other in Hyderabad. The universe also gave a hat tip to this post by ensuring the two met in person last week - 2 pictures from their trip down memory lane.* 
+*Closing Note: Fittingly, in a serendipidous way, the two cousins (Sirisha and my mother) now live within 500 meters of each other in Hyderabad. The universe also gave a hat tip to this post - the two met in person last week. A picture from their trip down memory lane is the 100 year old chair that once graced that majestic mansion in Rajahmundry.* 
 
-![](../../../../uploads/2021/07/sirisha-and-mythily.jpg) Sirish (Left) and Mythily (Right)
-
-![](../../../../uploads/2021/07/100-year-old-chair.jpg) 100 year old old chair that once graced that majestic mansion in Rajahmundry
+![](../../../../uploads/2021/07/100-year-old-chair.jpg) The 100 year old chair 
 
 
