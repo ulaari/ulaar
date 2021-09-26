@@ -39,7 +39,7 @@ It was an irony that Sirisha, the daughter of the house owner got married in a r
 
 Coming to our present topic. In 1959 my Hema _kakki's_ family were living in the main portion as Lalita's father (a radio engineer) had been transferred to Rajahmundry.
 
-After the marriage was over, my _Mavayya_ asked somebody to click a photo with all his nephews and nieces. The one who is in the right corner with goggles) was our uncle. The window you see was the room where _Kakki_ and I (and most of our cousins) were born. I don't recognize any kid in the photo. It took some time to even locate _Kakki_. The infant I'm holding is Hema _Kakki's_ youngest child - Prasad.
+After the marriage was over, my _Mavayya_ asked somebody to click a photo with all his nephews and nieces. The one who is in the right corner (with goggles) was our uncle. The window you see was the room where _Kakki_ and I (and most of our cousins) were born. I don't recognize any kid in the photo. It took some time to even locate _Kakki_. The infant I'm holding is Hema _Kakki's_ youngest child - Prasad.
 
 Last point - I was crazy about wrist watch. Satyakkayya [older cousin sister] allowed me to wear hers for some time (without me even asking her). While standing for the picture my whole attention was on how to keep that watch visible! First time when I saw this photo I was looking for the wrist watch!! Even this morning!!! Very funny.
 
