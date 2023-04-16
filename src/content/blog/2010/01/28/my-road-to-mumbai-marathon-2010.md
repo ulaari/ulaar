@@ -68,4 +68,4 @@ I had kept alarms for 5 different times but woke up at the first beep itself. Ne
 
 Considering how wordy this post has already gotten (and how long it took to get this far), I’ll finish the highlights of my actual running in a subsequent post.
 
-(Feb 14 Update: race day ‘report’ covered in [Running the Course – Mumbai Marathon 2010](http://ulaar.wordpress.com/2010/02/14/running-the-course-mumbai-marathon-2010/))
+(Feb 14 Update: race day ‘report’ covered in [Running the Course – Mumbai Marathon 2010](https://www.ulaar.com/2010/02/14/running-the-course-mumbai-marathon-2010/))
