@@ -93,8 +93,6 @@ In [Ambassador’s Journal](http://www.amazon.com/Ambassadors-Journal-Personal-A
 *May 10, 1963* – New Delhi 
 > <div>The other occurrence of the week was much more pleasant. The President came out strongly on the side of helping the Indians build the Bokaro steel plant and he said it should be supported in the public sector. It was a marvelous no-nonsense statement. For weeks, the AID people have been worrying about Congressional reaction. Characteristically they have been seeking to protect the President on matters where he doesn’t need or, one gathers, especially want protection. Now he has moved in and settled matters. He made the statement in a press conference. I followed it up here with a brief press conference in which I drew attention to the President’s answers. I also noted that the Congress still had to act and there were many technical and administrative details to be worked out. The papers this morning are full of it. For the last few days, Blitz, Link and the left generally have been busy assuring India that the U.S. is seeking to undermine Indian socialism. The President’s action is an unfair blow to these constructive thoughts.</div>
 
-(Feb 14 Update: race day ‘report’ covered in [Running the Course – Mumbai Marathon 2010](https://www.ulaar.com/2010/02/14/running-the-course-mumbai-marathon-2010/))
-
 <div style="text-align: center;">*******************************</div>
 *May 10, 1963* is the last Bokaro-specific journal entry in Galbraith’s memoir. His term ended on Jul 12, 1963 and the new ambassador’s (Chester Bowles) term started on Jul 19, 1963. I’ve cobble together some relevant article links and related dates: 
 
