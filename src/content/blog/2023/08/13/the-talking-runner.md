@@ -45,3 +45,5 @@ The TR’s views and actions on charity are entirely congruent with the way he l
 
 If you are wondering “who the heck this TR fellow is”, please pack your bags to Bangalore (preferably with a weekend stay in mind) and a genuine intention to run (or walk) for a duration no less than an hour. The run/walk location and the breakfast venue shall be finalised by the TR and yeah! DO pack your smartphone - it could come in handy. If you are willing to wait 5 months, you could show up in Mumbai over TMM weekend - any of the registered marathon runners (or their friends) will point him out in short order. 
 
+If you DO know who TR is, please leave a comment with your favorite 'TR story' *without compromising* his identity.
+
