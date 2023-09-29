@@ -20,7 +20,7 @@ post_format: []
 
 *Editor's note: My friend Karthik, an avid hiker and a dilettante poet, composed this beauty while on a trek in Kedarkantha just before the pandemic dropped on the world.*
 
-![](../../../../uploads/2021/07/karthik-kedarkantha-with-dog.jpg)
+![Karthik Kedarkantha with Dog](../../../../uploads/2021/07/karthik-kedarkantha-with-dog.jpg)
 
 *Another day, another beginning.*   
 *Rays of the sun reaching the camp*   

@@ -21,7 +21,7 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
-          image={post.frontmatter.featured_image ? post.frontmatter.featured_image.childImageSharp.fluid.src: null}
+          image={post.frontmatter.featured_image ? post.frontmatter.featured_image.publicURL: null}
           pathname={post.fields.slug}
           article={true}
         />
@@ -86,9 +86,7 @@ export const pageQuery = graphql`
         featured_image {
           publicURL
           childImageSharp {
-            fluid(maxWidth: 1024) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(width: 1024)
           }
         }
       }
@@ -118,9 +116,7 @@ export const pageQuery = graphql`
             featured_image {
               publicURL
               childImageSharp {
-                fluid(maxWidth: 300) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 300)
               }
             }
           }

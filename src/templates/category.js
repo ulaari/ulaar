@@ -75,9 +75,7 @@ export const categoriesQuery = graphql`
             featured_image {
               publicURL
               childImageSharp {
-                fluid(maxWidth: 768) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 768)
               }
             }
           }

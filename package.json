@@ -10,9 +10,9 @@
   "dependencies": {
     "disqus-react": "^1.1.5",
     "gatsby": "^5.12.5",
-    "gatsby-image": "^3.11.0",
     "gatsby-plugin-feed": "^5.12.0",
     "gatsby-plugin-google-analytics": "^5.12.0",
+    "gatsby-plugin-image": "^3.12.0",
     "gatsby-plugin-mailchimp": "^5.2.2",
     "gatsby-plugin-manifest": "^5.12.0",
     "gatsby-plugin-nprogress": "^5.12.0",

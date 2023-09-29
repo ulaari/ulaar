@@ -1,10 +1,12 @@
 import React from 'react'
 import './PostCardHorizontal.scss'
-import Img from 'gatsby-image'
+import {getImage, GatsbyImage } from "gatsby-plugin-image"
 import { Link } from 'gatsby'
 
 class PostCardHorizontal extends React.Component {
   render () {
+    const image = getImage(this.props.post.frontmatter.featured_image)
+    
     return (
       <article
         className="post-card-hr"
@@ -22,12 +24,10 @@ class PostCardHorizontal extends React.Component {
             itemProp="image"
             itemType="https://schema.org/ImageObject"
           >
-            <Img
+            <GatsbyImage
               className="card-image"
               alt={this.props.post.frontmatter.title}
-              fluid={
-                this.props.post.frontmatter.featured_image.childImageSharp.fluid
-              }
+              image={image}
             />
           </figure>: null
           }
