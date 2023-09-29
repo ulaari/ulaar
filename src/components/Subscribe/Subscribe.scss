@@ -1,3 +1,4 @@
+@use "sass:math";
 @import "../../styles/variables";
 
 .subscription-card {
@@ -19,7 +20,7 @@
 }
 
 .subscription-card .form-item {
-    margin-bottom: $spacing-unit/2;
+    margin-bottom: math.div($spacing-unit, 2);
 }
 
 .subscription-card .form-control {

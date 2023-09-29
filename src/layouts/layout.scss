@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@use "sass:math";
 @import "../styles/normalize";
 @import "../styles/variables";
 @import "../styles/animation";
@@ -160,7 +160,7 @@ pre {
 
 blockquote {
     border-left: 6px solid $brand-color;
-    padding-left: $spacing-unit / 2;
+    padding-left: math.div($spacing-unit, 2);
     padding-top: 0.2em;
     padding-bottom: 0.2em;
     line-height: 1.8;

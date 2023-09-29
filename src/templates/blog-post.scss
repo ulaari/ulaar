@@ -1,3 +1,4 @@
+@use "sass:math";
 @import "../styles/variables";
 
 .blog-main-content {
@@ -10,7 +11,7 @@
 
     @media screen and (min-width: $lg) {
         width: 72%;
-        padding-right: $spacing-unit/2;
+        padding-right: math.div($spacing-unit, 2);
         float: left;
     }
 }
@@ -23,6 +24,6 @@
         display: block;
         width: 28%;
         float: left;
-        padding-left: $spacing-unit/2;
+        padding-left: math.div($spacing-unit, 2);
     }
 }

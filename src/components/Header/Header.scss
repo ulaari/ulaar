@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@use "sass:math";
 @import "../../styles/variables";
 
 .site-header {
@@ -54,7 +54,7 @@
 
     li {
       display: inline-block;
-      margin-left: $spacing-unit/2;
+      margin-left: math.div($spacing-unit, 2);
 
       a {
         color: $text-color;
@@ -287,7 +287,7 @@ button.menu {
 .mobile-search {
   float: right;
   animation: linkSlideUp3 $animation-delay + 350ms;
-  margin-left: $spacing-unit/2;
+  margin-left: math.div($spacing-unit, 2);
 
   .search-opener,
   .search-close {

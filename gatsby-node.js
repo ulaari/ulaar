@@ -29,7 +29,7 @@ exports.createPages = async ({ graphql, actions }) => {
     `
       {
         allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
+          sort: { frontmatter: { date: DESC } }
           filter: { frontmatter: { status: { ne: "draft" } } }
           limit: 1000
         ) {
@@ -46,13 +46,13 @@ exports.createPages = async ({ graphql, actions }) => {
           }
         }
         categoriesGroup: allMarkdownRemark(limit: 1000) {
-          group(field: frontmatter___categories) {
+          group(field: {frontmatter: {categories: SELECT}}) {
             fieldValue
             totalCount
           }
         }
         tagsGroup: allMarkdownRemark(limit: 1000) {
-          group(field: frontmatter___tags) {
+          group(field: {frontmatter: {tags: SELECT}}) {
             fieldValue
             totalCount
           }

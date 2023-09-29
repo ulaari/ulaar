@@ -1,9 +1,9 @@
-@charset "UTF-8";
+@use "sass:math";
 @import "../../styles/variables";
 
 .container {
     width: 100%;
-    padding: 0 $spacing-unit/2;
+    padding: 0 math.div($spacing-unit, 2);
     margin-right: auto;
     margin-left: auto;
 
