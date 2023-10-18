@@ -30,6 +30,8 @@ post_format: []
 
 This Good Friday I completed 5 months with Rapido and boy, have the days flown by or what? Barring a week, I have been regularly working out of the lovely physical office in Bellandur. Believe me! there’s a world of difference between onboarding in-the-time-of-a-pandemic and its immediate aftermath. Coming as it does, 5 months later, this post is a more complete answer to the question “*Why I joined Rapido”.* 
 
+![rapido-female-commuter](../../../../uploads/2022/04/rapido_female_commuter.jpeg)
+
 **The mGaadi “hop”**
 
 The story starts in 2013 when Solomon & I decided to start [mGaadi](https://www.bbc.com/news/business-29840206). A [different kind of Indian city](https://www.techsangam.com/2013/08/18/a-different-kind-of-indian-city/) was our vision and I’m excerpting the key bits below:

@@ -64,6 +64,8 @@ I just HAD to learn why this track had _so_ enchanted me. The lyrics were clearl
 
 So that's how Myth made me feel that day in September. The magic still persists although a bit attenuated. 
 
+![beach-house-album](../../../../uploads/2022/01/beach_house_bloom_album.png)
+
 If you've listened to the track, do post a comment on how you felt.. even if it was "Meh!" :)
  
 

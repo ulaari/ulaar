@@ -29,6 +29,8 @@ There I was, in the mid-90’s, having just embraced solo running alongside beau
 
 Aren’t all runners talkative I can hear some of you say.. well yeah kinda. If a strong silent type took up running, he’d surely become talkative. But the *talking runner* is a different species altogether -  where running starts and talking ends is a vast continuum bookended just by how long the day’s run is going to be. 
 
+![bing-halle-img](../../../../uploads/2023/08/bing-halle-group-running.jpeg)Generative AI image powered by Bing Dalle - meh!
+
 Seven years later I’d see a second *talking runner* in action, this time in a marathon race. There I was, running my debut marathon - on the back of a perfectly executed 3-mo training plan crafted by the nicest South African I knew, and who do I behold but Kajal, a chirpy colleague whose training plan and modus operandi couldn’t be more different than mine.
 
 Kajal was running with a posse of pacers - two in the first half and one (Ryan, another colleague I knew) in the 2nd half. The common refrain from mile#3 (when I hitched my wagon to the ‘Kajal bus’) to mile#23 was the incessant chatter. What Larry had *described* years ago was being exhibited over the course of 4 hours - the effortless flow of the *talking runner*.

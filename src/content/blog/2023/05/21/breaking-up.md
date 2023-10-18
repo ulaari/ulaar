@@ -31,6 +31,8 @@ In recent years, my relationship with running has been nothing short of a roller
 **The Breaking Point**
 Today was yet another bitter reminder of our failing love affair. I stood at the starting line, my heart filled with hope and my Vibrams hugging my feet. I had meticulously planned my pace, visualized my victory, and even sacrificed a few innocent chocolate bars in the name of carb-loading. Alas, destiny had other plans. My target slipped through my fingers like sand, leaving me feeling disheartened and betrayed.
 
+![npr-broken-image](../../../../uploads/2023/05/npr_broken_heart_img.jpg)
+
 **Seeking Refuge in New Sports**
 Desperate times call for desperate measures, and I've decided to explore new horizons. Enter squash and yoga, the two potential saviors waiting in the wings. Squash, with its intense rallies and adrenaline-pumping court battles, promises to inject excitement back into my life. Meanwhile, yoga offers a tranquil escape from the chaotic world of marathon training, embracing inner peace and flexibility.
 

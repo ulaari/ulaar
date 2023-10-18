@@ -59,7 +59,7 @@ post_format: []
 
 *******
 
-[![tmm2023-with-prateek](../../../../uploads/2023/09/tmm2023_with_prateek.jpg)](http://www.ulaar.com/2023/09/24/time-for-final-lesson/tmm2023-with-prateek/)Prateek and me waiting for Anjana post the TMM2023 carnival
+![tmm2023-with-prateek](../../../../uploads/2023/09/tmm2023_with_prateek.jpg)Prateek and me waiting for Anjana post the TMM2023 carnival
 
 If you are scratching your head, I need to tell you that I possess this super-power where I witness my body parts talking to each other through morse-code like muscle twitches which amazingly get decoded as multi-tonal voices in my head. The above conversation was witnessed a few hours before the start of Tata Mumbai Marathon 2023. (Previous episodes - [it’s all a vast upper body conspiracy](https://www.ulaar.com/2012/06/14/its-all-a-vast-upper-body-conspiracy/) and [a gift that keeps on giving](https://www.ulaar.com/2013/07/15/a-gift-that-keeps-on-giving/))
 

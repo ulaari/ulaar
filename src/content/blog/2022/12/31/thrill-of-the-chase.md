@@ -90,6 +90,8 @@ December capped 2 frenetic months of planning and goal-setting at work and my af
 
 The chase is well and truly on! The outcome of the first chase will be known in 2 weeks. The other one will play out for the better part of 2023 (raising a fingers-crossed toast while murmuring the serenity prayer).
 
+![future-islands-cover](../../../../uploads/2022/12/future-islands-cover.jpg)
+
 ******************************************************************************************
 
 Closing with a very important announcement — I am fundraising for **AADI** (the frontrunner in creating service delivery models for people with multiple disabilities). How do I even know AADI? Well, this organisation inspired my childhood friend (Charulekha) to join them 30 years ago where she continues to “deliver on the mission” with the same zeal. Please give a careful consideration and [support my fundraising campaign for AADI](https://www.unitedwaymumbai.org/fundraiser/6974). Thanks!
