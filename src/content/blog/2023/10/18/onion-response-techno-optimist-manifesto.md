@@ -1,6 +1,6 @@
 ---
-title: 'Techno-Optimists Reveal Their Latest Manifesto'
-date: '2023-12-18T18:57:29+05:30'
+title: 'Techno-Optimists Reveal Latest Manifesto'
+date: '2023-10-18T18:57:29+05:30'
 status: publish
 permalink: /2023/10/18/onion-response-techno-optimist-manifesto
 author: vishy
