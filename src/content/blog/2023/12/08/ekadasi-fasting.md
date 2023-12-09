@@ -15,6 +15,7 @@ tags:
     - fasting
     - gojek
     - 'karva chauth'
+    - sadhguru
     - bali
     - panglipuran
     - ubud
@@ -23,8 +24,6 @@ tags:
     - christiansen
 post_format: []
 ---
-
-# Four years of Ekadasi fasting
 
 > My mother fasts and prays. My sister meditates. I run.
 > 
@@ -83,13 +82,11 @@ From left: Kelvin, Sumit, Ndari, Kiran, Nanda (Panglipuran village in Bangli)
 
 ![bali_bangli_group2.JPG](../../../../uploads/2023/12/bali_bangli_group2.jpg)
 
-From left: Bambang, Amit, Kelvin, Medan RM (forgot his name), lady making *ragi mudde*
+From left: Bambang, Amit, Kelvin, Budianto, lady making *Klepon*
 
 ![bali_bangli_group1.JPG](../../../../uploads/2023/12/bali_bangli_group1.jpg)
 
-Crowd-sourced ragi mudde making (by the entire Gojek gang) orchestrated by the local lady
+Crowd-sourced Klepon making (by the entire Gojek gang) orchestrated by the local lady
 
-**Important note**: what I’m casually referring as *ragi mudde* is certainly NOT that. It was not as dense as ragi and it was sweet.
-
-(will update this post with the correct name!)
+**About Klepon**: It's an Indonesian sweet treat made from glutinous rice flour combined with the amazing flavour combination of pandan, coconut and palm sugar.
 
