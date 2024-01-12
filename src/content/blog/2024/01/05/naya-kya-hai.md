@@ -61,3 +61,14 @@ I’ve been investing on the platform since 2020. As of now, my investments have
 
 ![rangde-founders2.jpeg](../../../../uploads/2024/01/rangde-founders2.jpeg)(Rang De founders: Ram and Smita)
 
+**Special note to the usual suspects** (aka "my tenured supporters")
+
+The first time I did fundraising alongside a race was in 2001 - a campaign I dubbed _"Running for India's Villages"_. Some of you might remember it? :) 
+I was tempted to title this year's campaign as _"Running for Bharat's Farmers"_ which is _mostly_ what Rangde's target beneficiaries are (students from Tier 2/3 towns being the exception). I *know* that the top reason why many of you contributed in previous campaigns is because you *trust me* -- and for this I'm very grateful. 
+
+Philanthropy is deeply personal and, while I appreciate your trust in my limited curation, I've always wanted to present multiple options. Finally, this is the year and Rang De is the platform that makes the choice-making happen. You can browse by Regions (basically a State filter of the beneficiaries on the platform), Funds (Community Tourism, Nilgiri Elephant, Akshayakalpa Dairy, etc), and Individuals (filter by Gender, First-time borrowers, etc). 
+
+This time my campaign runs all the way till **March 31, 2024** and I need you folks to use the referral code **VISH8429** in the "Sign Up" flow as that will enable some seamless reporting.
+What else is different this time? This is not a donation cheque you are writing.. it's an _investment_ (a _loan_ that can be perpetually recycled to the next borrower) while you also get a 6% financial return. So if your usual contribution amount was X, this time you might consider making it an integer multiple of X :) And please DO share your valuable feedback as you explore and transact on the platform. 
+
+Thank you!
