@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 1097
+featured_image: ../../../../uploads/2011/06/mint-cucumber-sandwich-11.jpg
 categories: 
-    - 'American Memories'
+    - USA
     - R2I
 tags:
     - 'bellarmine speech and debate'
@@ -26,11 +27,9 @@ jabber_published:
 email_notification:
     - '1307337848'
 ---
-<figure aria-describedby="caption-attachment-1096" class="wp-caption alignleft" id="attachment_1096" style="width: 300px">
+![sandwich.jpg](../../../../uploads/2011/06/mint-cucumber-sandwich-11.jpg)
 
-[![](http://ulaar.files.wordpress.com/2011/06/mint-cucumber-sandwich-11.jpg?w=300 "mint-cucumber-sandwich")](http://ulaar.files.wordpress.com/2011/06/mint-cucumber-sandwich-11.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1096">Cucumber-Mint - the tastiest sandwich in the world!</figcaption></figure>
-
-*\[<span style="text-decoration:underline;">Editor’s Note</span>: The author of this post, Rajat Mukherjee, lives in Silicon Valley and works for Google. This post originally appeared on his [Silicon Thoughts blog](http://rajatmukherjee.blogspot.com/2011/05/sandwiched-generation-best-generation.html) and is reproduced here with his permission. Rajat is a classic lay-down-rooter, a term I defined in [this post](http://ulaar.wordpress.com/2008/06/04/the-two-types-of-indian-immigrants/).\]*
+*\[<span style="text-decoration:underline;">Editor’s Note</span>: The author of this post, Rajat Mukherjee, lives in Silicon Valley and works for Google. This post originally appeared on his [Silicon Thoughts blog](http://rajatmukherjee.blogspot.com/2011/05/sandwiched-generation-best-generation.html) and is reproduced here with his permission. Rajat is a classic lay-down-rooter, a term I defined in [this post](https://www.ulaar.com/2008/06/04/the-two-types-of-indian-immigrants/).\]*
 
 Last week, we were at the Bellarmine Speech and Debate team [banquet](http://www.bcp.org/news/detail.aspx?pageaction=ViewSinglePublic&LinkID=12918&ModuleID=235&NEWSPID=1), where we heard a great student [speech](http://www.dartmouth.edu/%7Enews/releases/2002/june/060902c.html), in which [Mr. Rogers](http://en.wikipedia.org/wiki/Fred_Rogers) (of the TV show) asks each member of his audience to take a few silent moments to remember who made them the special (imperfect, but unique) person they are.
 

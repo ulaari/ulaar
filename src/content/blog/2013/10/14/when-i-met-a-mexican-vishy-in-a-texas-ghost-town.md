@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 2787
+featured_image: ../../../../uploads/2013/10/bigbendnatpark_wikimedia_org.jpeg
 categories: 
-    - 'American Memories'
+    - USA
 tags:
     - 'big bend'
     - 'ghost town'
@@ -27,6 +28,9 @@ seo_noindex:
     - 'false'
 ---
 *\[Editor’s Note: On a musical day that started with Depeche Mode, moved on to Buena Vista Social Club, and continued with Omoro Portuondo and Getz/Gilberto in the evening, it wasn’t a surprise that I remembered this story and a 1993 road trip in West Texas.\]*
+
+![Bigbend](../../../../uploads/2013/10/bigbendnatpark_wikimedia_org.jpeg)
+
 
 The man grinned widely, offered his hand and introduced himself.
 
@@ -57,10 +61,6 @@ Our two years at the University of Houston were a simple blur of action.
 - Long weekends were special gifts. Gifts that couldn’t and wouldn’t be squandered away by staying within city limits. Simple three step formula: Rent car. Pick destination. Drive.
 
 The destination didn’t matter (sooo.. many awesome destinations). The rental car didn’t matter (all of them easily touched 100 mph).
-
-<figure aria-describedby="caption-attachment-2789" class="wp-caption alignleft" id="attachment_2789" style="width: 275px">
-
-[![Pic courtesy wikimedia.org](../../../../uploads/2013/10/bigbendnatpark_wikimedia_org.jpeg)](http://www.ulaar.com/wp-content/uploads/2013/10/bigbendnatpark_wikimedia_org.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2789">Pic courtesy wikimedia.org</figcaption></figure>
 
 One such long weekend took us to Big Bend National Park. Here are some other memories from the trip.
 

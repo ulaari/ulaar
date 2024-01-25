@@ -9,7 +9,7 @@ type: post
 id: 1298
 featured_image: ../../../../uploads/2012/02/nakai_how_west_was_lost.jpg
 categories: 
-    - 'American Memories'
+    - 'USA'
     - Books
 tags:
     - 'carlos nakai'
@@ -32,6 +32,8 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
+
+![carlos-nakai.jpg](../../../../uploads/2012/02/nakai_how_west_was_lost.jpg)
 
 I grew up on a diet of [Wild West](http://en.wikipedia.org/wiki/American_Old_West) novels and a dominant American narrative that celebrated the victory of the white man against the native American Indian. It was always about how the West was “won.”
 

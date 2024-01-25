@@ -1,5 +1,5 @@
 ---
-title: 'Memories of an American Life – First Two Years in Houston'
+title: 'Memories of an American Life (Two Years in Houston)'
 date: '2008-12-30T08:29:18+05:30'
 status: publish
 permalink: /2008/12/30/memories-of-an-american-life-first-two-years-in-houston
@@ -9,7 +9,7 @@ type: post
 id: 342
 featured_image: ../../../../uploads/2008/12/uofh_science_engg_bldg.jpeg
 categories: 
-    - 'American Memories'
+    - USA
 tags:
     - astroworld
     - 'big bend national park'
@@ -36,11 +36,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1725" class="wp-caption alignleft" id="attachment_1725" style="width: 275px">
+![uofh](../../../../uploads/2008/12/uofh_science_engg_bldg.jpeg)University of Houston – Science &amp; Engineering Building
 
-[![](../../../../uploads/2008/12/uofh_science_engg_bldg.jpeg "uofh_science_engg_bldg")](http://www.ulaar.com/wp-content/uploads/2008/12/uofh_science_engg_bldg.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1725">University of Houston – Science &amp; Engineering classroom complex (Pic: courtesy hayneswhaley.com)</figcaption></figure>
-
-This is Part 2 of a 3-part series on my life in America spanning Houston, Chicago and SF Bay Area. Part 1 was [Memories of an American Life – 4 years in Chicago](https://www.ulaar.com/2008/11/11/memories-of-an-american-life-4-years-in-chicago/). I arrived in Houston, Texas on August 16, 1992 with one friend (my friend &amp; classmate from BIT Ranchi – Namita Raghavan). I left the city in October 1994 (headed to Chicago) with a Masters degree, several dozen good friends, and plenty of good memories. Below are some of my fond recollections:
+This is Part 2 of a 3-part series on my life in America spanning Houston, Chicago and SF Bay Area. Part 1 was [Memories of an American Life (4 years in Chicago)](https://www.ulaar.com/2008/11/11/memories-of-an-american-life-4-years-in-chicago/). I reached Houston, Texas on August 16, 1992. When I arrived, I had just one friend (Namita Raghavan - classmate from BIT Ranchi). When I left for Chicago 2 years later, I had made several dozen good friends, and plenty of good memories. Below are some fond recollections:
 
 - Seeing Namita’s friendly face at the airport.
 - My first experience of American freeways in Soumya’s tiny 1992 Dodge Colt with cars whizzing by on both sides.

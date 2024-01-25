@@ -9,8 +9,9 @@ type: post
 id: 1534
 featured_image: ../../../../uploads/2016/04/jansher-khan-trophy.jpg
 categories: 
-    - 'American Memories'
+    - USA
     - Life
+    - Squash
     - Sports
 tags:
     - coach
@@ -36,6 +37,8 @@ Serious runners are crazy people.
 
 Serious squash players are no less crazy.
 
+![Jansher](../../../../uploads/2016/04/jansher-khan-trophy.jpg)
+
 The crazy squash player I am thinking about is my friend. Sanjay (now a Princeton, NJ resident) was my senior at BIT Mesra and we became close friends during our years in Jamshedpur. Unlike my sporadic dalliance (2 years of squash initiation in ’90-’92 followed by a year in Chicago playing racquetball circa ’95 before hitting my ‘serious’ but disjointed stints between 1998 and 2005), Sanjay was far more devoted to squash.
 
 As he moved from Jamshedpur to Clearwater, FL before settling down in the NY/NJ area, he managed to find a squash court and kept at it. I mean ***really*** kept at it.
@@ -46,7 +49,7 @@ Imran Khan was probably one of the reasons Sanjay squashed regularly at that rem
 
 During that trip I managed to catch a game with Sanjay. Predictably I got whipped. Later that evening Imran visited Sanjay’s home and the bulk of the conversation was on squash (obviously).
 
-I’m sure I grilled him a lot but there was ONE insight that overshadowed everything else that came up. An insight that could catapult a rookie or a struggling C player on to the right path.
+I’m sure I grilled him a lot but there was ONE insight that overshadowed everything else that came up. An insight that could catapult a struggling C player on to the right path.
 
 > “At any point in the squash court, there’s only ONE right stroke to hit.’
 
@@ -74,8 +77,8 @@ Thank you Imran Khan.
 
 Stories related to this topic of training to a pattern:
 
-- [Experiments in tiny habits](http://www.ulaar.com/2014/08/14/experiments-in-tiny-habits/) \[Aug 14, 2014\]
-- [The Amygdata made me do it](http://www.nytimes.com/2012/05/13/opinion/sunday/the-amygdala-made-me-do-it.html?ref=oembed&_r=0) \[NYTimes, May 12, 2012\]
+- [Experiments in tiny habits](https://www.ulaar.com/2014/08/14/experiments-in-tiny-habits/) \[Aug 14, 2014\]
+- [The Amygdala made me do it](http://www.nytimes.com/2012/05/13/opinion/sunday/the-amygdala-made-me-do-it.html?ref=oembed&_r=0) \[NYTimes, May 12, 2012\]
 
 *\[<span style="text-decoration: underline;">Closing note</span>: this post had a ge<span style="line-height: 1.5;">station period of 3 yrs 10 months. I guess there is hope for the remaining 99 posts in my Drafts folder.\]</span>*
 

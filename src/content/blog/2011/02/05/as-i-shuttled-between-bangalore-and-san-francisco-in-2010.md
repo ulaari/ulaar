@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 593
+featured_image: ../../../../uploads/2010/07/acorn_tweet_kid_beggars.png
 categories: 
-    - 'American Memories'
+    - USA
     - India
 tags:
     - bangalore
@@ -29,7 +30,8 @@ email_notification:
 sidebar_position:
     - as_blog
 ---
-![](http://ulaar.files.wordpress.com/2010/07/acorn_tweet_kid_beggars.png?w=300 "acorn_tweet_kid_beggars")
+
+![tweet](../../../../uploads/2010/07/acorn_tweet_kid_beggars.png)
 
 I saved this tweet from Nitin Pai (chief honcho and writer at [The Indian National Interest](http://acorn.nationalinterest.in/)) sometime in the first half of 2010. The operative phrase is “ought to”. The sad reality is that for most people (and I include myself in this category), the dominant emotions are sadness, guilt and frustration. Where’s the fury at the indifferent Indian state one might ask? There’s such a massive gap between the expectations of the Indian citizen and the reality of the Indian state that the daily sight of small kids doesn’t register on the fury meter. The guilt and frustration arises from the fact that besides doling small change, one seemingly cannot (or will not) do anything which has the potential to get begging kids off the streets.
 

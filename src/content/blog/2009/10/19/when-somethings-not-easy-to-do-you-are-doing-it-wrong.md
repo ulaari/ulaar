@@ -9,7 +9,7 @@ type: post
 id: 427
 featured_image: ../../../../uploads/2009/10/coke_can_opening.jpeg
 categories: 
-    - 'American Memories'
+    - USA
     - Life
 tags:
     - america
@@ -34,6 +34,8 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
+
+![coke-can](../../../../uploads/2009/10/coke_can_opening.jpeg)
 
 It was early days for me at the University of Houston campus in the Fall of 1992. One of my initial starry-eyed memories was that of purchasing my first Coke can from a vending machine on my way back to the Cambridge Oaks apartment. This was my first-ever encounter with a Coke can (for that matter any soft drink can). I examined it as one would a hard-earned trophy. It was chilled to the perfect temperature, the bright red Coke colors and the calligraphic lettering epitomized to me excellence, beauty and perfection — all things I associated with the American Dream that I was here to pursue. And I had just bought it for 60 cents. It was thrilling.
 

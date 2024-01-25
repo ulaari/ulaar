@@ -9,7 +9,7 @@ type: post
 id: 238
 featured_image: ../../../../uploads/2008/11/lake_shore_drive_bw_diversey_fullerton.jpg
 categories: 
-    - 'American Memories'
+    - USA
 tags:
     - bangalore
     - bengaluru
@@ -50,9 +50,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1729" class="wp-caption alignleft" id="attachment_1729" style="width: 300px">
-
-[![](../../../../uploads/2008/11/lake_shore_drive_bw_diversey_fullerton.jpg "lake_shore_drive_bw_diversey_fullerton")](http://www.ulaar.com/wp-content/uploads/2008/11/lake_shore_drive_bw_diversey_fullerton.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1729">Chicago’s Lake Shore Drive between Diversey &amp; Fullerton – part of my fave running stretch — till Navy Pier (Pic: courtesy flickr.com)</figcaption></figure>
+![uofh](../../../../uploads/2008/11/lake_shore_drive_bw_diversey_fullerton.jpg)Chicago's Lake Shore Drive (between Diversey and Fullerton)
 
 I originally wanted to start a post called “Ten little things I miss about America” and then realized it should more on the lines of ‘memories that I treasure’ (true true!) rather than a life that I miss and crave (at least not yet!). Sixteen years of American life were spent in 3 cities (Houston, Chicago and San Francisco Bay Area) so this is going to become a three-part series. I’m going to allow my stream of consciousness to flow with little filtering (P often wonders whether I have ‘any’ filters) – the only exclusions would be grand tourist sights like Grand Canyon, Yellowstone National Park, Golden Gate Bridge, etc. So here I go in no particular order…
 
@@ -68,7 +66,7 @@ I originally wanted to start a post called “Ten little things I miss about Ame
 - (Dating days with P) Watching R. Carlos Nakai perform the native American flute at the Field Museum of Natural History
 - Zipping around Greater Chicago on my rocket (ahem, 1985 Suzuki GS-700ES) – thanks for protecting me, oh guardian angel
 - (Dating days with P) Out of the world performance by Nusrat Fateh Ali Khan – the pride of Pakistan
-- (Dating days with P) First Dave Brubeck concert at the Orchestra Hall (I think)
+- (Dating days with P) First Dave Brubeck concert at the Orchestra Hall
 - Riding my Suzuki from Chicago to Omaha with a gas tank cap held tight with tape. This is a blog post all by itself (maybe someday after I retire)
 - Returning to Chicago and getting caught in a thunderstorm. Riding an hour in soaking rain before stopping at a motel close to Des Moines, Iowa
 - Bungie jumping in Wisconsin along with Ganesh – childhood buddy who intersects three of my place circles (Bokaro Steel City, BIT Ranchi, and Chicago)

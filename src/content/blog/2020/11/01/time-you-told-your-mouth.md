@@ -9,7 +9,7 @@ type: post
 id: 4242
 featured_image: ../../../../uploads/2020/11/mayflower-ship-imagery.jpg
 categories: 
-    - 'American Memories'
+    - USA
 tags:
     - dispronunciation
     - mispronunciation
