@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2831
+featured_image: ../../../../uploads/2014/01/nehru_gandhi_wikimedia_org.jpg
 categories: 
     - India
 tags:

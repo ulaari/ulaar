@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 3237
+featured_image: ../../../../uploads/2016/09/Guide-copy_rknarayan.jpg    
 categories: 
     - Books
     - India
@@ -16,15 +17,9 @@ tags:
     - 'rk narayan'
     - 'writerly life'
 post_format: []
-layout:
-    - ''
-embed:
-    - ''
-image:
-    - ''
-featued_image: ../../../../uploads/2016/09/Guide-copy_rknarayan.jpg    
 ---
-[![Guide copy_rknarayan](../../../../uploads/2016/09/Guide-copy_rknarayan.jpg)](http://www.ulaar.com/2016/09/06/the-guides-trouble-with-the-censor-board/guide-copy_rknarayan/)If you thought Bollywood’s troubles with the Censor Board are a recent phenomenon, think again. R.K. Narayan recounts, in [The Writerly Life](http://www.penguinbooksindia.com/en/content/writerly-life%3Frate=40uHLZjc8JuMiiwICQUMRu_5M8X7GTBMNDj3QwbplhM.html), his experience with the movie making process of The Guide. He appropriately titles that episode in his book as The ‘Misguided’ Guide. He devotes 13 pages to that episode, fine Narayan reading of course. I have transcribed the extract pertaining to the interactions to the Censor Board ‘Ministry’.
+
+[![Guide copy_rknarayan](../../../../uploads/2016/09/Guide-copy_rknarayan.jpg)](http://www.ulaar.com/2016/09/06/the-guides-trouble-with-the-censor-board/guide-copy_rknarayan/)If you thought Bollywood’s troubles with the Censor Board are a recent phenomenon, think again. R.K. Narayan recounts, in [The Writerly Life](http://www.penguinbooksindia.com/en/content/writerly-life%3Frate=40uHLZjc8JuMiiwICQUMRu_5M8X7GTBMNDj3QwbplhM.html), his experience with the movie making process of The Guide. He appropriately titles that episode in his book as The ‘Misguided’ Guide. He devotes 13 pages to that episode, fine Narayan reading of course. I have transcribed the extract pertaining to the interactions with the Censor Board ‘Ministry’.
 
 > Next: trouble at the governmental level. A representation was made to the Ministry dealing with films, by an influential group, that The Guide glorified adultery, and hence was not fit to be presented as a film, since it might degrade Indian womanhood. The dancer in my story, to hear the arguments, has no justification for preferring Raju the Guide to her legally-wedded husband. The Ministry summoned the movie principals to Delhi and asked them to explain how they proposed to meet the situation. They promised to revise the film script to the Ministry’s satisfaction.
 > 

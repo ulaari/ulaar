@@ -10,6 +10,7 @@ id: 2995
 featured_image: ../../../../uploads/2015/04/vedanta_treatise_bookcover.jpg
 categories: 
     - Books
+    - Squash
     - Life
     - Minimalism
 tags:

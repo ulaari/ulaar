@@ -23,9 +23,7 @@ tagazine-media:
 email_notification:
     - '1324896896'
 ---
-<figure aria-describedby="caption-attachment-1188" class="wp-caption alignleft" id="attachment_1188" style="width: 250px">
-
-[![](http://ulaar.files.wordpress.com/2011/12/apple_macbook_white.jpg "apple_macbook_white")](http://www.everymac.com/systems/apple/macbook/stats/macbook_2.0_white.html)<figcaption class="wp-caption-text" id="caption-attachment-1188">Apple's 1st line of Intel-powered (Core Duo) MacBooks (Courtesy: EveryMac.com)</figcaption></figure>
+![Macbook](../../../../uploads/2011/12/apple_macbook_white.jpg) Apple's 1st line of Intel-powered (Core Duo) MacBooks
 
 When I turned my back on a corporate career and embarked upon a protracted stint as a full-time blogger, I knew I had to make some adjustments. I was mentally prepared for the 12-18 months of cash flow impact but that was only the first adjustment.
 

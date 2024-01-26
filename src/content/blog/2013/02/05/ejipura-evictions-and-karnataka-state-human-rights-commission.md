@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2486
+featured_image: ../../../../uploads/2013/02/Jan19-2-105.jpg
 categories: 
     - India
 tags:
@@ -36,7 +37,7 @@ If you have read about last month’s evictions (and demolition) of a slum in th
 > Bangalore-560001  
 > Karnataka**
 > 
-> [![Jan19-2 084](../../../../uploads/2013/02/Jan19-2-084.jpg)](http://www.ulaar.com/wp-content/uploads/2013/02/Jan19-2-084.jpg)Dear Madam/Sir,
+> ![Jan19-2 084](../../../../uploads/2013/02/Jan19-2-084.jpg)Dear Madam/Sir,
 > 
 > I write to you to express my grievance and deep disturbance at the recent human rights violations of citizens of India residing in Bangalore and to lodge a complaint against the Greater Bangalore city municipal corporation (BBMP) for illegally evicting these people and rendering them homeless.
 > 
@@ -46,9 +47,9 @@ If you have read about last month’s evictions (and demolition) of a slum in th
 > 
 > On 18th January 2013, 1500 urban poor families and 5000 people from Ejipura, EWS quarters, Bangalore were [evicted violently by the City municipal corporation](http://www.thehindu.com/news/cities/bangalore/ews-evictions-25-protesters-detained-at-ejipura/article4322891.ece)[.](http://www.thehindu.com/news/cities/bangalore/ews-evictions-25-protesters-detained-at-ejipura/article4322891.ece) Many of them have been scattered through the city, with no home, shortage of food and supplies and all their possessions destroyed. The BBMP has created more homeless people whereas it should be providing for the already urban homeless and protecting rights of urban poor.
 > 
-> [![Jan19-2 105](../../../../uploads/2013/02/Jan19-2-105.jpg)](http://www.ulaar.com/wp-content/uploads/2013/02/Jan19-2-105.jpg)In the last 10 years, BBMP could have built new houses for the poor on the same expanse, but it dragged its feet for years but developed a PPP with a private company to develop the EWS land, without the consent of the residents. The company that has benefited from the BBMP’s delay tactics is Maverick Holdings and Investment Pvt Ltd, the same company that built the Garuda Mall in the upmarket MG Road-Brigade Road area. This company has also been known for flouting building and development rules and has usurped public land meant for parking and public purposes in prime Bangalore location, to commercially develop it for its own gains.
+> ![Jan19-2 105](../../../../uploads/2013/02/Jan19-2-105.jpg)In the last 10 years, BBMP could have built new houses for the poor on the same expanse, but it dragged its feet for years but developed a PPP with a private company to develop the EWS land, without the consent of the residents. The company that has benefited from the BBMP’s delay tactics is Maverick Holdings and Investment Pvt Ltd, the same company that built the Garuda Mall in the upmarket MG Road-Brigade Road area. This company has also been known for flouting building and development rules and has usurped public land meant for parking and public purposes in prime Bangalore location, to commercially develop it for its own gains.
 > 
-> [![Day 3 054](../../../../uploads/2013/02/Day-3-054.jpg)](http://www.ulaar.com/wp-content/uploads/2013/02/Day-3-054.jpg)This city belongs to the poor as well. Kindly impartially investigate into human rights violation, be it deprivation of land rights, shelter, possession, food, dignity and livelihood of the urban poor and publicly make available your reports. People from the area have fled to many parts of the city already and so I request urgent intervention from your part to get them justice. Kindly register this as a public complaint by citizens of Bangalore against the BBMP and take pertinent and stringent action from your capacities. Stand up for the urban poor and stand for their rights.
+> ![Day 3 054](../../../../uploads/2013/02/Day-3-054.jpg)This city belongs to the poor as well. Kindly impartially investigate into human rights violation, be it deprivation of land rights, shelter, possession, food, dignity and livelihood of the urban poor and publicly make available your reports. People from the area have fled to many parts of the city already and so I request urgent intervention from your part to get them justice. Kindly register this as a public complaint by citizens of Bangalore against the BBMP and take pertinent and stringent action from your capacities. Stand up for the urban poor and stand for their rights.
 > 
 > Find attached, photos from the evictions and demolitions, courtesy citizen journalists from Bangalore. I would appreciate it greatly if you would get back to me with details from your investigations at the earliest.
 > 

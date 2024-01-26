@@ -7,7 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 1397
+featured_image: ../../../../uploads/2012/03/sarah_fitzgerald_dunlopsport_com_au.jpeg
 categories: 
+    - Squash
     - Sports
 tags:
     - 'decathlon club'
@@ -21,9 +23,7 @@ tags:
     - 'stanford squash'
 post_format: []
 ---
-<figure aria-describedby="caption-attachment-1400" class="wp-caption alignleft" id="attachment_1400" style="width: 177px">
-
-[![](../../../../uploads/2012/03/sarah_fitzgerald_dunlopsport_com_au.jpeg "sarah_fitzgerald_dunlopsport_com_au")](http://www.ulaar.com/wp-content/uploads/2012/03/sarah_fitzgerald_dunlopsport_com_au.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1400">Not how she looked in 2002 but what a "killer" and effortless backhand she had!</figcaption></figure>
+![Sarah](../../../../uploads/2012/03/sarah_fitzgerald_dunlopsport_com_au.jpeg) Now how she looked in 2002 but what a killer she is on court!
 
 Gosh! It’s been at least 5 years since I last played squash. Not counting the 3 games I played at an off-site corporate event in 2009. I’m talking ‘regular’ playing (regular = at least 3 times a week). Sometime last year, I removed “squash” from my Twitter bio — there are only so many “hoping to get back to …” tags one can use.
 
@@ -46,4 +46,3 @@ For the uninitiated, a quick Sarah FG introduction. Winner of 5 World Open, 2 Br
 - She let Jon sweat a bit before she announced “Okay! you can just drop your socks for the second game!” 🙂 A collective sigh of relief from everyone. Jon lost the second game too but I think she let him win a few points.
 - One of Sarah’s secret sauce: she used to train with the top male Australian squash players!
 
-<div></div>

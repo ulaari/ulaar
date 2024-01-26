@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2479
+featured_image: ../../../../uploads/2013/02/manivannan_bescom_thehindu_com.jpeg
 categories: 
     - India
 tags:
@@ -21,9 +22,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2481" class="wp-caption alignleft" id="attachment_2481" style="width: 222px">
-
-[![Mr. P. Manivannan (BESCOM MD) - Pic courtesy thehindu.com](../../../../uploads/2013/02/manivannan_bescom_thehindu_com.jpeg)](http://www.ulaar.com/wp-content/uploads/2013/02/manivannan_bescom_thehindu_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2481">Mr. P. Manivannan (BESCOM MD) – Pic courtesy thehindu.com</figcaption></figure>
+![Mr. P. Manivannan (BESCOM MD) - Pic courtesy thehindu.com](../../../../uploads/2013/02/manivannan_bescom_thehindu_com.jpeg)
 
 While the UPA-II government has been working tirelessly to muzzle social media at every opportunity they get (and creating some along the way), some bureaucrats are using social media the way it’s supposed to be — listening to their constituents, providing valuable proactive updates, offering suggestions to sister organizations, etc. Hark! Did I say *some bureaucrats*, brashly connoting plural? At this point, I’m only aware of ONE such bureaucrat – Mr. Manivannan, Managing Director of BESCOM – Bangalore’s Electric Supply division. I’ve been tracking and appreciating Mr. Manivannan’s Facebook updates but his update posted yesterday (reproduced below) made me urgently write this post.
 

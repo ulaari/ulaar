@@ -8,7 +8,7 @@ description: ''
 type: post
 id: 2113
 categories: 
-    - Kurien
+    - Books
 tags:
     - amul
     - anand
@@ -26,9 +26,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2114" class="wp-caption alignleft" id="attachment_2114" style="width: 233px">
-
-[![](../../../../uploads/2012/09/amul_tears_of_india.jpeg "amul_tears_of_india")](http://www.ulaar.com/wp-content/uploads/2012/09/amul_tears_of_india.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2114">Amul’s Tribute (of course)</figcaption></figure>
+[![Amul](../../../../uploads/2012/09/amul_tears_of_india.jpeg) Amul's Tribute (of course)
 
 I spent the better part of my Sunday time skimming through tribute messages on Twitter, Facebook shares and reading what the mainstream media had to write about Dr. Verghese Kurien – the last of India’s nation builders (Hat tip to [@shilpaanand](https://twitter.com/shilpaanand) for that highly apt moniker.)
 

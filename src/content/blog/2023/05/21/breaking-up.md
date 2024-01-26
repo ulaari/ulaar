@@ -10,6 +10,7 @@ id: 4515
 featured_image: ../../../../uploads/2023/05/npr_broken_heart_img.jpg
 categories: 
     - Running
+    - Squash
 tags: 
     - running
     - marathon

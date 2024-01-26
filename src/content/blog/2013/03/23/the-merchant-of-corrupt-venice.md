@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2508
+featured_image: ../../../../uploads/2013/03/merchant_of_venice18_maddyndns_edublogs_org.jpeg
 categories: 
     - India
 tags:

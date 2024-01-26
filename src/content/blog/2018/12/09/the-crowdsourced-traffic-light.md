@@ -32,9 +32,11 @@ sidebar_position:
     - as_blog
 ---
 
-I’ve been wanting to write this post since 2009. Really. Have a look at [Year in Bangalore – the Unwritten Posts](http://www.ulaar.com/2009/09/06/a-year-in-bangalore-the-unwritten-blog-posts/).
+I’ve been wanting to write this post since 2009. Really. Exhibit A : [Year in Bangalore – the Unwritten Posts](https://www.ulaar.com/2009/09/06/a-year-in-bangalore-the-unwritten-blog-posts/).
 
-When we moved to Bangalore 10 years ago, good reason prevailed to not get immediately behind the wheel of a car. My last driving stint in Indian conditions was over a decade ago – in the sleepy town of Visakhapatnam. After getting accustomed to the traffic density, the [driving patterns](http://www.ulaar.com/2010/03/05/dont-be-alarmed-normal-driving-patterns-in-india/), the barely perceptible gaps between vehicles, and eventually getting sufficient practice negotiating the right turn (on an unmanned traffic signal), I eventually got a license and started driving.
+![intersection](../../../../uploads/2018/12/crazy_intersection_driveu_in.jpeg)
+
+When we moved to Bangalore 10 years ago, good reason prevailed to not get immediately behind the wheel of a car. My last driving stint in Indian conditions was over a decade ago – in the sleepy town of Visakhapatnam. After getting accustomed to the traffic density, the [driving patterns](https://www.ulaar.com/2010/03/05/dont-be-alarmed-normal-driving-patterns-in-india/), the barely perceptible gaps between vehicles, and eventually getting sufficient practice negotiating the right turn (on an unmanned traffic signal), I eventually got a license and started driving.
 
 Gary Smith, a dear friend from my Chicago days (who incidentally introduced me to the [wonderful sport of disc golf](http://www.ulaar.com/2011/08/22/that-one-perfect-drive/)), had this to say about his mid-1990’s trip to Beijing: *scores of speeding two-wheelers and cars hurtling towards an intersection from 4 directions and miraculously nobody gets hurt!* My rejoinder to Gary – *you ain’t seen anything yet, buddy! Come visit an Indian city!*
 

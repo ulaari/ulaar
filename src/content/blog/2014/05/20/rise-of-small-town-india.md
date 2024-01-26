@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2938
+featured_image: ../../../../uploads/2014/05/small_town_india_flickr_pic.jpg    
 categories: 
     - India
 tags:
@@ -24,7 +25,6 @@ seo_follow:
     - 'false'
 seo_noindex:
     - 'false'
-featued_image: ../../../../uploads/2014/05/small_town_india_flickr_pic.jpg    
 ---
 <figure aria-describedby="caption-attachment-2940" class="wp-caption alignleft" id="attachment_2940" style="width: 300px">
 

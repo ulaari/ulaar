@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2497
+featured_image: ../../../../uploads/2013/02/as_good_as_it_gets.jpeg
 categories: 
     - India
 tags:
@@ -21,9 +22,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2500" class="wp-caption alignleft" id="attachment_2500" style="width: 274px">
-
-[![Pic: courtesy icms.net](../../../../uploads/2013/02/as_good_as_it_gets.jpeg)](http://www.ulaar.com/wp-content/uploads/2013/02/as_good_as_it_gets.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2500">Pic: courtesy icms.net</figcaption></figure>
+![](../../../../uploads/2013/02/as_good_as_it_gets.jpeg)
 
 Three tweets from @albatrossinfo (RT’d by CentreRight India’s Prasanna Viswanathan) caught my attention this evening.
 
@@ -45,4 +44,4 @@ Three tweets from @albatrossinfo (RT’d by CentreRight India’s Prasanna Viswa
 
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
 
-It also reminded me of an old post — really a Facebook thread resurrected on my blog — [Enough with the “we need better leaders” nonsense!](http://www.ulaar.com/2010/08/23/enough-with-the-we-need-better-leaders-nonsense/)
+It also reminded me of an old post — really a Facebook thread resurrected on my blog — [Enough with the “we need better leaders” nonsense!](https://www.ulaar.com/2010/08/23/enough-with-the-we-need-better-leaders-nonsense/)

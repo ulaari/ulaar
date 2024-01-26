@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2523
+featured_image: ../../../../uploads/2013/02/manmohan-singh.jpg
 categories: 
     - '1984'
     - India
@@ -25,6 +26,8 @@ seo_noindex:
     - 'false'
 ---
 In Dec 2012, Firstpost’s Editor-in-chief R. Jagannathan (@thejaggi on Twitter) wrote an incisive piece titled [Maya, Modi and the art of the unapologetic apology](http://www.firstpost.com/india/maya-modi-and-the-art-of-the-unapologetic-apology-556278.html). It caught my attention this morning when I read an analysis about the British Premier David Cameron’s ‘apology’ for Jallianwala Bagh massacre. I quote the Manmohan Singh section below – the reprehensible parts are underlined by me.
+
+![mms](../../../../uploads/2013/02/manmohan-singh.jpg)
 
 > A variant of the second full apology is the one offered by Manmohan Singh on the anti-Sikh riots of 1984. Here the apology sounds real and sincere, but it is offered on behalf of someone else. It is also forced by events.
 > 

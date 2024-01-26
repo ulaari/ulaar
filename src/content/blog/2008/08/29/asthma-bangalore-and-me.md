@@ -10,6 +10,7 @@ id: 42
 featured_image: ../../../../uploads/2008/08/depression-asthma.jpg
 categories: 
     - R2I
+    - Squash
     - Life
 tags:
     - asthma

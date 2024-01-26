@@ -10,7 +10,6 @@ id: 1205
 featured_image: ../../../../uploads/2012/01/verghese-kurien.jpg
 categories: 
     - Books
-    - Kurien
 tags:
     - 'cow protection'
     - 'cow slaughter'

@@ -9,7 +9,6 @@ type: post
 id: 1164
 categories: 
     - Books
-    - Kurien
 tags:
     - ajarpura
     - anand

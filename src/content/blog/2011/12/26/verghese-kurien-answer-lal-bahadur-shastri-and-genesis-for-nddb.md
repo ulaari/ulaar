@@ -9,7 +9,6 @@ type: post
 id: 1178
 categories: 
     - Books
-    - Kurien
 tags:
     - amul
     - 'amul dairy'

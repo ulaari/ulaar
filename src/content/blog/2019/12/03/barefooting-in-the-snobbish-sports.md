@@ -9,6 +9,7 @@ type: post
 id: 3288
 featured_image: ../../../../uploads/2019/12/mj-618_348_barefoot-goes-beyond-running-links-etc-tk.jpg
 categories: 
+    - Squash
     - Barefootia
     - Sports
 tags:
@@ -57,3 +58,4 @@ Apparently there’s one Bob Neinast caught bragging about playing [too much ten
 The MensJournal weighed in on barefoot movement going [beyond running](http://www.mensjournal.com/health-fitness/exercise/barefoot-goes-beyond-running-20130605)..
 
 > We have more than 200,000 nerve endings on the bottom of each foot, and these drive proprioception, our sense of position in space. Proprioception is what cops measure when they issue a sobriety test – it helps us to stay upright and avoid twisting an ankle when we run. The athletes with the greatest need for proprioception often wear the most minimal footwear, or sometimes none at all. These are martial artists, boxers, fencers, dancers, and gymnasts. While researchers have yet to compare the injury rates among these minimally shod athletes and basketball or tennis players, there is evidence that links decreased feedback with increased impact on the body. Researchers at University of Southern California, for example, found that in gymnastics on very soft floors – the gymnast’s equivalent of a heavily padded shoe – they landed harder.
+

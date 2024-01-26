@@ -1,5 +1,5 @@
 ---
-title: 'Memories of an American Life – 4 years in Chicago'
+title: 'Memories of an American Life (4 years in Chicago)'
 date: '2008-11-11T08:00:36+05:30'
 status: publish
 permalink: /2008/11/11/memories-of-an-american-life-4-years-in-chicago

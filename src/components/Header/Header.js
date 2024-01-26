@@ -114,6 +114,9 @@ class Header extends React.Component {
                 <Link to="/categories/habits">HABITS</Link>
               </li>
               <li className="nav-item">
+                <Link to="/categories/india">INDIA</Link>
+              </li>
+              <li className="nav-item">
                 <Link to="/categories/life">LIFE</Link>
               </li>
               <li className="nav-item">
@@ -121,6 +124,12 @@ class Header extends React.Component {
               </li>
               <li className="nav-item">
                 <Link to="/categories/running">RUNNING</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/squash">SQUASH</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/usa">USA</Link>
               </li>
             </ul>
           </nav>
@@ -140,6 +149,9 @@ class Header extends React.Component {
                 <Link to="/categories/habits">HABITS</Link>
               </li>
               <li className="nav-item">
+                <Link to="/categories/india">INDIA</Link>
+              </li>
+              <li className="nav-item">
                 <Link to="/categories/life">LIFE</Link>
               </li>
               <li className="nav-item">
@@ -147,6 +159,12 @@ class Header extends React.Component {
               </li>
               <li className="nav-item">
                 <Link to="/categories/running">RUNNING</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/squash">SQUASH</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/usa">USA</Link>
               </li>
             </ul>
           </nav>
