@@ -9,6 +9,7 @@ type: post
 id: 2704
 featured_image: ../../../../uploads/2013/06/kkm_profile.jpeg
 categories: 
+    - Amma
     - Life
 tags:
     - bhilai
@@ -29,6 +30,8 @@ seo_noindex:
     - 'false'
 ---
 *\[<span style="text-decoration: underline;">Editor’s Note</span>: KKM worked at four different Steel Authority of India Limited (SAIL) steel plants over his 34-year career, starting from Bhilai in 1958 to Vizag in 1992. Below are a selection of his diary entries that provide a tell-tale glimpse on how he worked and how he lived.\]*
+
+![Nanna](../../../../uploads/2013/06/kkm_profile.jpeg) Kuruganti Krishna Murty (KKM)
 
 *Rourkela, Orissa (Sometime in 1961)*
 

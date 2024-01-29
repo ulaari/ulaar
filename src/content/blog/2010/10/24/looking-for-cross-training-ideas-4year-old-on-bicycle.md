@@ -9,8 +9,8 @@ type: post
 id: 929
 featured_image: ../../../../uploads/2010/10/learning-to-ride.jpg
 categories: 
-    - Kiddism
     - Running
+    - Funny
 tags:
     - 'cross training'
     - cycle

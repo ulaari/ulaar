@@ -7,9 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 688
+featured_image: ../../../../uploads/2010/07/securedownload-15.jpeg 
 categories: 
-    - Photos
-    - R2I
+    - India
 tags:
     - 'brave officers'
     - 'india pakistan'

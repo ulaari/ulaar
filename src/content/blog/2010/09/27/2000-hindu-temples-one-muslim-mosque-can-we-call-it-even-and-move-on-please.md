@@ -10,7 +10,6 @@ id: 907
 featured_image: ../../../../uploads/2010/09/babri_masjid_file_photo_wikipedia.jpeg
 categories: 
     - India
-    - Kiddism
 tags:
     - 'babri masjid'
     - dispute

@@ -7,9 +7,10 @@ author: vishy
 description: ''
 type: post
 id: 847
+featured_image: ../../../../uploads/2010/08/img_0374.jpg  
 categories: 
     - India
-    - Photos
+    - Funny
 tags:
     - bangalore
     - 'darndest things'

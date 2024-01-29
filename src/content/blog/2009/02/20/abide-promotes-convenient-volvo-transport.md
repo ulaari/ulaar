@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 355
+featured_image: ../../../../uploads/2009/02/bangalore_big10_sumanbhat_wp_com.jpeg
 categories: 
-    - 'Car &amp; Driver'
+    - India
     - R2I
 tags:
     - ABIDe
@@ -30,11 +31,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1613" class="wp-caption alignleft" id="attachment_1613" style="width: 298px">
+![](../../../../uploads/2009/02/bangalore_big10_sumanbhat_wp_com.jpeg) Pic: courtesy sumanbhat.wordpress.com
 
-[![](../../../../uploads/2009/02/bangalore_big10_sumanbhat_wp_com.jpeg "bangalore_big10_sumanbhat_wp_com")](http://www.ulaar.com/wp-content/uploads/2009/02/bangalore_big10_sumanbhat_wp_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1613">Pic: courtesy sumanbhat.wordpress.com</figcaption></figure>
-
-I first met [Sanjay Anandaram ](http://www.jumpstartup.net/ourpeople.html)(serial entrepreneur turned venture capitalist) during the [Dec 2008 Jethro Tull concert](http://ulaar.wordpress.com/2008/12/28/jethro-tull-at-palace-grounds-bangalore/). We connected on the intellectual level and had some interesting conversations as we drove in Tridib’s car to Palace Grounds. Sanjay lives in Raheja and, while we haven’t met again in person, occasionally sends useful social &amp; civic related emails. A few days ago, he sent this message about [ABIDe](http://www.abidebengaluru.in/) (Agenda for Bengaluru Infrastructure &amp; Development) exhorting Bengaluru residents to start using the newly commissioned and expanded Volvo public bus service using a corridor approach. Read on.
+I first met [Sanjay Anandaram ](http://www.jumpstartup.net/ourpeople.html)(serial entrepreneur turned venture capitalist) during the [Dec 2008 Jethro Tull concert](https://www.ulaar.com/2008/12/28/jethro-tull-at-palace-grounds-bangalore/). We connected on the intellectual level and had some interesting conversations as we drove in Tridib’s car to Palace Grounds. Sanjay lives in Raheja and, while we haven’t met again in person, occasionally sends useful social &amp; civic related emails. A few days ago, he sent this message about [ABIDe](http://www.abidebengaluru.in/) (Agenda for Bengaluru Infrastructure &amp; Development) exhorting Bengaluru residents to start using the newly commissioned and expanded Volvo public bus service using a corridor approach. Read on.
 
 *—- begin email —-*
 

@@ -9,7 +9,8 @@ type: post
 id: 1264
 featured_image: ../../../../uploads/2012/01/1985_mercedes-benz_560_sl.jpg
 categories: 
-    - Kiddism
+    - Funny
+    - Life
 tags:
     - kiddism
     - kids

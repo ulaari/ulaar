@@ -9,8 +9,7 @@ type: post
 id: 707
 featured_image: ../../../../uploads/2010/07/come_to_india_tantra.jpg
 categories: 
-    - Photos
-    - R2I
+    - India
 tags:
     - 'billion people'
     - 'come to india'

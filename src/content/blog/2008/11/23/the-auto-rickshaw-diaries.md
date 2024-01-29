@@ -9,7 +9,6 @@ type: post
 id: 284
 featured_image: ../../../../uploads/2008/11/autorick-nag.jpg
 categories: 
-    - 'Car &amp; Driver'
     - India
     - R2I
 tags:
@@ -43,9 +42,7 @@ I expect this to be a living breathing post so I will be adding more anecdotes a
 
 My friend Soumya (who returned to India from America 8 years ago) sent me the following picture of Vicky Baba’s auto in Bombay. Some sixth sense seems to have alerted him to the fact that someone was taking a picture of his beloved *dhanno* (name of Basanti’s horse in the timeless Bollywood classic [Sholay)](http://en.wikipedia.org/wiki/Sholay). Soumya writes an interesting and witty travel blog at <http://soumya.org>.
 
-<figure aria-describedby="caption-attachment-286" class="wp-caption aligncenter" id="attachment_286" style="width: 300px">
-
-[![Baap Ka Baap (that's Father of Father in Hindi)](http://ulaar.files.wordpress.com/2008/11/vickybaba1.jpg?w=300 "vickybaba1")](http://ulaar.files.wordpress.com/2008/11/vickybaba1.jpg)<figcaption class="wp-caption-text" id="caption-attachment-286">Vicky Baba – Baap Ka Baap</figcaption></figure>
+![Baap Ka Baap](../../../../uploads/2008/11/vickybaba1.jpg) Vicky Baba – Baap Ka Baap
 
 Apparently Soumya and I are not alone in our fascination with the Indian auto rickshaw. [Priyanka Khot](http://delhiphotodairy.blogspot.com/) from Delhi waxes eloquent on *“the first love of her adult life – my hero – the Auto-Rickshaw* in her blog post [I Miss Auto-Rickshaws.](http://delhiphotodairy.blogspot.com/2008/10/i-miss-auto-rickshaws.html)
 

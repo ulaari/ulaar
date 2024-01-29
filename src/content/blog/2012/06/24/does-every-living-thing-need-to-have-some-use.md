@@ -7,8 +7,10 @@ author: vishy
 description: ''
 type: post
 id: 1763
+featured_image: ../../../../uploads/2012/06/banyantree_india_largest_kolkata.jpg  
 categories: 
-    - Kiddism
+    - Funny
+    - Life
 tags:
     - 'banyan tree'
 post_format: []
@@ -19,9 +21,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1764" class="wp-caption alignleft" id="attachment_1764" style="width: 300px">
-
-[![](../../../../uploads/2012/06/banyantree_india_largest_kolkata.jpg "banyantree_india_largest_kolkata")](http://www.ulaar.com/wp-content/uploads/2012/06/banyantree_india_largest_kolkata.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1764">India’s largest banyan tree, Kolkata</figcaption></figure>
+![](../../../../uploads/2012/06/banyantree_india_largest_kolkata.jpg) <p style="text-align: center;"> India’s largest banyan tree, Kolkata </p>
 
 During tonight’s good night ritual with the kids, the following conversation with my 9-year old.
 

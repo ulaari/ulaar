@@ -9,10 +9,10 @@ type: post
 id: 337
 featured_image: ../../../../uploads/2008/12/tull-bangalore.jpg
 categories: 
-    - Photos
+    - Music
     - R2I
 tags:
-    - 'anoushk concert'
+    - 'anoushka concert'
     - 'anoushka shankar'
     - aqualung
     - bouree
@@ -30,9 +30,9 @@ tags:
     - tull
 post_format: []
 ---
-I did the following short li’l summary of my Tull concert experience in the[ 100 Days in Bangalore ](http://ulaar.wordpress.com/2008/12/14/100-days-in-bangalore-part1/)post. What I’m adding to this post is the concert discography (which I had tweeted) and a few Qik videos which you should check out only if you are a Tull die-hard (there are no audiophile or videophile gems here).
+I did the following short li’l summary of my Tull concert experience in the[ 100 Days in Bangalore ](https://www.ulaar.com/2008/12/14/100-days-in-bangalore-part1/)post. What I’m adding to this post is the concert discography (which I had tweeted) and a few Qik videos which you should check out only if you are a Tull die-hard (there are no audiophile or videophile gems here).
 
-*Thanks to my dear biwi, I was alerted about Tull’s Dec 2 concert in Bangalore at the Palace Grounds. I couldn’t believe it! If I needed a musical ‘welcome home’, this was it. I’ve been to 4 prior Tull concerts (three in Chicago, Illinois and one in San Jose, California) and I don’t miss an opportunity when Tull comes a touring. My dear biwi (bless her heart again!) was going to hold the home fort on Dec 2 (a weekday evening) while I indulged myself. Found several colleagues who were Tull enthusiasts so eventually we had a gang of five. A dear friend from SF Bay Area had to cancel his business trip due to illness so spot#5 got filled in the eleventh hour by another dear friend (from my Xaviers Bokaro days). Considering that this concert took place 5 days after the Mumbai attacks, we headed to the concert with some mixed feelings but ended up having a rollicking time. Ian Anderson was at his entertaining best. It was not a classic Tull concert – Part 1 was Anoushka Shankar and her troupe, Part 2 was classic Tull, and Part 3 was a fusion with Tull and Anoushka. The encore closer was a very unique and incredible live variation of Locomotive Breath with sitar and bansoori blending in exquisitely.*
+*Thanks to my dear biwi, I was alerted about Tull’s Dec 2 concert in Bangalore at the Palace Grounds. I couldn’t believe it! If I needed a musical ‘welcome home’, this was it. I’ve been to 4 prior Tull concerts (three in Chicago, and one in San Jose) and I don’t miss an opportunity when Tull comes a touring. My dear biwi (bless her heart again!) was going to hold the home fort on Dec 2 (a weekday evening) while I indulged myself. Found several colleagues who were Tull enthusiasts so eventually we had a gang of five. A dear friend from SF Bay Area had to cancel his business trip due to illness so spot#5 got filled in the eleventh hour by another dear friend (from my Xaviers Bokaro days). Considering that this concert took place 5 days after the Mumbai attacks, we headed to the concert with some mixed feelings but ended up having a rollicking time. Ian Anderson was at his entertaining best. It was not a classic Tull concert – Part 1 was Anoushka Shankar and her troupe, Part 2 was classic Tull, and Part 3 was a fusion with Tull and Anoushka. The encore closer was a very unique and incredible live variation of Locomotive Breath with sitar and bansoori blending in exquisitely.*
 
 Discography (Part 2 onwards):
 

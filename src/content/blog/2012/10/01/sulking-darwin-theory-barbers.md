@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 2228
+featured_image: ../../../../uploads/2012/10/cat_expr_catfacts101_com.jpeg  
 categories: 
-    - Kiddism
+    - Funny
 tags:
     - barber
     - darwin
@@ -23,11 +24,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2229" class="wp-caption alignleft" id="attachment_2229" style="width: 281px">
+![](../../../../uploads/2012/10/cat_expr_catfacts101_com.jpeg)(Google couldn’t help me with the right image for a sulky child. Best feline alternative courtesy catfacts101.com)
 
-[![](../../../../uploads/2012/10/cat_expr_catfacts101_com.jpeg "cat_expr_catfacts101_com")](http://www.ulaar.com/wp-content/uploads/2012/10/cat_expr_catfacts101_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2229">Google couldn’t help me with the right image for a sulky child. Best (feline) alternative courtesy catfacts101.com</figcaption></figure>
-
-It’s been ages since I posted the last kiddism. Lest our parental radar loses its sensitivity, here are the latest kiddisms that have survived the ravages of [this](http://en.wikipedia.org/wiki/Memory_Almost_Full). In reverse chronological order…
+It’s been ages since I posted the last kiddism. Lest our parental radar loses its sensitivity, here are the latest kiddisms that have survived the ravages of [time](http://en.wikipedia.org/wiki/Memory_Almost_Full). In reverse chronological order…
 
 > Kiddism #158 (S): “Even when I’m sulking, I’m actually happy. There’s so much to DO!”
 
@@ -52,3 +51,4 @@ Also from a year ago. The long answer hasn’t been provided yet.. not because I
 > Kiddism #153 (A): “I don’t agree with ANY of you!
 
 The previous two quotes were uttered at different times in the past year and, in a nutshell, ***define*** him.
+

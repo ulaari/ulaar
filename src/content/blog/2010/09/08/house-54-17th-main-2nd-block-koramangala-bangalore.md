@@ -7,9 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 875
+featured_image: ../../../../uploads/2010/09/img_0524.jpg
 categories: 
     - India
-    - Photos
 tags: []
 post_format: []
 jabber_published:

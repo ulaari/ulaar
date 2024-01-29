@@ -9,7 +9,7 @@ type: post
 id: 1885
 featured_image: ../../../../uploads/2012/07/reva_Hood_team-bhp_com.jpeg
 categories: 
-    - Kiddism
+    - Funny
     - Life
 tags:
     - 'keith jarrett'

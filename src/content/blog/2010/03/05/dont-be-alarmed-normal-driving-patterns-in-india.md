@@ -7,8 +7,8 @@ author: vishy
 description: ''
 type: post
 id: 542
+featured_image: ../../../../uploads/2010/03/driving-in-india_1.jpg
 categories: 
-    - 'Car &amp; Driver'
     - India
     - R2I
 tags:
@@ -19,9 +19,7 @@ tags:
     - 'traffic light'
 post_format: []
 ---
-<figure aria-describedby="caption-attachment-1345" class="wp-caption alignleft" id="attachment_1345" style="width: 300px">
-
-[![](../../../../uploads/2010/03/driving-in-india_1.jpg "driving-in-india_1")](http://www.ulaar.com/wp-content/uploads/2010/03/driving-in-india_1.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1345">Pic: courtesy helloji.wordpress.com</figcaption></figure>
+![](../../../../uploads/2010/03/driving-in-india_1.jpg) Pic: courtesy helloji.wordpress.com
 
 This is your first month back in India after half a lifetime in America or Europe or… you are an expat who’s landed in India on a 2-year assignment. You have done the wise thing by hiring a driver but you still have to watch the movements of the heterogeneous traffic – with morbid fascination! Don’t be alarmed…
 
@@ -88,3 +86,4 @@ No – the passenger is not related to the auto driver. He’s less religious th
 If the stray dog sleeping in your car’s shade doesn’t budge even after your driver starts the car,
 
 The dog knows precisely when the gear shift happens and will only move then.
+

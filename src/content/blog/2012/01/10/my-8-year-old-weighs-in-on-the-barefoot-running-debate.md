@@ -10,7 +10,6 @@ id: 1232
 featured_image: ../../../../uploads/2012/01/barefoot.png
 categories: 
     - Barefootia
-    - Kiddism
     - Running
 tags:
     - '8 year old'
@@ -31,7 +30,7 @@ Last Saturday, our 3rd grader had his annual school sports day. Since he had qua
 
 As the line of 3rd graders walked towards the waiting parents, one of the kids turned to my younger son with “Your brother came first!” A few minutes later, a beaming S walks in to the frame and jubilantly announced that he had won the 75 meter sprint and came second in the 30 meter sprint. In one fell swoop, S had won more sports medals at school than the last few generations of Kurugantis combined.
 
-For last year’s sports meet, S had trained for his runs with “spike shoes”. In a strange anti-climax, he ran his races in his regular canvas shoes because he “didn’t get time to change.” This year I advised him to just run in his canvas shoes since he had not trained with the spike shoes.
+For last year’s sports meet, S had trained for his runs with “spike shoes”. In a strange anti-climax, he ran his races in his regular canvas shoes because he *“didn’t get time to change*.” This year I advised him to just run in his canvas shoes since he had not trained with the spike shoes.
 
 S couldn’t wait to tell us about his adventures in barefoot running. The story came out in breathless bursts on the drive home as he (and his brother) chomped down on 5-Star victory bars.
 

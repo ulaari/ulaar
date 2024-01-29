@@ -8,8 +8,7 @@ description: ''
 type: post
 id: 1036
 categories: 
-    - Kiddism
-    - 'Schools &amp; EDU'
+    - Life
 tags:
     - children
     - 'jiddu krishnamurti'
@@ -38,3 +37,4 @@ From the chapter “A fundamental question” in Jiddu Krishnamurti’s The Awak
 *Questioner: Right Sir, you have answered it, sorry.*
 
 *JK: That means I have to help them to be intelligent, I have to help them to be sensitive, because sensitivity, highest sensitivity is the highest intelligence. <span style="text-decoration:underline;">Therefore if there are no schools around you, you have to help them at home to be sensitive, to look at the trees, to look at the flowers, to listen to the birds, to plant a tree if you have a little yard — or if you have no yard to have a tree in a pot and to look at it, to cherish it, to water it, not to tear its leaves. And as the schools do not want them to be sensitive, educated, intelligent (schools only exist to pass exams and get a job) you have to help them at home, to help them to discuss with you, why you go to a temple, why you do this ceremony, why you read the Bible, the Gita — you follow? — so that they are questioning you all the time, so that neither you nor anyone else becomes an authority. But I am afraid you won’t do any of this because the climate, the food, the tradition is too much for you, so you slip back and lead a monstrously ugly life. But I think, if you have the energy, the drive, the passion, that is the only way to live.</span>*
+

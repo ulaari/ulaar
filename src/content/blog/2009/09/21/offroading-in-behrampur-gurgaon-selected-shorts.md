@@ -7,11 +7,14 @@ author: vishy
 description: ''
 type: post
 id: 422
+featured_image: ../../../../uploads/2009/09/offroading_pic_wikipedia_org.jpeg
 categories: 
-    - Photos
+    - India
     - Sports
 tags:
     - jeeps
+    - gurgaon
+    - behrampur
     - 'offroading behrampur gurgaon'
     - peacocks
     - 'pranshu gupta'
@@ -23,9 +26,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1565" class="wp-caption alignleft" id="attachment_1565" style="width: 240px">
-
-[![](../../../../uploads/2009/09/offroading_pic_wikipedia_org.jpeg "offroading_pic_wikipedia_org")](http://www.ulaar.com/wp-content/uploads/2009/09/offroading_pic_wikipedia_org.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1565">Pic: courtesy wikipedia.org</figcaption></figure>
+![](../../../../uploads/2009/09/offroading_pic_wikipedia_org.jpeg)Pic: courtesy wikipedia.org
 
 A selection of videos from my offroading adventure with Pranshu Gupta (and his bad boy friends) in Behrampur – a hamlet on the outskirts of Gurgaon. Disclaimer: no animals were harmed in the making of these videos (Jun 2008).
 

@@ -7,8 +7,10 @@ author: vishy
 description: ''
 type: post
 id: 1048
+featured_image: ../../../../uploads/2011/02/Hitec-City-Hyderabad.jpg
 categories: 
     - R2I
+    - Life
 tags:
     - 'class of 2010'
     - hyderabad
@@ -27,7 +29,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-*\[<span style="text-decoration: underline;">Editor’s Note</span>: After an extended silence in the [R2IProfiles](http://ulaar.wordpress.com/category/r2iprofiles/) category, I bring you an interview with a recently returned (to India) fellow blogger, Vasantha Gullapalli. Most of the answers below are partial or full extracts from her [blog](http://vgulla.blogspot.com/) (which you should frequent, especially if you are contemplating a move to Hyderabad). She and her husband are “Class of 2010” returnees which makes them two years our juniors 🙂 As it coincidentally turns out, Vasantha and her husband are long-time Sapient’ers and friends with Soumya Banerjee (of [Bengali Mumbaikar takes the long way home ](http://ulaar.wordpress.com/2010/07/29/bengali-mumbaikar-takes-the-long-way-home/)fame).\]*
+*\[<span style="text-decoration: underline;">Editor’s Note</span>: After an extended silence in the [R2IProfiles](https://www.ulaar.com/categories/r2i/) category, I bring you an interview with a recently returned (to India) fellow blogger, Vasantha Gullapalli. Most of the answers below are partial or full extracts from her [blog](http://vgulla.blogspot.com/) (which you should frequent, especially if you are contemplating a move to Hyderabad). She and her husband are “Class of 2010” returnees which makes them two years our juniors 🙂 As it coincidentally turns out, Vasantha and her husband are long-time Sapient’ers and friends with Soumya Banerjee (of [Bengali Mumbaikar takes the long way home ](https://www.ulaar.com/2010/07/29/bengali-mumbaikar-takes-the-long-way-home/)fame).\]*
+
+![](../../../../uploads/2011/02/Hitec-City-Hyderabad.jpg)
 
 **Q: How long &amp; where did you live in US? When did you return to India?**  
  A: Lived in the US for 16 years mostly in the New Jersey/ New York area. Returned to India on Sep 25, 2010.
@@ -44,10 +48,6 @@ A: *\[Reproduced entirely from her beautiful post –* [*Home is where the heart
 - I want to witness the special moments in ‘my peoples’ lives right then
 - I want to be in a place where I will be missed when I don’t show up one day
 - I want to be in a place where the difference I make will make a difference to me
-
-<figure aria-describedby="caption-attachment-1751" class="wp-caption alignleft" id="attachment_1751" style="width: 300px">
-
-[![](../../../../uploads/2011/02/Hitec-City-Hyderabad.jpg "Hitec-City-Hyderabad")](http://www.ulaar.com/wp-content/uploads/2011/02/Hitec-City-Hyderabad.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1751">Most visible symbol of Hyderabad’s Hi-Tec City (Pic: courtesy hyderabadplanet.com)</figcaption></figure>
 
 **Q: Which Indian city did you move to and why?**  
 A: Hyderabad (given the proximity to career opportunities and family).

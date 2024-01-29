@@ -10,6 +10,8 @@ id: 4512
 featured_image: ../../../../uploads/2023/12/bali_ubud_terracota_ibek_gede.jpg
 categories: 
     - Food
+    - Habits
+    - Life
 tags: 
     - ekadasi
     - fasting

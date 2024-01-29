@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 653
+featured_image: ../../../../uploads/2010/06/img_0383.jpg  
 categories: 
-    - 'Car &amp; Driver'
+    - India
     - R2I
 tags:
     - 'automatic transmission'
@@ -28,9 +29,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-655" class="wp-caption alignleft" id="attachment_655" style="width: 300px">
-
-[![](../../../../uploads/2010/06/img_0383.jpg "reva_blue_post_car_puja")](http://ulaar.files.wordpress.com/2010/06/img_0383.jpg)<figcaption class="wp-caption-text" id="caption-attachment-655">2-day old Blue Reva fresh after car-puja – in kissing distance of older sibling (SX4)</figcaption></figure>
+![](../../../../uploads/2010/06/img_0383.jpg)2-day old Blue Reva fresh after car-puja – in kissing distance of older sibling (SX4)
 
 Title translation (for non-Hindi readers): *Hum do humare do* is an old 1970’s era government initiated family planning slogan to promote family of four (*hum do* = we two, *humare do* = our two). *Bina exhaust ke* = without exhaust.
 
@@ -50,6 +49,6 @@ The REVA buying decision was somewhat analogous to our returning to India decisi
 
 <span style="text-decoration: underline;">Reason #1</span>: (Zero emissions) This is a dead-obvious reason but needed to be stated. Until public transportation becomes a viable option in Bangalore (will it ever?), we needed a 2nd car and it just couldn’t be a traditional petrol/diesel one.
 
-<span style="text-decoration: underline;">Reason #2</span>: (Automatic transmission car) Ever since our adventures with [The Janus Man](http://ulaar.wordpress.com/2009/07/17/the-janus-man/) came to an end, we haven’t employed a full-time driver. I’ve become scarily comfortable driving the SX4 in various types of Bangalore traffic conditions but the kids’ dropoffs and pickups from school, ferrying them to after-school activities has required a combination of part-time drivers from [EZiDrive](http://ezidrive.in/) and auto-rickshaw rides. P has been on the threshold of *to-hell-with-these-drivers-but-I-cant-drive-a-stick-shift-car*. Getting the REVA is expected to be a watershed moment for her. First the learner’s license, then driving in Sunday traffic, then driving in Saturday traffic, then driving solo on weekends, and…voila! one day she goes solo on weekdays as well. We are not sure if she or the kids are more excited with this prospect.
+<span style="text-decoration: underline;">Reason #2</span>: (Automatic transmission car) Ever since our adventures with [The Janus Man](https://www.ulaar.com/2009/07/17/the-janus-man/) came to an end, we haven’t employed a full-time driver. I’ve become scarily comfortable driving the SX4 in various types of Bangalore traffic conditions but the kids’ dropoffs and pickups from school, ferrying them to after-school activities has required a combination of part-time drivers from [EZiDrive](http://ezidrive.in/) and auto-rickshaw rides. P has been on the threshold of *to-hell-with-these-drivers-but-I-cant-drive-a-stick-shift-car*. Getting the REVA is expected to be a watershed moment for her. First the learner’s license, then driving in Sunday traffic, then driving in Saturday traffic, then driving solo on weekends, and…voila! one day she goes solo on weekdays as well. We are not sure if she or the kids are more excited with this prospect.
 
 <span style="text-decoration: underline;">Reason#3</span>: (Minimalism) What’s the smallest car that can get us around and keep the kids protected from the air pollution? Turns out the only answer in 2010 is REVAi. Small is indeed beautiful.

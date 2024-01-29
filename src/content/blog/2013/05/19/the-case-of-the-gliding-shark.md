@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 2674
+featured_image: ../../../../uploads/2013/05/20130520_082829_rot.jpg 
 categories: 
-    - Kiddism
+    - Fiction
 tags:
     - fin
     - fin-cuff

@@ -24,13 +24,10 @@
 ./src/content/blog/2011/05/20/boiling-the-social-enterprise-ocean.md
 ./src/content/blog/2020/08/02/eschewing-meat-a-few-short-stories/omnivoresdilemma_full.md
 ./src/content/blog/2020/08/02/momo-gormandizers-anonymous/momos_cookpad.md
-./src/content/blog/2016/09/06/the-guides-trouble-with-the-censor-board.md
 ./src/content/blog/2008/11/04/congratulations-president-elect-barack-hussein-obama.md
 ./src/content/blog/2014/02/22/hungama-in-manama-eka-lavya-mumbai-marathon-report.md
 ./src/content/blog/2014/02/20/a-jan-koum-anecdote.md
-./src/content/blog/2014/01/12/gandhi-nehru-to-anna-kejriwal-an-interesting-cross-era-analogy.md
 ./src/content/blog/2014/01/24/boring-race-report-jan-2014.md
-./src/content/blog/2014/05/20/rise-of-small-town-india.md
 ./src/content/blog/2010/12/03/memo-from-society-for-prevention-of-cruelty-to-distressed-families.md
 ./src/content/blog/2010/12/30/my-experiments-with-calligraphy.md
 ./src/content/blog/2010/02/04/the-garage-gang.md
@@ -71,10 +68,6 @@
 ./src/content/blog/2010/05/01/i-am-bihar-an-ode.md
 ./src/content/blog/2010/11/02/address-the-crap-gap-first-not-the-digital-divide.md
 ./src/content/blog/about.md
-./src/content/blog/2013/02/12/on-a-nation-with-drastically-low-expectations.md
-./src/content/blog/2013/02/01/bangalore-bescoms-md-sets-the-bar.md
-./src/content/blog/2013/02/21/manmohan-singhs-shambolic-apology-for-the-1984-anti-sikh-riots.md
-./src/content/blog/2013/02/05/ejipura-evictions-and-karnataka-state-human-rights-commission.md
 ./src/content/blog/2013/02/26/the-zoo-enslaved-panthers-ritual-dance.md
 ./src/content/blog/2013/01/12/swami-vivekananda-spiritual-conquest.md
 ./src/content/blog/2013/01/12/swami-vivekananda-spiritual-conquest-part-2.md
@@ -84,7 +77,6 @@
 ./src/content/blog/2013/01/13/on-heroes-martyrs-and-beheadings.md
 ./src/content/blog/2013/01/30/amazon-webservices-dedicated-server-conundrum.md
 ./src/content/blog/2013/03/06/what-does-it-take-to-float-like-a-butterfly.md
-./src/content/blog/2013/03/23/the-merchant-of-corrupt-venice.md
 ./src/content/blog/2013/09/08/the-original-model-of-western-education.md
 ./src/content/blog/2013/05/19/the-case-of-the-gliding-shark.md
 ./src/content/blog/2009/02/22/the-urban-indian-steed-photo-blog.md

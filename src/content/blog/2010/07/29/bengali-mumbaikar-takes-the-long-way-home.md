@@ -7,8 +7,10 @@ author: vishy
 description: ''
 type: post
 id: 766
+featured_image: ../../../../uploads/2010/07/ekmarathimanoos_blogspot_com.jpg  
 categories: 
     - R2I
+    - Life
 tags:
     - attano
     - bombay
@@ -35,9 +37,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1760" class="wp-caption alignleft" id="attachment_1760" style="width: 300px">
-
-[![](../../../../uploads/2010/07/ekmarathimanoos_blogspot_com.jpg "ekmarathimanoos_blogspot_com")](http://www.ulaar.com/wp-content/uploads/2010/07/ekmarathimanoos_blogspot_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1760">Pic: courtesy ekmarathimanoos.blogspot.com</figcaption></figure>
+![](../../../../uploads/2010/07/ekmarathimanoos_blogspot_com.jpg) 
 
 Soumya Banerjee (my friend from University of Houston days) returned from Boston to India 10 years ago – a period which we can term the “first wave” of reverse brain drain. Very few of my Indian-American friends returned that early so he stands out. It’s thus fitting that he’s the first profile being published in the [new R2IProfile category](http://ulaar.wordpress.com/2010/07/12/r2i-profiles-launching-a-new-category/). Here we go with the email interview…
 

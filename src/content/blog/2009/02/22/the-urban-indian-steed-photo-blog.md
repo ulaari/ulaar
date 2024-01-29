@@ -7,10 +7,10 @@ author: vishy
 description: ''
 type: post
 id: 361
+featured_image: ../../../../uploads/2009/02/04012009220.jpg
 categories: 
     - 'Car &amp; Driver'
     - India
-    - Photos
     - R2I
 tags:
     - '2 wheeler'
@@ -35,8 +35,23 @@ Between the LML Vespa scooter I used to ride in Jamshedpur (1992-94) and the Suz
 
 I present to you a few urban steeds in the din and roar of the Indian roads living up to their multi-purpose image.
 
-![Two kids on the pillion seat](http://ulaar.files.wordpress.com/2009/02/04012009220.jpg?w=300 "Two kids on the pillion seat")![Mirrors or ironing boards?](http://ulaar.files.wordpress.com/2009/02/020220095371.jpg?w=300 "Mirrors or ironing boards?")![The local DHL courier?](http://ulaar.files.wordpress.com/2009/02/02022009540.jpg?w=300 "The local DHL courier?")![The law enforcer](http://ulaar.files.wordpress.com/2009/02/04012009221.jpg?w=300 "The law enforcer")![The IT guy with the laptop](http://ulaar.files.wordpress.com/2009/02/07012009223.jpg?w=300 "The IT guy with the laptop")![Mopeds (especially the TVS with its mighty 50cc engine) are ideal for cargo](http://ulaar.files.wordpress.com/2009/02/10012009239.jpg?w=300 "Mopeds (especially the TVS with its mighty 50cc engine) are ideal for cargo")
+![Two kids on the pillion seat](../../../../uploads/2009/02/04012009220.jpg)
 
-![This moped driver is going places!](http://ulaar.files.wordpress.com/2009/02/13012009266.jpg?w=300 "This moped driver is going places!")![Ladies returning from Star Bazaar shopping spree](http://ulaar.files.wordpress.com/2009/02/13012009262.jpg?w=300 "Ladies returning from Star Bazaar shopping spree")  
-![There was something interesting here..can't recall what](http://ulaar.files.wordpress.com/2009/02/24012009292.jpg?w=300 "There was something interesting here..can't recall what")![A few frames later, this guy got on the 'kucha' pavement to get ahead](http://ulaar.files.wordpress.com/2009/02/24012009293.jpg?w=300 "A few frames later, this guy got on the 'kucha' pavement to get ahead")  
-Insert here…
+![Mirrors or ironing boards?](../../../../uploads/2009/2009/02/020220095371.jpg)
+
+![The local DHL courier?](../../../../uploads/2009/02/02022009540.jpg)
+
+![The law enforcer](../../../../uploads/2009/02/04012009221.jpg)
+
+![The IT guy with the laptop](../../../../uploads/2009/02/07012009223.jpg)
+
+![Mopeds (especially the TVS with its mighty 50cc engine) are ideal for cargo](../../../../uploads/2009/02/10012009239.jpg)
+
+![This moped driver is going places!](../../../../uploads/2009/02/13012009266.jpg)
+
+![Ladies returning from Star Bazaar shopping spree](../../../../uploads/2009/02/13012009262.jpg)
+
+![There was something interesting here..can't recall what](../../../../uploads/2009/02/24012009292.jpg)
+
+![A few frames later, this guy got on the 'kucha' pavement to get ahead](../../../../uploads/2009/02/24012009293.jpg)
+

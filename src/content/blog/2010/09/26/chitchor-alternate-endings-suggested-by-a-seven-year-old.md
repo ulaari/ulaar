@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 911
+featured_image: ../../../../uploads/2010/09/chitchor-film.jpg
 categories: 
-    - Kiddism
+    - Funny
 tags:
     - 'alternate endings'
     - 'amol palekar'
@@ -40,3 +41,4 @@ Mom: “So what was your favorite part of the movie?”
 2G: “The part where the jeep was overtaking the car.”
 
 Mom and dad looked at each other and said in unison “Never mind! Good night sweetheart!”
+

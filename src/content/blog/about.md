@@ -12,7 +12,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-For a dip stick on what this blog is about, you can start with [A slice of uLaaR](https://www.ulaar.com/2020/09/24/a-slice-of-ulaar/) - a post that strings together 11 posts that I'm *not ashamed* of, across 4 major categories. 
+For a dip stick on what this blog is about.. and a gradual progression in the past 16 years, you can start with [A slice of uLaaR](https://www.ulaar.com/2020/09/24/a-slice-of-ulaar/) - a post that strings together posts that I'm *not ashamed*.
 
 The evolution of the uLaaR blog went something like this:
 

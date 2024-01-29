@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 404
+featured_image: ../../../../uploads/2009/07/colin_forbes_janus_man_goodreads_com.jpg
 categories: 
-    - 'Car &amp; Driver'
+    - India
     - R2I
 tags:
     - 'colin forbes'
@@ -29,11 +30,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1493" class="wp-caption alignleft" id="attachment_1493" style="width: 177px">
+![](../../../../uploads/2009/07/colin_forbes_janus_man_goodreads_com.jpg) Pic: courtesy goodreads.com
 
-[![](../../../../uploads/2009/07/colin_forbes_janus_man_goodreads_com.jpg "colin_forbes_janus_man_goodreads_com")](http://www.ulaar.com/wp-content/uploads/2009/07/colin_forbes_janus_man_goodreads_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1493">Pic: courtesy goodreads.com</figcaption></figure>
-
-This is a sequel to [The Proud Man](http://ulaar.wordpress.com/2009/04/17/the-proud-man/) and is based on a series of events that occurred in March 2009.
+This is a sequel to [The Proud Man](https://www.ulaar.com/2009/04/17/the-proud-man/) and is based on a series of events that occurred in March 2009.
 
 *Act 1, Scene 1: Raheja apartment living room (Time: 2:00pm)*
 
@@ -76,4 +75,3 @@ I get a call from Sunil and he informs me that due to the pall of suspicion on h
 
 Title of post was inspired by a Colin Forbes novel by the same name.
 
-(There’s more to this story… so I guess it was a three-part series after all).

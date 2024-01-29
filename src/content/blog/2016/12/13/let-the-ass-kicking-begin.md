@@ -9,6 +9,7 @@ type: post
 id: 3158
 featured_image: ../../../../uploads/2016/04/squash_player_quote.jpg
 categories: 
+    - Squash
     - Life
     - Sports
 tags:

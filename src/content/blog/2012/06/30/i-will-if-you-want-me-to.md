@@ -9,7 +9,8 @@ type: post
 id: 1791
 featured_image: ../../../../uploads/2012/06/profimedia-0007917928.jpeg
 categories: 
-    - Kiddism
+    - Funny
+    - Food
 tags:
     - food
     - game
@@ -27,7 +28,7 @@ Most people in the world, when asked if they’d like another serving of food, w
 
 Some people would defer the decision until such a point where they are sure. Let’s chalk their answer to “Maybe”.
 
-The past few months our younger son has been throwing a [googly](http://en.wikipedia.org/wiki/Googly) at us with this reply: *I will (eat more) if you want me to*.
+The past few months our younger son has been throwing a [googly](http://en.wikipedia.org/wiki/Googly) at us with this reply: I will eat more *if you want me to*.
 
 Depending on the parents’ mood, the exasperated (or amused) response would be *“Well, do you WANT more or NOT?”*
 
