@@ -7,10 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 581
-featured_image:../../../../uploads/2010/04/img_0140.jpg
+featured_image: ../../../../uploads/2010/04/img_0140.jpg
 categories: 
-    - R2I
-    - Random
+    - India
 tags:
     - bangalore
     - 'guy noir'
@@ -19,8 +18,6 @@ tags:
 post_format: []
 email_notification:
     - '1271498229'
-tagazine-media:
-    - 'a:6:{s:7:"primary";s:53:"http://ulaar.files.wordpress.com/2010/04/img_0145.jpg";s:6:"images";a:3:{s:53:"http://ulaar.files.wordpress.com/2010/04/img_0140.jpg";a:6:{s:8:"file_url";s:53:"http://ulaar.files.wordpress.com/2010/04/img_0140.jpg";s:5:"width";s:4:"1200";s:6:"height";s:4:"1600";s:4:"type";s:5:"image";s:4:"area";s:7:"1920000";s:9:"file_path";s:0:"";}s:53:"http://ulaar.files.wordpress.com/2010/04/img_0142.jpg";a:6:{s:8:"file_url";s:53:"http://ulaar.files.wordpress.com/2010/04/img_0142.jpg";s:5:"width";s:4:"1200";s:6:"height";s:4:"1600";s:4:"type";s:5:"image";s:4:"area";s:7:"1920000";s:9:"file_path";s:0:"";}s:53:"http://ulaar.files.wordpress.com/2010/04/img_0145.jpg";a:6:{s:8:"file_url";s:53:"http://ulaar.files.wordpress.com/2010/04/img_0145.jpg";s:5:"width";s:4:"1200";s:6:"height";s:4:"1600";s:4:"type";s:5:"image";s:4:"area";s:7:"1920000";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"3";s:6:"author";s:7:"2859667";s:7:"blog_id";s:7:"2786457";}'
 ---
 ![](../../../../uploads/2010/04/img_0140.jpg) What are those serpentine patterns? 
 
