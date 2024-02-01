@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 25
+featured_image: ../../../../uploads/2009/06/gurgaon_night_flickriver_com.jpeg
 categories: 
     - R2I
 tags:
@@ -36,9 +37,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1826" class="wp-caption alignleft" id="attachment_1826" style="width: 300px">
-
-[![](../../../../uploads/2009/06/gurgaon_night_flickriver_com.jpeg "gurgaon_night_flickriver_com")](http://www.ulaar.com/wp-content/uploads/2009/06/gurgaon_night_flickriver_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1826">Gurgaon at night (Pic: courtesy flickriver.com)</figcaption></figure>
+![](../../../../uploads/2009/06/gurgaon_night_flickriver_com.jpeg) Gurgaon at night (Pic: courtesy flickriver.com)
 
 *I wrote this post in my head in June 2008 shortly after my 2-week reconnoisance trip to India before the big move. Thanks to the growing list of candidate topics and my ever shrinking leisure time, it didn’t see the light of day. During my flight back from my business trip to Bay Area in June 2009 (exactly a year later), I finally managed to finish the post. It took a further 3 weeks to make it from “paper notes” to WordPress 🙂 Now just pretend that you are reading this in Jun 2008.*
 
@@ -50,4 +49,4 @@ By now you are probably wondering about the title of this post – growling huh?
 
 If you thought I had an exciting weekend in Gurgaon, you haven’t heard the half of it. My friend Pranshu is fond of motorcyles, open jeeps and adventures involving both. He used to own a 600cc motorbike and a Jeep Wrangler during his Silicon Valley days and his move to Delhi (Vasant Vihar) hasn’t cramped his style one bit. He bought himself a bright red Jeep, did a whole bunch of customizations and teamed up with a group of fellow crazy offroading enthusiasts. Pranshu’s gang would spend the better part of every Saturday in a hamlet called Behrampur (on the outskirts of Gurgaon) and attack various hilly slopes and muddy swamps. I don’t need a second invitation for any adventurous gigs so I accompanied Pranshu on Saturday armed with my trusty Canon Powershot TX1. I was blown away by the day’s proceedings – rumbling and groaning of powerful 4×4 Jeeps, splashing through muddy hollows (much to the angst of a few slumbering buffaloes), towing jeeps up steep slopes. After the day’s fierce festivities drew to a close, it was a real bonus to see dozens of beautiful peacocks strutting &amp; squawking in the wild. They say ‘a picture is worth a thousand words’ so enough said – here’s the link to selected videos from that adventure (thanks again Pranshu!):
 
-[Offroading in Behrampur/Gurgaon](http://ulaar.wordpress.com/2009/09/21/offroading-in-behrampur-gurgaon-selected-shorts/)
+[Offroading in Behrampur/Gurgaon](https://www.ulaar.com/2009/09/21/offroading-in-behrampur-gurgaon-selected-shorts/)

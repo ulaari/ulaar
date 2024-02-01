@@ -39,7 +39,7 @@ seo_noindex:
 ---
 ![](../../../../uploads/2010/07/ekmarathimanoos_blogspot_com.jpg) 
 
-Soumya Banerjee (my friend from University of Houston days) returned from Boston to India 10 years ago – a period which we can term the “first wave” of reverse brain drain. Very few of my Indian-American friends returned that early so he stands out. It’s thus fitting that he’s the first profile being published in the [new R2IProfile category](http://ulaar.wordpress.com/2010/07/12/r2i-profiles-launching-a-new-category/). Here we go with the email interview…
+Soumya Banerjee (my friend from University of Houston days) returned from Boston to India 10 years ago – a period which we can term the “first wave” of reverse brain drain. Very few of my Indian-American friends returned that early so he stands out. It’s thus fitting that he’s the first profile being published in the [new R2IProfile category](https://www.ulaar.com/2010/07/12/r2i-profiles-launching-a-new-category/). Here we go with the email interview…
 
 **Q: How long &amp; where did you live in US? When did you return to India?**  
 A: 10 years. Lived in Houston (Grad school + 1.5 years) and Boston

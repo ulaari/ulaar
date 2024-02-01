@@ -9,6 +9,7 @@ type: post
 id: 1164
 categories: 
     - Books
+    - India
 tags:
     - ajarpura
     - anand
@@ -65,4 +66,4 @@ There’s no better way to relate this story than to transcribe the relevant pag
 > 
 > According to the plan, as the Prime Minister’s convoy drove from Ahmedabad to Anand, the Prime Minister’s car alone was diverted to Ajarpura village while the rest of the convoy proceeded to Anand.
 
-*… the story continues* in Part 2 – [Why Lal Bahadur Shastri wanted to spend a night in a Kaira district village](http://ulaar.wordpress.com/2011/12/19/why-lal-bahadur-shastri-wanted-to-spend-a-night-in-a-kaira-district-village/).
+*… the story continues* in Part 2 – [Why Lal Bahadur Shastri wanted to spend a night in a Kaira district village](https://www.ulaar.com/2011/12/19/why-lal-bahadur-shastri-wanted-to-spend-a-night-in-a-kaira-district-village/).

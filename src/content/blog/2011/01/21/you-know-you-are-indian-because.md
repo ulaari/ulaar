@@ -32,7 +32,7 @@ email_notification:
 10. When your parents meet strangers and talk for a few hours, you discover you are talking to a distant cousin.
 11. All your tupperware is stained with food color.
 12. You have drinking glasses made of steel.
-13. You had a handwriting problem at school \[Really? I mean REALLY? You mean to say [My experiments with calligraphy](http://ulaar.wordpress.com/2010/12/30/my-experiments-with-calligraphy/) are not that unique?\]
+13. You had a handwriting problem at school \[Really? I mean REALLY? You mean to say [My experiments with calligraphy](https://www.ulaar.com/2010/12/30/my-experiments-with-calligraphy/) are not that unique?\]
 14. You don’t use measuring cups when cooking.
 15. You are meant to ‘grow into’ your shirts and shoes.
 16. Hour long conversations at the front door.

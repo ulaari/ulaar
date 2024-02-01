@@ -30,7 +30,7 @@ seo_noindex:
 ---
 (I started this post in Oct 2009 a few days after the [tragic boat accident in Thekkady, Kerala](http://newsonweb.mywebdunia.com/2009/10/01/thekkady_boat_tragedy_42_killed_12_injured.html) ~ 5 month gestation period)
 
-*“The quality of life in India is great but the value for human life is not”*, uttered my cousin Sridhar. We had stopped for a few days at his Germantown, Maryland residence on our [Farewell USA Road Trip](http://ulaar.wordpress.com/2008/07/03/the-road-to-bangalore-goes-through-scenic-american-landscape/) in mid-2008. I kinda-sorta knew what he was talking about but it really hit home in the past few months – as I reflected upon three tragic events with a common refrain.
+*“The quality of life in India is great but the value for human life is not”*, uttered my cousin Sridhar. We had stopped for a few days at his Germantown, Maryland residence on our [Farewell USA Road Trip](https://www.ulaar.com/2008/07/03/the-road-to-bangalore-goes-through-scenic-american-landscape/) in mid-2008. I kinda-sorta knew what he was talking about but it really hit home in the past few months – as I reflected upon three tragic events with a common refrain.
 
 <span style="text-decoration: underline;">*Incident#1*</span>
 
@@ -52,4 +52,4 @@ Dear Readers,
 
 What do you think? Is it possible for us Indians to snap out of our collective amnesia and change our attitude before the next major calamity or the minor tragedy? I firmly believe that changing our *chalta hai* attitude is a necessary prerequisite before we start demanding more from the elected and appointed officials at all levels of government.
 
-Next post in this series: [Would you go on a boat ride if there were no life jackets?](http://www.ulaar.com/2010/03/10/would-you-go-on-a-boat-ride-or-cruise-if-there-were-no-life-jackets/)
+Next post in this series: [Would you go on a boat ride if there were no life jackets?](https://www.ulaar.com/2010/03/10/would-you-go-on-a-boat-ride-or-cruise-if-there-were-no-life-jackets/)

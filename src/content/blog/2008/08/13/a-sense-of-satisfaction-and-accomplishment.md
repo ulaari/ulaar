@@ -51,13 +51,11 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1620" class="wp-caption alignleft" id="attachment_1620" style="width: 274px">
-
-[![](../../../../uploads/2008/08/sweat_nicolenewtonportfolio_com.jpeg "sweat_nicolenewtonportfolio_com")](http://www.ulaar.com/wp-content/uploads/2008/08/sweat_nicolenewtonportfolio_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1620">Pic: courtesy nicolenewtonportfolio.com</figcaption></figure>
+![](../../../../uploads/2008/08/sweat_nicolenewtonportfolio_com.jpeg)
 
 “You stink”, yelled my 7-year old nephew when I tried to give him a goodbye hug. “But I showered barely 2 hours ago”, I protested. Of course it was a different matter that I was packing stuff into suitcases, creating piles of junk, and loading suitcases into the rental car in preparation for the drive to Manhattan. So maybe (just maybe) I had broken into a sweat. Sorry Rohan! Will be more careful next time around 🙂
 
-On the drive to Manhattan I reflected on the toil and sweat (and maybe a little bit of tears) that went into our 25-day moving/vacation saga. Apparently we had to work really hard to pull off this [ulaari](http://ulaar.wordpress.com/2008/07/14/if-this-is-not-ulaari-then-i-dont-know-what-is/) 🙂 So what am I talking about? This is a tale of five garages (in Sunnyvale, Cupertino, San Jose, Pleasanton, and Basking Ridge), Salvation Army, Goodwill, Hertz Car Rental, and a Manhattan condo.
+On the drive to Manhattan I reflected on the toil and sweat (and maybe a little bit of tears) that went into our 25-day moving/vacation saga. Apparently we had to work really hard to pull off this [ulaari](https://www.ulaar.com/2008/07/14/if-this-is-not-ulaari-then-i-dont-know-what-is/) 🙂 So what am I talking about? This is a tale of five garages (in Sunnyvale, Cupertino, San Jose, Pleasanton, and Basking Ridge), Salvation Army, Goodwill, Hertz Car Rental, and a Manhattan condo.
 
 As you already know, we had decided to sell (or donate) practically every household article with the exception of the following:
 

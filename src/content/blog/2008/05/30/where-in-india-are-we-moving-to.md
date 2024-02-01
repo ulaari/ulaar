@@ -118,6 +118,6 @@ National Capital Region (NCR) encompasses the entire Delhi metropolitan area as 
   - Humongous number of friends from [Bokaro](http://en.wikipedia.org/wiki/Bokaro_Steel_City) days, [BIT MESRA](http://www.bitmesra.ac.in/) days, [Jamshedpur](http://en.wikipedia.org/wiki/Jamshedpur) days, and [Timpany School, Vizag](http://en.wikipedia.org/wiki/Timpany_School) days
 - (MINUSes) 
   - Traffic has become horrendous.
-  - Double P whammy (Pollution + Pollen). Tough to ignore pollen since it triggers asthma. More on this topic at: [Asthma, Bangalore &amp; me](http://ulaar.wordpress.com/2008/08/29/asthma-bangalore-and-me/)
+  - Double P whammy (Pollution + Pollen). Tough to ignore pollen since it triggers asthma. More on this topic at: [Asthma, Bangalore &amp; me](https://www.ulaar.com/2008/08/29/asthma-bangalore-and-me/)
   - Housing costs approaching American and Bombay levels?
   - Need to learn Kannada?

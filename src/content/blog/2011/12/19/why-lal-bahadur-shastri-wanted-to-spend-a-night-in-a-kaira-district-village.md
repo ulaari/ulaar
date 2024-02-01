@@ -9,6 +9,7 @@ type: post
 id: 1171
 categories: 
     - Books
+    - India
 tags:
     - amul
     - 'amul dairy'
@@ -27,7 +28,7 @@ jabber_published:
 email_notification:
     - '1324294271'
 ---
-This story (from Verghese Kurien’s [I too had a dream](http://www.flipkart.com/books/8174364072?_l=CJHVEqJO3veuHytbACc9dw--&_r=EoK_y%20HNQZ%20%20SoWhfaoXyQ--&ref=0e3a134a-4afc-4313-b508-01461b9e883e&pid=0v23fkmtvc)) continues from [When an Indian Prime Minister spent a night in a village..unannounced..in 1964](http://ulaar.wordpress.com/2011/09/29/when-an-indian-prime-minister-spent-a-night-in-a-village-unannounced-in-1964/).
+This story (from Verghese Kurien’s [I too had a dream](http://www.flipkart.com/books/8174364072?_l=CJHVEqJO3veuHytbACc9dw--&_r=EoK_y%20HNQZ%20%20SoWhfaoXyQ--&ref=0e3a134a-4afc-4313-b508-01461b9e883e&pid=0v23fkmtvc)) continues from [When an Indian Prime Minister spent a night in a village..unannounced..in 1964](https://www.ulaar.com/2011/09/29/when-an-indian-prime-minister-spent-a-night-in-a-village-unannounced-in-1964/).
 
 > He visited the huts of Harijans in the village. He sat with them and talked to them. He visited the Muslim families in the village. Till two o’clock in the morning, he was busy talking to the farmers and their families about their lives and their problems. The Home Secretary had to remind him about his next day’s programme, which was to begin at seven a.m. He was forced to retire for the night.
 > 

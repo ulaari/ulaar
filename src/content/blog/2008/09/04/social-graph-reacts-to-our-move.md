@@ -54,7 +54,7 @@ tags:
     - 'why return to india'
 post_format: []
 ---
-Back in July, in typical Kuruganti style, I sent an email to the vast majority of my social graph about our planned move to India. It was a rather painstaking process since there’s no easy way to pack all the relevant email addresses into a Bcc field. Using Facebook as the mother lode, I systematically sent batches of email to my social graph over a period of one week. I would have loved to have met all of you Bay Area (and Portland, New York, and Chicago) folks but [last minute logistics](http://ulaar.wordpress.com/2008/08/13/a-sense-of-satisfaction-and-accomplishment/) prevented that. I hope to meet many of you in Bangalore and the rest of you in Bay Area (when I make a business trip). I was overwhelmed by the heart-warming responses – some of which validated my rationale for starting this blog (see [Why the urge to blog now](http://ulaar.wordpress.com/2008/06/02/why-the-urge-to-blog-now/)). This post is part-tribute and part “Reply All” to my social graph. Hope you’ll enjoy it. I’ve organized the responses into a few different categories and included responses where appropriate.
+Back in July, in typical Kuruganti style, I sent an email to the vast majority of my social graph about our planned move to India. It was a rather painstaking process since there’s no easy way to pack all the relevant email addresses into a Bcc field. Using Facebook as the mother lode, I systematically sent batches of email to my social graph over a period of one week. I would have loved to have met all of you Bay Area (and Portland, New York, and Chicago) folks but [last minute logistics](https://www.ulaar.com/2008/08/13/a-sense-of-satisfaction-and-accomplishment/) prevented that. I hope to meet many of you in Bangalore and the rest of you in Bay Area (when I make a business trip). I was overwhelmed by the heart-warming responses – some of which validated my rationale for starting this blog (see [Why the urge to blog now](https://www.ulaar.com/2008/06/02/why-the-urge-to-blog-now/)). This post is part-tribute and part “Reply All” to my social graph. Hope you’ll enjoy it. I’ve organized the responses into a few different categories and included responses where appropriate.
 
 **A sense of surprise, shock, admiration, and… lots of questions**
 
@@ -63,10 +63,10 @@ Back in July, in typical Kuruganti style, I sent an email to the vast majority o
 - *What a brave decision, I am sure your parents/in-laws are very happy. Tell me more, how did you finally make this call?*
 - *Wow! I didn’t know you are moving. Are kids the primary driver?*
 - *Wow!! This is a big and sudden news to me! What happened? Why this move all of a sudden?* 
-  - Answered in [Why we are moving back to India](http://ulaar.wordpress.com/2008/06/02/why-are-we-moving-back-to-india/)
+  - Answered in [Why we are moving back to India](https://www.ulaar.com/2008/06/02/why-are-we-moving-back-to-india/)
 - *I am very surprised to hear this. You mentioned you would be staying at Bangalore. So did you land on a position there?*
 - *Best of luck! Have you taken an offer in India?*
-  - Back in June, I was [searching for a forcing function](http://ulaar.wordpress.com/2008/06/12/searching-for-a-forcing-function/). Sometime in the middle of our [Farewell USA road trip](http://ulaar.wordpress.com/2008/07/03/the-road-to-bangalore-goes-through-scenic-american-landscape/) in July, I decided to join Adobe.
+  - Back in June, I was [searching for a forcing function](https://www.ulaar.com/2008/06/12/searching-for-a-forcing-function/). Sometime in the middle of our [Farewell USA road trip](https://www.ulaar.com/2008/07/03/the-road-to-bangalore-goes-through-scenic-american-landscape/) in July, I decided to join Adobe.
 - *Wow! What a change…. are you going back for “long term” (i.e. more than 2 year)?*
 - *Vishy! Holy cow! Wow-what a big change! Will this be a permanent move?? In any case, please take care and looking forward to reading your blogs of the farewell trip.*
   - We are thinking of “long-term” as a sequence of “short-terms” 🙂
@@ -104,7 +104,7 @@ Back in July, in typical Kuruganti style, I sent an email to the vast majority o
 
 **Active/Passive “should-wes”**
 
-- *For a definition of “should-wes”, check out* [*The two types of Indian immigrants*](http://ulaar.wordpress.com/2008/06/04/the-two-types-of-indian-immigrants/)*.*
+- *For a definition of “should-wes”, check out* [*The two types of Indian immigrants*](https://www.ulaar.com/2008/06/04/the-two-types-of-indian-immigrants/)*.*
 - *This is great. What are the plans. I am excited for you. One day I will join you.*
 - *Really cool decision. I might probably see you there soon. We are waiting for my husband to finish his MBA before exploring the option of moving to Bangalore. That is my husband’s hometown. Wish you all the best!!!*
 - *I read your blog. I like it – I appreciate that you are honest about your feelings. I wish you and your family all the best and success. Going back to India after staying here for so long really requires courage. I salute the determination. We tried it twice (that time we didn’t have any kids) but couldn’t do it. That’s not to say that we wouldn’t do it later again. Anyway have a nice trip and keep in touch.*

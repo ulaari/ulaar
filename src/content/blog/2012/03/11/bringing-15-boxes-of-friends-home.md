@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1107
+featured_image: ../../../../uploads/2012/03/book_boxes_pic_from_tetonlibraryproj_wp.jpeg
 categories: 
     - R2I
 tags:
@@ -20,13 +21,11 @@ tags:
     - 'san francisco'
 post_format: []
 ---
-<figure aria-describedby="caption-attachment-1378" class="wp-caption alignleft" id="attachment_1378" style="width: 194px">
+![](../../../../uploads/2012/03/book_boxes_pic_from_tetonlibraryproj_wp.jpeg)Pic: courtesy tetonlibraryproject.wordpress.com
 
-[![](../../../../uploads/2012/03/book_boxes_pic_from_tetonlibraryproj_wp.jpeg "book_boxes_pic_from_tetonlibraryproj_wp")](http://www.ulaar.com/wp-content/uploads/2012/03/book_boxes_pic_from_tetonlibraryproj_wp.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1378">Pic: courtesy tetonlibraryproject.wordpress.com</figcaption></figure>
+It’s not what you think. I’m referring to 15 boxes of our book collection that we stashed away in my cousin’s attic in San Jose four years ago. When we returned to India after 16 years in US ([this post](https://www.ulaar.com/2008/06/02/why-are-we-moving-back-to-india/) gets into the “But why?” question) many of our friends in US and India thought we were nuts. When they heard we’d be accompanied only with six suitcases, a Power Mac G4 and a MacBook, they shook their heads.
 
-It’s not what you think. I’m referring to 15 boxes of our book collection that we stashed away in my cousin’s attic in San Jose four years ago. When we returned to India after 16 years in US ([this post](http://ulaar.wordpress.com/2008/06/02/why-are-we-moving-back-to-india/) gets into the “But why?” question) many of our friends in US and India thought we were nuts. When they heard we’d be accompanied only with six suitcases, a Power Mac G4 and a MacBook, they shook their heads.
-
-We left behind a formidable *wake*.. a *wake of garages* with assortments of things stuffed into boxes and spillover suitcases ([this post](http://ulaar.wordpress.com/2008/08/13/a-sense-of-satisfaction-and-accomplishment/) talks about it). A procession of kind friends and cousins transported our remaining suitcases to Bangalore between 2008 and 2009. All that remained were 15 boxes of books.
+We left behind a formidable *wake*.. a *wake of garages* with assortments of things stuffed into boxes and spillover suitcases ([this post](https://www.ulaar.com/2008/08/13/a-sense-of-satisfaction-and-accomplishment/) talks about it). A procession of kind friends and cousins transported our remaining suitcases to Bangalore between 2008 and 2009. All that remained were 15 boxes of books.
 
 In the first few years after our move, every time I heard of a friend or acquaintance moving from Silicon Valley, the following conversation snippet would repeat (in Click… Whirr fashion) in the Kuruganti household:
 

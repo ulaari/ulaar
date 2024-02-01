@@ -22,7 +22,7 @@ tags:
     - 'value of life'
 post_format: []
 ---
-I ended the [The Value of Life in India](http://ulaar.wordpress.com/2010/03/01/the-value-of-life-in-india/) post with the question: “Is it possible for us Indians to snap out of our collective amnesia and change our attitude before the next major calamity or the minor tragedy?”
+I ended the [The Value of Life in India](https://www.ulaar.com/2010/03/01/the-value-of-life-in-india/) post with the question: “Is it possible for us Indians to snap out of our collective amnesia and change our attitude before the next major calamity or the minor tragedy?”
 
 My wise biwi thought it wasn’t fair to leave the post hanging like that. Our ensuing conversation (transcribed below) inspired the sequel and yes – I have a good reason to title it the way I did:
 

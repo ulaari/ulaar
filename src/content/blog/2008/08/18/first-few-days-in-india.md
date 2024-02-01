@@ -50,9 +50,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1617" class="wp-caption alignleft" id="attachment_1617" style="width: 300px">
-
-[![](../../../../uploads/2008/08/independence_day_celebrations_new_delhi.jpeg "independence_day_celebrations_new_delhi")](http://www.ulaar.com/wp-content/uploads/2008/08/independence_day_celebrations_new_delhi.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1617">Missed the Independence Day celebrations at the capital -- by 10 hours</figcaption></figure>
+![](../../../../uploads/2008/08/independence_day_celebrations_new_delhi.jpeg) Missed the Independence Day celebrations at the capital -- by 10 hours
 
 **Aug 15**
 
@@ -66,7 +64,7 @@ Went hunting for soymilk in the morning. Thanks to the ubiquity of [Silk](http:/
 
 **<span style="font-weight: normal;">The Jet Airways flight to Bangalore was in the morning. Man Friday was again instrumental in making our airport experience very very smooth. The good vibes must have rubbed off on the [Jet Airways](http://www.jetairways.com/) because they waived the 12 lbs excess baggage fee. The special treatment from Jet personnel didn’t end there. We were the last people that disembarked from the plane in Bangalore and what do I see when I reach the baggage claim? A pleasant and attractive lady from Jet Airways greets me by name and asks me to confirm whether the 6 suitcases and 2 boxes stashed on 3 carts were ours. Cool! Then an entourage of 3 Jet baggage attendants escort us all to the way to our transport. Double cool!</span>**
 
-Flash update: In the midst of our Farewell USA tour (Cedar Falls to be precise), I had accepted an offer to join [Adobe Bangalore](http://www.adobe.com/aboutadobe/careeropp/locations.html). It’s a very exciting role and I’ll elaborate in a separate post – sequel to [Searching for a forcing function](http://ulaar.wordpress.com/2008/06/12/searching-for-a-forcing-function/).
+Flash update: In the midst of our Farewell USA tour (Cedar Falls to be precise), I had accepted an offer to join [Adobe Bangalore](http://www.adobe.com/aboutadobe/careeropp/locations.html). It’s a very exciting role and I’ll elaborate in a separate post – sequel to [Searching for a forcing function](https://www.ulaar.com/2008/06/12/searching-for-a-forcing-function/).
 
 The nice people from Adobe had sent a Toyota Innova (the Indian minivan) with a luggage rack. I needn’t have worried about the luggage not fitting. The drive from the new [Bangalore International Airport](http://www.bengaluruairport.com/portal/page/portal/BIAL_PageGroup/BIAL_HOME) to the Adobe guest house on Bannerghatta Road took one hour. Our driver pointed out all the neighbourhoods along the way – our education and settling down in Bangalore had begun.
 

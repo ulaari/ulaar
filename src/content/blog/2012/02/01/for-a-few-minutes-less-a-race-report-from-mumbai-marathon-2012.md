@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1254
+featured_image:../../../../uploads/2012/02/scmm2012_pic51.jpeg
 categories: 
     - Running
 tags:
@@ -31,7 +32,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-[![](../../../../uploads/2012/02/scmm2012_pic51.jpeg "scmm2012_pic5")](http://www.ulaar.com/wp-content/uploads/2012/02/scmm2012_pic51.jpeg)Writing a post-marathon race report is a bit like \[insert-metaphor\]. Write it too soon and it runs the risk of coming out shallow and half-baked, wait too long and it might never see the light of day. A fortnight after completing Standard Chartered Mumbai Marathon (SCMM), I’m right at the dangerous cusp. I often describe SCMM to my non-running friends as the *Vaishno Devi* for marathon aficionados – ‘nuf said!
+![](../../../../uploads/2012/02/scmm2012_pic51.jpeg)
+
+Writing a post-marathon race report is a bit like \[insert-metaphor\]. Write it too soon and it runs the risk of coming out shallow and half-baked, wait too long and it might never see the light of day. A fortnight after completing Standard Chartered Mumbai Marathon (SCMM), I’m right at the dangerous cusp. I often describe SCMM to my non-running friends as the *Vaishno Devi* for marathon aficionados – ‘nuf said!
 
 I didn’t have a perfect race. If I did, a single tweet would have sufficed. As I recently observed in this blog post, one learns more from an imperfect race than a perfect one – hence this blog post. 🙂 I had a good and exciting race. What I didn’t bank on was that the excitement would start well before race start.
 
@@ -59,4 +62,5 @@ I had known about the [benefits of interval training](http://sportsmedicine.abou
 
 In the final week of taper, as I broodingly looked at the “plan” vs. “actual” spreadsheet and saw the numerous deviations and reflected on the fact that my current PB was 4 hrs 26 min, I decided that a goal finish of 4 hrs 10 min (average pace of 5:56) was more realistic.
 
-*The rest of the race report continues here…. [For a few minutes less: running the Mumbai Marathon 2012](http://ulaar.wordpress.com/2012/02/07/for-a-few-minutes-less-running-the-mumbai-marathon-2012/)*
+*The rest of the race report continues here…. [For a few minutes less: running the Mumbai Marathon 2012](https://www.ulaar.com/2012/02/07/for-a-few-minutes-less-running-the-mumbai-marathon-2012/)*
+

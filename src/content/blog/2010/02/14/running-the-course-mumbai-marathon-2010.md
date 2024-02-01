@@ -33,11 +33,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1708" class="wp-caption alignleft" id="attachment_1708" style="width: 275px">
+![](../../../../uploads/2010/02/mumbai_marathon_2010_sealink.jpeg)Half-marathoners covering the Worli sealink (Pic: courtesy sulekha.com)
 
-[![](../../../../uploads/2010/02/mumbai_marathon_2010_sealink.jpeg "mumbai_marathon_2010_sealink")](http://www.ulaar.com/wp-content/uploads/2010/02/mumbai_marathon_2010_sealink.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1708">Half-marathoners covering the Worli sealink (Pic: courtesy sulekha.com)</figcaption></figure>
-
-If you’ve not read Part 1 of this 2-part series ([My Road to Mumbai Marathon 2010](http://ulaar.wordpress.com/2010/01/28/my-road-to-mumbai-marathon-2010/)), the short version is this – “a case study in how to train well for a marathon for 4-5 months and then nearly blow it all in the final week before race day”. Anyways, this is part 2 – how I fared on race day, what kind of tricks I played on my body, how my body got its revenge back, and the banter I carried on with a fellow Bangalore runner for more than half the distance.
+If you’ve not read Part 1 of this 2-part series ([My Road to Mumbai Marathon 2010](https://www.ulaar.com/2010/01/28/my-road-to-mumbai-marathon-2010/)), the short version is this – “a case study in how to train well for a marathon for 4-5 months and then nearly blow it all in the final week before race day”. Anyways, this is part 2 – how I fared on race day, what kind of tricks I played on my body, how my body got its revenge back, and the banter I carried on with a fellow Bangalore runner for more than half the distance.
 
 An hour prior to all my long training runs, a Clif Bar ([Crunchy Peanut flavor](http://www.amazon.com/Nutrition-Crunchy-Peanut-Butter-package/dp/B0000CEO7J)) was my energy bar of choice. Since I started my morning a good 2 hours prior to start time, I consumed an extra bar.
 
@@ -82,8 +80,9 @@ The 40k marker came up and I heard a familiar voice behind me cheerfully yelling
 
 There is always the possibility that I didn’t run or complete the marathon and the above writeup was simply a figment of my imagination. To dispel that possibility, here’s a screen-grab of the official result (well, technically even this could be faked in Photoshop I suppose – so you’ll have to take my word for it):
 
-[![My timing at Mumbai Marathon 2010](http://ulaar.files.wordpress.com/2010/02/scmm_2010_timing_result.png?w=300 "Mumbai Marathon 2010 Timing Result")](http://ulaar.files.wordpress.com/2010/02/scmm_2010_timing_result.png)
+![My timing at Mumbai Marathon 2010](../../../../uploads/2010/02/scmm_2010_timing_result.png)
 
 For my readers who skipped my highly verbose description above in the hope of seeing something pithy at the end, the table below conveys my race day story albeit in crisp clinical terms (I had set my Garmin for 5k auto-laps):
 
-[![Mumbai Marathon 2010 Lap Distances](http://ulaar.files.wordpress.com/2010/02/scmm_2010_lap_distances.png "Mumbai Marathon 2010 Lap Distances")](http://ulaar.files.wordpress.com/2010/02/scmm_2010_lap_distances.png)
+![Mumbai Marathon 2010 Lap Distances](../../../../uploads/2010/02/scmm_2010_lap_distances.png)
+

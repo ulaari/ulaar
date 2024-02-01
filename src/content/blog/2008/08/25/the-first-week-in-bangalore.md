@@ -53,9 +53,9 @@ A funny thing happened on Monday morning (August 17). The folks at Adobe were ex
 
 The first four days whizzed away pretty quickly with a rhythm. I’d go to work for 2-3 hours in the morning, return home to lunch with the family. The kids would take their afternoon nap and my afternoon session was 3-4 hours. I’d return around 4:30pm and the family would clamber aboard an [auto](http://en.wikipedia.org/wiki/Auto_rickshaw) to zip over to that evening’s destination. One of the apartment communities we liked a lot is [Raheja Residency](http://qik.com/video/222587) in Koramangala. Turns out we know 4 different folks who live there. On Friday, I took the day off to hit the school pavements in the morning, and a whirlwind apartment community tour in the afternoon (organized by a broker whom we enlisted). What an eventful day that was. Stay tuned for the following posts:
 
-- [The curious case of the ‘traveling’ chairman](http://ulaar.wordpress.com/2008/10/16/the-curious-case-of-the-traveling-chairman/)
+- [The curious case of the ‘traveling’ chairman](https://www.ulaar.com/2008/10/16/the-curious-case-of-the-traveling-chairman/)
 - Of High Rises and Balconies
 - The Indian Lockbox
 
-(Oct 17: Updated with link to [The curious case of the ‘traveling’ chairman](http://ulaar.wordpress.com/2008/10/16/the-curious-case-of-the-traveling-chairman/))
+(Oct 17: Updated with link to [The curious case of the ‘traveling’ chairman](https://www.ulaar.com/2008/10/16/the-curious-case-of-the-traveling-chairman/))
 

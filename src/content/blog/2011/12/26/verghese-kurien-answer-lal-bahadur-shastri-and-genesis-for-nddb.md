@@ -9,6 +9,7 @@ type: post
 id: 1178
 categories: 
     - Books
+    - India
 tags:
     - amul
     - 'amul dairy'
@@ -25,7 +26,7 @@ jabber_published:
 email_notification:
     - '1324918947'
 ---
-This story (from Verghese Kurien’s [I too had a dream](http://www.flipkart.com/books/8174364072?_l=CJHVEqJO3veuHytbACc9dw--&_r=EoK_y%20HNQZ%20%20SoWhfaoXyQ--&ref=0e3a134a-4afc-4313-b508-01461b9e883e&pid=0v23fkmtvc)) continues from [Why Lal Bahadur Shastri wanted to spend a night in a Kaira district village](http://ulaar.wordpress.com/2011/12/19/why-lal-bahadur-shastri-wanted-to-spend-a-night-in-a-kaira-district-village/).
+This story (from Verghese Kurien’s [I too had a dream](http://www.flipkart.com/books/8174364072?_l=CJHVEqJO3veuHytbACc9dw--&_r=EoK_y%20HNQZ%20%20SoWhfaoXyQ--&ref=0e3a134a-4afc-4313-b508-01461b9e883e&pid=0v23fkmtvc)) continues from [Why Lal Bahadur Shastri wanted to spend a night in a Kaira district village](https://www.ulaar.com/2011/12/19/why-lal-bahadur-shastri-wanted-to-spend-a-night-in-a-kaira-district-village/).
 
 > I assured the Prime Minister that all his observations were absolutely correct but that there was one difference, which he had failed to notice. The solitary difference was that Amul dairy was owned by the farmers themselves. The elected representatives from among the farmers managed it. These elected representatives had employed me as a professional manager to run their dairy. I was an employee of the farmers.
 > 

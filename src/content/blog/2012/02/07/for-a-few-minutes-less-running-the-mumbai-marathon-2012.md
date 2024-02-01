@@ -30,7 +30,7 @@ email_notification:
     - '1328613367'
 ---
 
-This is Part 2 of my Mumbai Marathon 2012 race report and continues from [For a few minutes less: a race report from Mumbai Marathon 2012](http://ulaar.wordpress.com/2012/02/01/for-a-few-minutes-less-a-race-report-from-mumbai-marathon-2012/).
+This is Part 2 of my Mumbai Marathon 2012 race report and continues from [For a few minutes less: a race report from Mumbai Marathon 2012](https://www.ulaar.com/2012/02/01/for-a-few-minutes-less-a-race-report-from-mumbai-marathon-2012/).
 
 **The First 7k**
 
@@ -40,7 +40,7 @@ It was the first race where I was in sole possession of last place — at the 10
 
 **7k to 21k**
 
-Maintaining an average pace of 5:56, I steadily overtook groups of runners. I slowed down going up the Pedder Road incline and, after reaching the top, went tearing down with long strides. I gained no more than 20 seconds but it was done to get the adrenaline pumping. Crossing the Bandra-Worli sea-link was fairly uneventful, especially compared to the [2010 edition](http://ulaar.wordpress.com/2010/02/14/running-the-course-mumbai-marathon-2010/). Somewhere between 15k and 20k, I overtook Rahul Verghese’s 5:30 pacing bus and Amit Sheth/Neepa Sheth’s 5:00 pacing bus. The latter was a high-octane peloton with several catchy slogans.
+Maintaining an average pace of 5:56, I steadily overtook groups of runners. I slowed down going up the Pedder Road incline and, after reaching the top, went tearing down with long strides. I gained no more than 20 seconds but it was done to get the adrenaline pumping. Crossing the Bandra-Worli sea-link was fairly uneventful, especially compared to the [2010 edition](https://www.ulaar.com/2010/02/14/running-the-course-mumbai-marathon-2010/). Somewhere between 15k and 20k, I overtook Rahul Verghese’s 5:30 pacing bus and Amit Sheth/Neepa Sheth’s 5:00 pacing bus. The latter was a high-octane peloton with several catchy slogans.
 
 **Gobs of Gu and Sacs of Salt**
 

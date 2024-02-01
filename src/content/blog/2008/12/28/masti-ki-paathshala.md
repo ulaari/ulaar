@@ -10,7 +10,7 @@ id: 131
 featured_image: ../../../../uploads/2008/12/masti-ki-paathshala.jpg
 categories: 
     - R2I
-    - 'Schools &amp; EDU'
+    - India
 tags:
     - admissions
     - bangalore
@@ -53,7 +53,7 @@ In this post, I’m not attempting a comprehensive analysis of Bangalore schools
 - Delhi Public School (DPS)
 - Bethany High School
 
-The odds were stacked against us since we arrived in Bangalore a few months after the school year had started. You are already aware of our initial tryst with NPS (described in [The curious case of the traveling chairman](http://ulaar.wordpress.com/2008/10/16/the-curious-case-of-the-traveling-chairman/)). They didn’t have any open slots for midyear admission but we applied for the next academic year. At the time of writing this post, we are awaiting news from both NPS Koramangala and NPS HSR Layout on whether they’d invite S for an admission test (in Jan and March respectively). Bethany also didn’t have any open slots for midyear admission but we had heard enough good things to keep on our list for next year. DPS, by virtue of being a solid national brand, was a strong contender but we didn’t try for midyear admission since we didn’t want S to have a long commute in the first year. Which brings us to the reasons why we ended up picking Greenwood High for S:
+The odds were stacked against us since we arrived in Bangalore a few months after the school year had started. You are already aware of our initial tryst with NPS (described in [The curious case of the traveling chairman](https://www.ulaar.com/2008/10/16/the-curious-case-of-the-traveling-chairman/)). They didn’t have any open slots for midyear admission but we applied for the next academic year. At the time of writing this post, we are awaiting news from both NPS Koramangala and NPS HSR Layout on whether they’d invite S for an admission test (in Jan and March respectively). Bethany also didn’t have any open slots for midyear admission but we had heard enough good things to keep on our list for next year. DPS, by virtue of being a solid national brand, was a strong contender but we didn’t try for midyear admission since we didn’t want S to have a long commute in the first year. Which brings us to the reasons why we ended up picking Greenwood High for S:
 
 - Several friends (including that VC friend) recommended it as a very good ‘soft landing’ for returning-from-America kids
 - While it’s a new school, the school administrators have a shared pedigree with the venerable Bethany

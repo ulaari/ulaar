@@ -37,13 +37,11 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1576" class="wp-caption alignleft" id="attachment_1576" style="width: 202px">
-
-[![](../../../../uploads/2011/08/aruna_roy_thehindu_com.jpeg "aruna_roy_thehindu_com")](http://www.ulaar.com/wp-content/uploads/2011/08/aruna_roy_thehindu_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1576">Aruna Roy (Founder - MKSS, NCPRI and National Advisory Council member) - Pic courtesy thehindu.com</figcaption></figure>
+![](../../../../uploads/2011/08/aruna_roy_thehindu_com.jpeg) Aruna Roy (Founder - MKSS, NCPRI and National Advisory Council member) - Pic courtesy thehindu.com
 
 This Saturday as I drove to the grocery store to pick up my wife and kids, I was pleasantly surprised that Radio Indigo (Bangalore’s rock radio station) was airing an interview with Ashwin Mahesh and Prithvi Reddy (two leading social activists associated with [Saaku](http://saaku.in/) (Karnataka Against Corruption), an ‘affiliate’ organization to Anna Hazare’s [India Against Corruption](http://www.indiaagainstcorruption.org/) movement). In recent weeks, I had not been paying close attention to the divergence between the Government-drafted Lok Pal and Team Anna’s Jan Lokpal so the well-articulated views from Ashwin and Prithvi were a great refresher on the topic. Some nostalgia about KQED/NPR/Terri Gross followed by wistful thoughts on “Why can’t Bangalore get a similar listener-supported radio station” but… that’s a different post.
 
-I first wrote about the [Anna Hazare affair](http://ulaar.wordpress.com/2011/04/12/the-curious-and-unexpected-affair-of-anna-the-hazare/) a few days after the ruling UPA government came to an ‘agreement’ with Hazare. I was deeply skeptical about the Jan Lok Pal and the ethics and morality of precedent-setting fasts-unto-death. My position on these views hasn’t changed in the past 4 months. If anything, my views are stronger now.
+I first wrote about the [Anna Hazare affair](https://www.ulaar.com/2011/04/12/the-curious-and-unexpected-affair-of-anna-the-hazare/) a few days after the ruling UPA government came to an ‘agreement’ with Hazare. I was deeply skeptical about the Jan Lok Pal and the ethics and morality of precedent-setting fasts-unto-death. My position on these views hasn’t changed in the past 4 months. If anything, my views are stronger now.
 
 The Indian National Interest’s (INI) FAQ post [Why Anna Hazare is wrong and Lok Pal is a bad idea](http://acorn.nationalinterest.in/2011/08/14/faq-why-is-anna-hazare-wrong-and-lok-pal-a-bad-idea/) answers 12 questions related to the Anna Hazare debate and I’m in strong agreement. As I followed the discussion on Twitter, I wondered aloud how it came about that Aruna Roy and Arvind Kejriwal, who were at the center of the Right to Information Movement and notably didn’t need to resort to fast-unto-death blackmail theatrics to get the RTI bill passed, were now using these very tactics for the Jan Lokpal.
 
@@ -72,3 +70,4 @@ The rest of this post are key excerpts (italicized) from Aruna Roy’s Tehelka i
 If you’re still reading this post, then you absolutely must read the complete Tehelka interview – [The Third Flight Path](http://www.tehelka.com/story_main50.asp?filename=Ne130811COVERSTORY.asp).
 
 Aug 16 Update: Another must-read article is Pratap Bhanu Mehta’s [Thuggish State, Unreasonable civil society](http://www.indianexpress.com/news/time-to-step-back/832365/0).
+
