@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1254
-featured_image:../../../../uploads/2012/02/scmm2012_pic51.jpeg
+featured_image: ../../../../uploads/2012/02/scmm2012_pic51.jpeg
 categories: 
     - Running
 tags:
