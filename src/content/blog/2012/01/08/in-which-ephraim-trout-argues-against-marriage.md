@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1167
-featured_image:../../../../uploads/2012/01/pgw_bach_anonymous_cover.jpg
+featured_image: ../../../../uploads/2012/01/pgw_bach_anonymous_cover.jpg
 categories: 
     - Books
 tags:
