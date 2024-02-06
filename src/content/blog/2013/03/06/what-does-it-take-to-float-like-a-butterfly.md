@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2543
+featured_image: ../../../../uploads/2013/03/ali_float_like_butterfly.jpg
 categories: 
     - Random
 tags:

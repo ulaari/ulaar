@@ -9,7 +9,6 @@ type: post
 id: 361
 featured_image: ../../../../uploads/2009/02/04012009220.jpg
 categories: 
-    - 'Car &amp; Driver'
     - India
     - R2I
 tags:

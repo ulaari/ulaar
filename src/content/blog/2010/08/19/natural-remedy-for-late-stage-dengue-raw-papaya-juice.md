@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 832
+featured_image: ../../../../uploads/2010/08/papaya_tree_maldives_today_com.jpeg
 categories: 
     - Random
 tags:
@@ -29,9 +30,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1545" class="wp-caption alignleft" id="attachment_1545" style="width: 297px">
-
-[![](../../../../uploads/2010/08/papaya_tree_maldives_today_com.jpeg "papaya_tree_maldives_today_com")](http://www.ulaar.com/wp-content/uploads/2010/08/papaya_tree_maldives_today_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1545">Pic: courtesy maldivestoday.com</figcaption></figure>
+![](../../../../uploads/2010/08/papaya_tree_maldives_today_com.jpeg)
 
 For the last 3-4 months, I’ve been reading about the many cases of dengue-related deaths in Bangalore. A colleague’s (S) daughter was also diagnosed with dengue – fortunately it turned out not to be critical and she survived. S was lamenting that dengue is a much more serious disease than Swine flu yet it receives much less media coverage. Of course the lack of hysteria might be a good thing. Another factoid that S shared is that most of the dengue fatalities (at least in Bangalore) were females under the age of 16. Yesterday we heard the tragic news that a kid from nearby Bethany High School succumbed to the disease.
 

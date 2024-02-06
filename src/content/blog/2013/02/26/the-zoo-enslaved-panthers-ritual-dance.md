@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1938
+featured_image: ../../../../uploads/2013/02/vanwageningen_net.jpeg
 categories: 
     - Books
     - Random
@@ -26,9 +27,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2538" class="wp-caption alignleft" id="attachment_2538" style="width: 275px">
-
-[![Pic courtesy vanwageningen.net](../../../../uploads/2013/02/vanwageningen_net.jpeg)](http://www.ulaar.com/wp-content/uploads/2013/02/vanwageningen_net.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2538">Pic courtesy vanwageningen.net</figcaption></figure>
+[![Pic courtesy vanwageningen.net](../../../../uploads/2013/02/vanwageningen_net.jpeg)Pic courtesy vanwageningen.net
 
 I forget where I found the extract below. But it instantly transported me to the last trip to Mysore Zoo – the description couldn’t be more spot-on.
 
@@ -50,3 +49,4 @@ Only at times, the curtain of the pupils
 lifts, quietly. An image enters in,  
 rushes down through the tensed, arrested muscles,  
 plunges into the heart and is gone.
+

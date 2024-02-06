@@ -7,8 +7,10 @@ author: vishy
 description: ''
 type: post
 id: 775
+featured_image: ../../../../uploads/2010/08/valsalva.jpg
 categories: 
     - Random
+    - Habits
 tags:
     - afrin
     - 'ear pain'
@@ -18,8 +20,6 @@ tags:
 post_format: []
 jabber_published:
     - '1281805893'
-tagazine-media:
-    - 'a:7:{s:7:"primary";s:53:"http://ulaar.files.wordpress.com/2010/08/img_5489.jpg";s:6:"images";a:1:{s:53:"http://ulaar.files.wordpress.com/2010/08/img_5489.jpg";a:6:{s:8:"file_url";s:53:"http://ulaar.files.wordpress.com/2010/08/img_5489.jpg";s:5:"width";s:4:"3072";s:6:"height";s:4:"1728";s:4:"type";s:5:"image";s:4:"area";s:7:"5308416";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"2859667";s:7:"blog_id";s:7:"2786457";s:9:"mod_stamp";s:19:"2010-08-14 17:11:33";}'
 email_notification:
     - '1281805895'
 image:
@@ -29,9 +29,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-811" class="wp-caption alignleft" id="attachment_811" style="width: 300px">
-
-[![](http://ulaar.files.wordpress.com/2010/08/img_5489.jpg?w=300 "afrin_bottle")](http://ulaar.files.wordpress.com/2010/08/img_5489.jpg)<figcaption class="wp-caption-text" id="caption-attachment-811">My inseparable flying companion for the past 12 years!</figcaption></figure>
+![](../../../../uploads/2010/08/img_5489.jpg)My inseparable flying companion for the past 12 years!
 
 *\[<span style="text-decoration: underline;">Jan 7, 2015 update</span>: seven years after I wrote this post, a helpful commenter informs us that the technique described below is called the Valsalva Maneuver. Bwana impressed!\]*
 

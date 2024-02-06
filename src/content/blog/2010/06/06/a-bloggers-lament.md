@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 601
+featured_image: ../../../../uploads/2010/06/james-joyce-quote.jpg
 categories: 
     - Random
 tags:

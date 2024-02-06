@@ -7,7 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 347
-featured_image: 
+featured_image: ../../../../uploads/2009/01/vja-library-inside.jpg
 categories: 
     - Amma
     - India

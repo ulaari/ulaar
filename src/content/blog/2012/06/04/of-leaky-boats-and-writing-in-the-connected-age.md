@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 1635
+featured_image: ../../../../uploads/2012/06/leaky-boat_1442059i_telegraph_co_uk.jpg
 categories: 
-    - Random
+    - Habits
 tags:
     - addiction
     - 'bj fogg'
@@ -25,9 +26,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1638" class="wp-caption alignleft" id="attachment_1638" style="width: 300px">
-
-[![](../../../../uploads/2012/06/leaky-boat_1442059i_telegraph_co_uk.jpg "leaky-boat_1442059i_telegraph_co_uk")](http://www.ulaar.com/wp-content/uploads/2012/06/leaky-boat_1442059i_telegraph_co_uk.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1638">Pic: courtesy telegraph.co.uk</figcaption></figure>
+![](../../../../uploads/2012/06/leaky-boat_1442059i_telegraph_co_uk.jpg)Pic: courtesy telegraph.co.uk
 
 A writer is tasked with writing an article. His progress is akin to a man’s exertions on a paddle boat. Smooth rowing strokes at rhythmic intervals gets him closer and closer to his island destination. So what’s the catch in the analogy? Why are so many writers and bloggers struggling in the age of Facebook, Twitter and perpetually updating news websites?
 

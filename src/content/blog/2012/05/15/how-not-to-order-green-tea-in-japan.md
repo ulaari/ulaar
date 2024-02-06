@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 1539
+featured_image: ../../../../uploads/2012/05/green_tea_japaneserecipes_wikia_com.jpeg
 categories: 
-    - Random
+    - Books
 tags:
     - 'art of choosing'
     - collective
@@ -27,9 +28,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1541" class="wp-caption alignleft" id="attachment_1541" style="width: 124px">
-
-[![](../../../../uploads/2012/05/green_tea_japaneserecipes_wikia_com.jpeg "green_tea_japaneserecipes_wikia_com")](http://www.ulaar.com/wp-content/uploads/2012/05/green_tea_japaneserecipes_wikia_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1541">Pic: courtesy japaneserecipes.wikia.com</figcaption></figure>
+![](../../../../uploads/2012/05/green_tea_japaneserecipes_wikia_com.jpeg)Pic: courtesy japaneserecipes.wikia.com
 
 Sheena Iyengar, in her fascinating book on choice – The Art of Choosing, shares numerous stories demonstrating the cultural psychological differences between individualistic societies (like the US) and collective societies (like Japan). The story below is particularly revealing.
 
@@ -37,4 +36,4 @@ Sheena Iyengar, in her fascinating book on choice – The Art of Choosing, share
 > 
 > My failed campaign for a cup of sweet green tea makes for an amusing story, but it also serves as shorthand for how views on choice vary by culture. From the American perspective, when a paying customer makes a reasonable request based on her personal preferences, she has every right to have those preferences met. From the perspective of the Japanese, however, the way I liked my tea was terribly inappropriate according to accepted cultural standards, and the waitstaff was simply trying to prevent me from making such an awful faux pas.
 
-This story reminded me of a Jay Leno episode. Leno goes to a Cajun restaurant in New Orleans and orders his food. Once his food reaches his table, he commits the cardinal sin of asking for ketchup. When the outraged waiter replied in the negative, (an excessively bulked up looking) Leno promptly pulls out a large ketchup bottle from his outsized coat pocket and proceeds to smother his food with ketchup… with the aghast waiter looking on.
+This story reminded me of a Jay Leno episode. Leno goes to a Cajun restaurant in New Orleans and orders his food. Once his food reaches his table, he commits the cardinal sin of asking for ketchup. When the outraged waiter replied in the negative, (an excessively bulked up looking) Leno promptly pulls out a large ketchup bottle from his outsized coat pocket and proceeds to smother his food with ketchup… as the aghast waiter looks on.

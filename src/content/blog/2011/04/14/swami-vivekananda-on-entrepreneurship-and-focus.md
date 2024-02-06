@@ -8,7 +8,7 @@ description: ''
 type: post
 id: 1077
 categories: 
-    - Random
+    - Life
 tags:
     - entrepreneurship
     - focus

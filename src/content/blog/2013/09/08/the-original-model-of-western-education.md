@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2739
+featured_image: ../../../../uploads/2013/09/thelaughingstork_com_Statshot-HowAreKidsLearning.jpg 
 categories: 
     - Random
 tags:
@@ -26,9 +27,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2766" class="wp-caption alignleft" id="attachment_2766" style="width: 300px">
-
-[![Pic courtesy thelaughingstork.com](../../../../uploads/2013/09/thelaughingstork_com_Statshot-HowAreKidsLearning.jpg)](http://www.ulaar.com/wp-content/uploads/2013/09/thelaughingstork_com_Statshot-HowAreKidsLearning.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2766">Pic courtesy thelaughingstork.com</figcaption></figure>
+![Pic courtesy thelaughingstork.com](../../../../uploads/2013/09/thelaughingstork_com_Statshot-HowAreKidsLearning.jpg)Pic courtesy thelaughingstork.com
 
 A history professor from Colorado State University (Jonathan Rees) wrote a hysterical anti-MOOC rant ([The MOOC racket](http://www.slate.com/articles/technology/future_tense/2013/07/moocs_could_be_disastrous_for_students_and_professors.html)) in Slate 6 weeks ago. As I pored through the comments and mined 12 super-interesting perspectives, captured on the TechSangam blog) – [12 MOOC perspectives you may not have heard of](http://www.techsangam.com/2013/09/08/12-mooc-perspectives/). Not directly relevant to the MOOC debate but still very educational, commenter Zarko provides a satirical history of the original model of western education.
 
@@ -43,3 +42,4 @@ A history professor from Colorado State University (Jonathan Rees) wrote a hyste
 > Which is silly. We live in an age where the root material of knowledge is freely available to virtually anyone. All colleges do is perform a certification of that knowledge – and they do so at ridiculous expense in both time and money. Why does a doctor or a lawyer need an undergraduate degree? If you took the entering freshman class of a place like Harvard and simply dumped them straight into Harvard Law, you’d get the same quality of lawyers – they wouldn’t learn anything in undergraduate that they didn’t already know that is actually necessary for a law degree.
 > 
 > The writing is on the wall for such places. The future of education will contain a small number of ‘Harvards’ to educate the sons of privilege, and a large mass of cheap education delivered outside the conventional campus model.
+

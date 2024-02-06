@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1480
+featured_image: ../../../../uploads/2012/06/clara_myrtle_grey_1917_linton-research-fund.jpg
 categories: 
     - Books
     - Random
@@ -28,13 +29,11 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1858" class="wp-caption alignleft" id="attachment_1858" style="width: 380px">
+![](../../../../uploads/2012/06/clara_myrtle_grey_1917_linton-research-fund.jpg)Clara Myrtle Grey Bird (1900-1988), photo taken in 1917. No relation to “Clara Huling” but most relevant Google Images ‘period’ match
 
-[![](../../../../uploads/2012/06/clara_myrtle_grey_1917_linton-research-fund.jpg "clara_myrtle_grey_1917_linton-research-fund")](http://www.ulaar.com/wp-content/uploads/2012/06/clara_myrtle_grey_1917_linton-research-fund.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1858">Clara Myrtle Grey Bird (1900-1988), photo taken in 1917. No relation to “Clara Huling” but most relevant Google Images ‘period’ match</figcaption></figure>
+When my [second batch of friends arrived](https://www.ulaar.com/2012/05/20/second-batch-of-friends-arrived-a-few-months-ago/) a few months ago, the most interesting book was [The Complete Works of O. Henry](http://www.goodreads.com/book/show/31624.The_Complete_Works_of_O_Henry). O Henry, which happens to be the pen name of William Sydney Porter was an American writer (from the late nineteenth century era) who mostly wrote short stories, stories known for their wit, wordplay, and clever endings.
 
-When my [second batch of friends arrived](http://www.ulaar.com/2012/05/20/second-batch-of-friends-arrived-a-few-months-ago/) a few months ago, the most interesting book was [The Complete Works of O. Henry](http://www.goodreads.com/book/show/31624.The_Complete_Works_of_O_Henry). O Henry, which happens to be the pen name of William Sydney Porter was an American writer (from the late nineteenth century era) who mostly wrote short stories, stories known for their wit, wordplay, and clever endings.
-
-I’m yet to read the hefty omnibus that I’ve been recently reunited with. The book bears my tell-tale calligraphic signature. Right below is scrawled “April 1995” which means it was from [my Chicago years](http://www.ulaar.com/2008/11/11/memories-of-an-american-life-4-years-in-chicago/).
+I’m yet to read the hefty omnibus that I’ve been recently reunited with. The book bears my tell-tale calligraphic signature. Right below is scrawled “April 1995” which means it was from [my Chicago years](https://www.ulaar.com/2008/11/11/memories-of-an-american-life-4-years-in-chicago/).
 
 In faded black ink, higher up on the same page, a clearly feminine flourish had rendered the following:
 
@@ -59,3 +58,5 @@ According to Zillow the house was built in 1931 and it’s a condo. Trulia disag
 I returned to Whitepages and Ancestry.com but the trail went cold. Or maybe this post wants to be read now.
 
 *Closing Note*: Washington DC area friends &amp; acquaintances, if you find yourself in the Washington-Foxhall area (specifically the Foxhall Village historic district), feel free to walk over to 4434 Volta Place and relate this story. If anyone locates a descendent of Clara W Huling and if they are interested in retrieving a bibliographic family heirloom, they can leave a comment on this post. 🙂
+
+*2021 Update*: As part of my clean-up purge sometime in the Covid "reopening" months, I sold most of these books (including this volume) to Blossom Books (on Church Street). And by 'sold', I mean I got store credit which is being used to purchase new (or new old) books. The next level of detachment with books (as possessions) I suppose..

@@ -23,8 +23,6 @@ tags:
 post_format: []
 jabber_published:
     - '1296928127'
-tagazine-media:
-    - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:1:{s:68:"http://ulaar.files.wordpress.com/2010/07/acorn_tweet_kid_beggars.png";a:6:{s:8:"file_url";s:68:"http://ulaar.files.wordpress.com/2010/07/acorn_tweet_kid_beggars.png";s:5:"width";s:3:"493";s:6:"height";s:2:"79";s:4:"type";s:5:"image";s:4:"area";s:5:"38947";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"2859667";s:7:"blog_id";s:7:"2786457";s:9:"mod_stamp";s:19:"2011-02-05 17:51:00";}'
 email_notification:
     - '1296928128'
 sidebar_position:

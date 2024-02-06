@@ -9,7 +9,6 @@ type: post
 id: 4248
 featured_image: ../../../../uploads/2020/07/Dodital_lake.jpg
 categories: 
-    - Outdoors
     - Running
 tags:
     - 'anton krupicka'
@@ -64,11 +63,4 @@ There are so many layers of awesomeness in the 8-min video that the trail runner
 > 
 > “You see, Everest is my Olympics and I still have to get the medal.”
 
-<figure aria-describedby="caption-attachment-4260" class="wp-caption alignnone" id="attachment_4260" style="width: 300px">
-
-[![](../../../../uploads/2020/07/Dodital_lake.jpg)](http://www.ulaar.com/wp-content/uploads/2020/07/Dodital_lake.jpg)
-
-<figcaption class="wp-caption-text" id="caption-attachment-4260">
-    Dodital Lake, one of the beautiful scenes etched in our consciousness
-</figcaption>
-</figure>
+![](../../../../uploads/2020/07/Dodital_lake.jpg) Dodital Lake, one of the beautiful scenes etched in our consciousness

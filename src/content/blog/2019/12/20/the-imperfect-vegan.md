@@ -7,11 +7,12 @@ author: vishy
 description: ''
 type: post
 id: 3942
-featured_image: ../../../../uploads/2019/12/protein_foods_protein_high.jpg
+featured_image: ../../../../uploads/2019/12/imperfect-vegan-book-pic.jpg
 categories: 
     - Food
 tags:
     - imperfect
+    - vegan
     - vegetarian
 post_format: []
 sidebar_position:

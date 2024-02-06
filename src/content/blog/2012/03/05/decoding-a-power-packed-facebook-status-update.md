@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1358
+featured_image: ../../../../uploads/2012/03/mamma_mia_pic.jpg
 categories: 
     - Random
 tags:
@@ -16,9 +17,7 @@ tags:
     - 'super mom'
 post_format: []
 ---
-<figure aria-describedby="caption-attachment-1359" class="wp-caption alignleft" id="attachment_1359" style="width: 200px">
-
-[![](../../../../uploads/2012/03/mamma_mia_pic.jpg "mamma_mia_pic")](http://www.ulaar.com/wp-content/uploads/2012/03/mamma_mia_pic.jpg)<figcaption class="wp-caption-text" id="caption-attachment-1359">Pic: courtesy Bing</figcaption></figure>
+![](../../../../uploads/2012/03/mamma_mia_pic.jpg)
 
 After a long time, I came across a Facebook status update which deserves highlighting. Here’s the 45-word beauty sans [PII](http://en.wikipedia.org/wiki/Personally_identifiable_information):
 

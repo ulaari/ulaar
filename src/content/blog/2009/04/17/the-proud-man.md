@@ -8,7 +8,6 @@ description: ''
 type: post
 id: 394
 categories: 
-    - 'Car &amp; Driver'
     - R2I
 tags:
     - driver
@@ -24,11 +23,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1607" class="wp-caption alignleft" id="attachment_1607" style="width: 299px">
+![](../../../../uploads/2009/04/maruti_suzuki_sx4_white_bsmotoring_com.jpeg)Pic: courtesy bsmotoring.com
 
-[![](../../../../uploads/2009/04/maruti_suzuki_sx4_white_bsmotoring_com.jpeg "maruti_suzuki_sx4_white_bsmotoring_com")](http://www.ulaar.com/wp-content/uploads/2009/04/maruti_suzuki_sx4_white_bsmotoring_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1607">Pic: courtesy bsmotoring.com</figcaption></figure>
-
-(Part 1 of a two part series..)
+(Part 1 of a two part series)
 
 We bought a new Maruti Suzuki SX4 in early Sep 2008. Since I was not in a terrible hurry to drive in Bangalore traffic, we had to get a driver. The initial plan was to hire a temporary driver from one of the agencies (they’d be pricey but allegedly more reliable) – the rationale being that it would take longer to find a reliable driver. The plan fizzled out quickly since all the leads I got were either defunct listings on [Asklaila](http://asklaila.com) or had gone out of business. I would find out much later (in March 2009) about EziDrive but that’s another story. We started getting driver leads from various quarters. The first lead was quite promising – a 22-year old chap (Sunil Kumar) referred by a *driver-in-Adarsh-Vihar who sorta-knew-Sunil’s-brother-in-law*. We’ll return to the italicized phrase in Part 2 of this story.
 

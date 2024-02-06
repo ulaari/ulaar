@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1361
+featured_image: ../../../../uploads/2012/03/spam_pic_seoconsultants-150x150.jpg
 categories: 
     - Random
 tags:
@@ -21,7 +22,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-[![](../../../../uploads/2012/03/spam_pic_seoconsultants-150x150.jpg "spam_pic_seoconsultants")](http://www.ulaar.com/wp-content/uploads/2012/03/spam_pic_seoconsultants.jpeg)You start seeing the following type of comments in your moderation queue:
+![](../../../../uploads/2012/03/spam_pic_seoconsultants-150x150.jpg)
+
+You start seeing the following type of comments in your moderation queue:
 
 > - Your posts gives me motivation to keep on my intention to create a blog one day. thank you for all.
 > - Thanks, this is really good blog. And truely i sometimes look here. thanks a lot and good in the future.

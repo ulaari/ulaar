@@ -7,8 +7,10 @@ author: vishy
 description: ''
 type: post
 id: 779
+featured_image: ../../../../uploads/2012/04/world_religions_scrabble_123rf.jpeg
 categories: 
-    - Random
+    - India
+    - USA
 tags:
     - bernacki
     - catholic
@@ -30,9 +32,7 @@ tags:
     - yoga
 post_format: []
 ---
-<figure aria-describedby="caption-attachment-1417" class="wp-caption alignleft" id="attachment_1417" style="width: 300px">
-
-[![](../../../../uploads/2012/04/world_religions_scrabble_123rf.jpeg "world_religions_scrabble_123rf")](http://www.ulaar.com/wp-content/uploads/2012/04/world_religions_scrabble_123rf.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1417">Pic: courtesy 123rf.com</figcaption></figure>
+![](../../../../uploads/2012/04/world_religions_scrabble_123rf.jpeg)
 
 This post has been in my Drafts folder for a whopping 20 months. I use ‘post’ loosely because when I picked it up today, it was just a collection of interesting story links and a provocative title. The original article that inspired this post was [A Hindu America?](http://www.americamagazine.org/blog/entry.cfm?blog_id=2&entry_id=3138) — in no less a publication than National *Catholic* Weekly. The author’s (Francis Clooney) own inspiration was her friend’s article in Washington Post – [A rich and strange metamorphosis: Global Hinduism](http://newsweek.washingtonpost.com/onfaith/patheos/2010/07/a_rich_and_strange_metamorphosis_glocal_hinduism.html#more). As is often my wont, I quote below the most interesting excerpts.
 
@@ -42,7 +42,9 @@ This post has been in my Drafts folder for a whopping 20 months. I use ‘post�
 4. *But no, it is not enough to broadcast our faith without listening, or to insist with open mouths and closed ears that Jesus is the way and that Christian faith is superior to religions such as Hinduism, when we — the Church — seems not understand Hinduism except in a most superficial way, and have no clue why Americans might embrace reincarnation.*
 5. *So — to turn on its head the old notion that yoga is navel-gazing — we would do well to be more yogic, more Hindu — less into Catholic-navel-gazing, and more attentive to the very interesting spiritual cultures flourishing around us, and unafraid at a diversity that we cannot control yet that does nothing to harm the uniqueness of Jesus. Attentiveness will help us to see better what it means to be a follower of Jesus in the world we actually have, in the one life given to us.*
 
-<div>The same week that I read the aforementioned articles, Orissa’s churches were in the news — it was the first time I had heard of India Evangelistic Associaton (IEA). A brief perusal of their website yielded this statement – *The primary vision of IEA is to reach the Unreached People Groups and Areas and plant churches among them*. hmm.. if tree planting is for the tree huggers, then [church planting is for.. evangelicals](http://ieaindia.org/about-iea/church-planting-pioneering-evangelism/)?</div>Against the backdrop of the soul-searching of Catholics in America, surely the time has come to stop the conversions in India?
+The same week that I read the aforementioned articles, Orissa’s churches were in the news — it was the first time I had heard of India Evangelistic Associaton (IEA). A brief perusal of their website yielded this statement – *The primary vision of IEA is to reach the Unreached People Groups and Areas and plant churches among them*. hmm.. if tree planting is for the tree huggers, then [church planting is for evangelicals](http://ieaindia.org/about-iea/church-planting-pioneering-evangelism/)?
+
+Against the backdrop of the soul-searching of Catholics in America, surely the time has come to stop the conversions in India?
 
 \*\*\*\*\*\*
 

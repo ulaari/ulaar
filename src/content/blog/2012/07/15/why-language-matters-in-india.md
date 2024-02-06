@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 1723
+featured_image: ../../../../uploads/2012/07/national_language_edited.jpeg
 categories: 
-    - Random
+    - India
 tags:
     - bangalore
     - language
@@ -22,9 +23,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1882" class="wp-caption alignleft" id="attachment_1882" style="width: 300px">
-
-[![](../../../../uploads/2012/07/national_language_edited.jpeg "national_language_edited")](http://www.ulaar.com/wp-content/uploads/2012/07/national_language_edited.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1882">Pic: courtesy upenn.edu</figcaption></figure>
+![](../../../../uploads/2012/07/national_language_edited.jpeg)Pic: courtesy upenn.edu
 
 A few weeks ago we went roller skate shopping for our older son. We avoided all the fancy sports outlet chains (who only stock skates with integrated shoes – such a scam!) After visiting a few mom-and-pop stores we went to the store where we would eventually make our purchase.
 

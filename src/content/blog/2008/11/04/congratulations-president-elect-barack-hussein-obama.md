@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 226
+featured_image: ../../../../uploads/2008/11/first_family.jpg
 categories: 
     - Random
 tags:
@@ -22,8 +23,8 @@ seo_follow:
     - 'false'
 seo_noindex:
     - 'false'
-featued_image: ../../../../uploads/2008/11/first_family.jpg    
 ---
-[![first_family](../../../../uploads/2008/11/first_family.jpg "first_family")](http://ulaar.files.wordpress.com/2008/11/first_family.jpg)
+![first_family](../../../../uploads/2008/11/first_family.jpg)
 
 What better way to celebrate Obama’s victory? Not just for America, but for the world! Thanks to my friend Fred Johnson for posting this on his [Photography by Frederick Van blog](http://frederickvan.com/blog/2008/11/04/congratulations-president-elect-barack-obama/).
+

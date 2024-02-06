@@ -8,7 +8,7 @@ description: ''
 type: post
 id: 1182
 categories: 
-    - Random
+    - Life
 tags:
     - laptop
     - macbook
@@ -18,8 +18,6 @@ tags:
 post_format: []
 jabber_published:
     - '1324896893'
-tagazine-media:
-    - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:1:{s:64:"http://ulaar.files.wordpress.com/2011/12/apple_macbook_white.jpg";a:6:{s:8:"file_url";s:64:"http://ulaar.files.wordpress.com/2011/12/apple_macbook_white.jpg";s:5:"width";s:3:"250";s:6:"height";s:3:"164";s:4:"type";s:5:"image";s:4:"area";s:5:"41000";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"2859667";s:7:"blog_id";s:7:"2786457";s:9:"mod_stamp";s:19:"2011-12-26 10:54:50";}'
 email_notification:
     - '1324896896'
 ---

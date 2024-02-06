@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1878
+featured_image: ../../../../uploads/2012/07/fifth_elephant_logo.png
 categories: 
     - Random
 tags:
@@ -28,9 +29,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1942" class="wp-caption alignleft" id="attachment_1942" style="width: 300px">
-
-[![](../../../../uploads/2012/07/fifth_elephant_logo.png "fifth_elephant_logo")](http://www.ulaar.com/wp-content/uploads/2012/07/fifth_elephant_logo.png)<figcaption class="wp-caption-text" id="caption-attachment-1942">Pic: courtesy HasGeek</figcaption></figure>
+![](../../../../uploads/2012/07/fifth_elephant_logo.png)Pic: courtesy HasGeek
 
 Q: What is The Fifth Elephant?
 

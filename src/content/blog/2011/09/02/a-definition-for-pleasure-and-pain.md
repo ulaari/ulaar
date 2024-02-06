@@ -7,7 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 1134
+featured_image: ../../../../uploads/2011/09/mantra-meditation-book-cover.jpg
 categories: 
+    - Books
     - Random
 tags:
     - definition
@@ -35,3 +37,4 @@ The Lawbook of Manu (IV.60) states:
 *Know this to be, briefly, the definition*
 
 *of pain and pleasure.*
+

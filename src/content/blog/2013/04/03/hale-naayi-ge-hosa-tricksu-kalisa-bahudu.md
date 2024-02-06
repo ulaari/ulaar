@@ -27,11 +27,9 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2595" class="wp-caption alignleft" id="attachment_2595" style="width: 284px">
+![Pic courtesy sourceforge.net](../../../../uploads/2013/04/kannada_keyboard_layout.jpeg)Pic courtesy sourceforge.net
 
-[![Pic courtesy sourceforge.net](../../../../uploads/2013/04/kannada_keyboard_layout.jpeg)](http://www.ulaar.com/wp-content/uploads/2013/04/kannada_keyboard_layout.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2595">Pic courtesy sourceforge.net</figcaption></figure>
-
-English translation of title: You CAN teach an old dog new tricks – one small story!
+English translation of title: You CAN teach an old dog new tricks – a small story!
 
 A few months ago, I finally enrolled for a Kannada Learning class. 4 1/2 years after moving to Bangalore, the time had finally arrived. 4 weekends (8 classes 2 hours each) conducted in the apartment common room – it couldn’t be more convenient. Highly recommend the class taught by the [Kannada Learning School](https://www.facebook.com/KannadaLearningSchool) – an algorithmic and pattern-based approach to teaching Kannada.
 

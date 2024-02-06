@@ -7,8 +7,9 @@ author: vishy
 description: ''
 type: post
 id: 1161
+featured_image: ../../../../uploads/2011/09/mantra-meditation-book-cover.jpg
 categories: 
-    - Random
+    - Books
 tags:
     - mankind
     - mantra

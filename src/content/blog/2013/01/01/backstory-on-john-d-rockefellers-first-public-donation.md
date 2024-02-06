@@ -9,8 +9,6 @@ type: post
 id: 2409
 categories: 
     - Books
-    - Random
-    - Vivekananda
 tags:
     - 'emma calve'
     - hindu
@@ -27,9 +25,7 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2410" class="wp-caption alignleft" id="attachment_2410" style="width: 250px">
-
-[![](../../../../uploads/2013/01/john-d-rockefeller_storiesofusa_com.jpg "irocker001p1")](http://www.ulaar.com/wp-content/uploads/2013/01/john-d-rockefeller_storiesofusa_com.jpg)<figcaption class="wp-caption-text" id="caption-attachment-2410">John D. Rockefeller (Pic courtesy storiesofusa.com)</figcaption></figure>
+[![](../../../../uploads/2013/01/john-d-rockefeller_storiesofusa_com.jpg)John D. Rockefeller (Pic courtesy storiesofusa.com)
 
 My most inspired Kindle purchase in 2012 (for a ‘princely’ sum of $1.99) was [The Complete Works of Swami Vivekananda](http://www.amazon.com/Complete-Works-Swami-Vivekananda-ebook/dp/B004NIFSQ6/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1357026038&sr=1-1&keywords=swami+vivekananda). Last night I learnt that John D. Rockefeller’s first meeting with Swami Vivekananda (as recorded in Madame Verdier’s journey in New Discoveries) served as a trigger to the former’s first ever donation for public good – wow! The Rockefeller Foundation is celebrating its centennial this year. Below is the fascinating story as recounted by Madame Emma Calvé to Madame Drinette Verdier.
 

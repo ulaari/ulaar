@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2865
+featured_image: ../../../../uploads/2014/02/jan-koum.jpg
 categories: 
     - Random
 tags:

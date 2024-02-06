@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 2476
+featured_image: ../../../../uploads/2013/01/aws-logo.png
 categories: 
     - Random
 tags:

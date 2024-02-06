@@ -1,5 +1,5 @@
 ---
-title: 'If you want to ‘feel’ the American civil rights movement, listen to this song'
+title: 'If you want to FEEL the American civil rights movement, listen to this song'
 date: '2011-09-10T22:29:51+05:30'
 status: publish
 permalink: /2011/09/10/if-you-want-to-feel-the-american-civil-rights-movement-listen-to-this-song
@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1146
+featured_image: ../../../../uploads/2011/09/missisippi-goddam.png
 categories: 
     - Random
 tags:
@@ -28,7 +29,7 @@ tagazine-media:
 ---
 **Mississippi Goddam by Nina Simone**
 
-By Nina Simone’s own admission, this was her first civil rights song. It was inspired by the murder of four girls in the bombing of the 16th Street Baptist Church on 15 September 1963 by members of the Ku Klux Klan. It is, by far, one of the most powerful protest songs of the time… Lyrics of the song below but you really ought to go listen to this song.
+By Nina Simone’s own admission, this was her first civil rights song. It was inspired by the murder of four girls in the bombing of the 16th Street Baptist Church on 15 September 1963 by members of the Ku Klux Klan. It is, by far, one of the most powerful protest songs of the time… Lyrics of the song below but you really ought to go [listen to this song](https://music.youtube.com/watch?v=4tHYGfRot5w).
 
 > The name of this tune is Mississippi Goddam
 > 
@@ -134,3 +135,4 @@ By Nina Simone’s own admission, this was her first civil rights song. It was i
 > Everybody knows about Mississippi  
 > Everybody knows about Alabama  
 > Everybody knows about Mississippi Goddam
+

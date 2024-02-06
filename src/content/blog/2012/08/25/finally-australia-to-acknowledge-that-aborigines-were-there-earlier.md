@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 1262
+featured_image: ../../../../uploads/2012/08/aboriginal_didjshop_com.jpeg
 categories: 
     - Random
 tags:
@@ -26,15 +27,13 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-2035" class="wp-caption alignleft" id="attachment_2035" style="width: 273px">
-
-[![](../../../../uploads/2012/08/aboriginal_didjshop_com.jpeg "aboriginal_didjshop_com")](http://www.ulaar.com/wp-content/uploads/2012/08/aboriginal_didjshop_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-2035">An Aboriginal Didgeridoo player (Pic courtesy didjshop.com)</figcaption></figure>
+![](../../../../uploads/2012/08/aboriginal_didjshop_com.jpeg)An Aboriginal Didgeridoo player (Pic courtesy didjshop.com)
 
 Eleven years ago, my wife and I made our first (and so far only) trip to Australia. A two-week trip spent largely in the Melbourne area and two days in Sydney. Australia lived up to its promise of a vast beautiful country — beaches, mountains, countryside, the works. The pleasure of walking around downtown Melbourne was enhanced by the numerous stops at coffee shops to enjoy “flat whites” (a guaranteed hit for the desi coffee palate).
 
 Two days in Sydney was never going to be enough so hopping into a tourist bus seemed like a good idea on day 1.. and it sure was. It was one of those buses with pre-recorded audio snippets being played out between (and at) various points of interest. The “Say what?” moment came soon enough when the tour guide referred to the Aborigines as “occupiers.”
 
-Hmm… “occupied”. As in, *residents* of the land eons before the first European settlers came to Australia. At least the Americans didn’t have the impunity to refer to the American Indians as “occupiers” \[Related: [how the West was lost](http://www.ulaar.com/2012/02/08/how-the-west-was-lost-short-version/)\].
+Hmm… “occupied”. As in, *residents* of the land eons before the first European settlers came to Australia. At least the Americans didn’t have the impunity to refer to the American Indians as “occupiers” \[Related: [how the West was lost](https://www.ulaar.com/2012/02/08/how-the-west-was-lost-short-version/)\].
 
 Imagine my surprise when I came across an article on Impunity Watch (Syracuse University Law School’s interactive journal) which starts with..
 

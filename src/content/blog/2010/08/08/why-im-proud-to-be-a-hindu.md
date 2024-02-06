@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 814
+featured_image: ../../../../uploads/2010/08/tharoor-book-cover.jpg
 categories: 
     - Books
     - Random
@@ -33,9 +34,8 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1604" class="wp-caption alignleft" id="attachment_1604" style="width: 160px">
+![](../../../../uploads/2010/08/tharoor_mid_to_mill.gif)
 
-[![](../../../../uploads/2010/08/tharoor_mid_to_mill.gif "tharoor_mid_to_mill")](http://tharoor.in/books/india-from-midnight-to-the-millenium/)<figcaption class="wp-caption-text" id="caption-attachment-1604">Pic: courtesy tharoor.in</figcaption></figure>
 
 Someday (way in the future) I wanted to write this post. The thoughts were clear in the head but there were several more interesting posts queued ahead in my WordPress Drafts folder. During my last business trip, I finally started reading Shashi Tharoor’s [India – From Midnight to the Millennium and Beyond](http://tharoor.in/books/india-from-midnight-to-the-millenium/). When I read Chapter 3 (specifically pages 56-57), I realized that Tharoor has articulated the gist of my thoughts on the subject. While the nuanced version of this blog post can wait, here’s the relevant extract from Tharoor’s book:
 

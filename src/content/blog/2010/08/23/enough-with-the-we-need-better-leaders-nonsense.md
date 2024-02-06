@@ -7,6 +7,7 @@ author: vishy
 description: ''
 type: post
 id: 839
+featured_image: ../../../../uploads/2010/08/leader_graphic_kamyabology_com.jpeg 
 categories: 
     - India
 tags:
@@ -19,8 +20,6 @@ jabber_published:
     - '1282585063'
 email_notification:
     - '1282585065'
-tagazine-media:
-    - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:1:{s:78:"http://ulaar.files.wordpress.com/2010/08/enuf_with_better_leaders_nonsense.jpg";a:6:{s:8:"file_url";s:78:"http://ulaar.files.wordpress.com/2010/08/enuf_with_better_leaders_nonsense.jpg";s:5:"width";s:3:"545";s:6:"height";s:2:"90";s:4:"type";s:5:"image";s:4:"area";s:5:"49050";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"2859667";s:7:"blog_id";s:7:"2786457";s:9:"mod_stamp";s:19:"2010-08-23 17:37:37";}'
 image:
     - ''
 seo_follow:
@@ -28,13 +27,11 @@ seo_follow:
 seo_noindex:
     - 'false'
 ---
-<figure aria-describedby="caption-attachment-1591" class="wp-caption alignleft" id="attachment_1591" style="width: 139px">
-
-[![](../../../../uploads/2010/08/leader_graphic_kamyabology_com.jpeg "leader_graphic_kamyabology_com")](http://www.ulaar.com/wp-content/uploads/2010/08/leader_graphic_kamyabology_com.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-1591">Pic: courtesy kamyabology.com</figcaption></figure>
+![](../../../../uploads/2010/08/leader_graphic_kamyabology_com.jpeg)
 
 I posted the tweet (see below) after reading the 100th Independence Day tweet (from celebrity, non-celebrity and sundry) bemoaning the state of the nation and placing the blame squarely on the corrupt political leaders. Since some of my tweets are selectively published to Facebook, an interesting discussion started which I’m reproducing with the commenter’s permission. My friend VS’s theory is particularly thought-provoking.
 
-[![](../../../../uploads/2010/08/enuf_with_better_leaders_nonsense.jpg "enuf_with_better_leaders_nonsense")](http://www.ulaar.com/wp-content/uploads/2010/08/enuf_with_better_leaders_nonsense.jpg)
+![](../../../../uploads/2010/08/enuf_with_better_leaders_nonsense.jpg)
 
 > *HB: Totally agreed !! And to be honest I have no hopes the this can happen, not matter how much advance we become in terms of technology and things like that, no matter where we leave or get educated from. Seems these are so much intertwined in our genes; hope evolution helps. 🙂*
 
