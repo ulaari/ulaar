@@ -108,9 +108,6 @@ class Header extends React.Component {
                 <Link to="/categories/amma">AMMA</Link>
               </li>
               <li className="nav-item">
-                <Link to="/categories/food">FOOD</Link>
-              </li>
-              <li className="nav-item">
                 <Link to="/categories/habits">HABITS</Link>
               </li>
               <li className="nav-item">
@@ -123,13 +120,16 @@ class Header extends React.Component {
                 <Link to="/categories/minimalism">MINIMALISM</Link>
               </li>
               <li className="nav-item">
-                <Link to="/categories/running">RUNNING</Link>
-              </li>
-              <li className="nav-item">
-                <Link to="/categories/squash">SQUASH</Link>
-              </li>
-              <li className="nav-item">
                 <Link to="/categories/usa">USA</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/food">[EAT]</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/running">[RUN]</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/squash">[SQUASH]</Link>
               </li>
             </ul>
           </nav>
@@ -143,9 +143,6 @@ class Header extends React.Component {
                 <Link to="/categories/amma">AMMA</Link>
               </li>
               <li className="nav-item">
-                <Link to="/categories/food">FOOD</Link>
-              </li>
-              <li className="nav-item">
                 <Link to="/categories/habits">HABITS</Link>
               </li>
               <li className="nav-item">
@@ -158,13 +155,16 @@ class Header extends React.Component {
                 <Link to="/categories/minimalism">MINIMALISM</Link>
               </li>
               <li className="nav-item">
-                <Link to="/categories/running">RUNNING</Link>
-              </li>
-              <li className="nav-item">
-                <Link to="/categories/squash">SQUASH</Link>
-              </li>
-              <li className="nav-item">
                 <Link to="/categories/usa">USA</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/food">[EAT]</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/running">[RUN]</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/categories/squash">[SQUASH]</Link>
               </li>
             </ul>
           </nav>
