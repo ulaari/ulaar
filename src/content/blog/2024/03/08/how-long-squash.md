@@ -115,11 +115,11 @@ Yes - I’m fully aware that my game doesn’t reflect the 6+ years and I’m wo
 - *Mark Talbott*: still head coach at Stanford, continues to rack up oodles of achievements, as his [bio](https://gostanford.com/sports/womens-squash/roster/coaches/mark-talbott/4643) eloquently outlines.
 - *Richard Elliot*: started Squash Zone - an exclusive squash facility (with 8 courts & 4 pro coaches) in Redwood Shores
 - *Jon Perry*: still *the* pro at Bay Club Santa Clara
-- *Mark Greenfield*: by a strange coincidence, he too has returned to squash last year (plays at Squash Zone).
+- *Mike Greenfield*: by a strange coincidence, he too has returned to squash last year (plays at Squash Zone).
 - *Uttam*: 20 yrs ago he was still a smoker and hadn’t touched a squash racquet in years.
 - *JD*: funded a squash facility at a university in Tampa which, among other things, gives him playing privileges and an endless supply of playing partners :) you go JD!
 - *Shouvik*: plays weekly in Atlanta. He shared this fun fact *“the world master over 80 y.o is from our club in Atlanta - read about him - he still plays regularly and kicks most of our butts - get inspired folks”* . ([About Michael Gough](https://ussquash.org/2022/08/team-usas-gough-wins-world-masters-80-title/) - 75+ World Masters title in 2014 and 80+ title in 2022 - wow!)
-- *Sanju*: his daughter played collegiate level tennis for Princeton. Awaiting a squash update.
+- *Sanju*: his daughter played collegiate level tennis for Yale. Alas he no longer plays squash.
 - *Rajan*: the architect of getting us into Beldih Club (detailed story can only be 'told', not written). His squash update *“last played at ClubSport San Ramon probably about 6 yrs ago..always loved the cardio it offered and was playing regularly in winter months but it just got too popular with all the desis moving into the area with only two courts vs 12 tennis courts. My preference has always been for outdoor sports so tennis remains the primary sport for me. Still have a few squash rackets laying around just in case…”*
 - *Vochak*: both his daughters played collegiate level tennis for University of Dallas. After his kids got serious on tennis, there was no time for squash so he became a “tennis dad”. He last won a tourney in Minneapolis (mid ‘90’s) and last played 14 years ago. However, my squash love-fest post seems to have triggered something as he’s brought out his gear and is talking about getting back on the court soon - yay!
 
